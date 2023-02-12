@@ -1,4 +1,6 @@
-## Content
+This repository contains a list of references. It should not contain any source code. Folders perhaps include some PDF files or README files.
+
+## AI
 - youtube channels
     - [Full Stack Deep Learning - 2022](https://www.youtube.com/playlist?list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur)
     - [Lex Fridman youtube channel](https://www.youtube.com/c/lexfridman)
@@ -11,6 +13,8 @@
     - [Harvard CS197: AI Research Experiences – The Course Book](https://docs.google.com/document/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/)
 - courses
     - [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
+- projects
+    - [138 Data Science Projects You Can Try with Python](https://python.plainenglish.io/85-data-science-projects-c03c8750599e)
 - Kaggle
     - [The Most Comprehensive List of Kaggle Solutions and Ideas](https://farid.one/kaggle-solutions/)
 - Moein Shariatnia
@@ -22,3 +26,92 @@
 - Misc
     - [https://www.connectedpapers.com/](https://www.connectedpapers.com/)
     - [the ai summer](https://theaisummer.com/)
+
+
+## Linux
+    - [Some commands](https://twitter.com/javarevisited/status/1576089457870061568)
+    - [Linux vs Unix](https://twitter.com/BendikMatej/status/1575796900401278976)
+
+
+## Blockchain
+- courses
+    - ocw blockchain engineering and design
+	- two local videos downloaded from youtube: 32h, 16h
+	- https://www.freecodecamp.org/news/tag/blockchain/
+	- https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/
+	- https://www.freecodecamp.org/news/learn-solidity-blockchain-and-smart-contracts-in-a-free/
+	- https://www.classcentral.com/course/freecodecamp-solidity-blockchain-and-smart-contract-course-beginner-to-expert-python-tutorial-57033
+	- https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video_galleries/video-lectures/
+	- blockchain and money course - MIT
+	    - https://www.youtube.com/watch?v=EH6vE97qIP4
+	- https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC
+	- https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V
+	- https://www.youtube.com/watch?v=0xaLT4Svzgo
+	- https://ocw.mit.edu/courses/18-821-project-laboratory-in-mathematics-spring-2013/
+	- https://ocw.mit.edu/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/
+	- https://ocw.mit.edu/search/?q=blockchain&s=department_course_numbers.sort_coursenum
+	- https://www.algoexpert.io/blockchain/product
+- papers
+	- Blockchain and Applications international conferences
+        - other blockchain conferences
+        - algo trading conferences
+        - journals
+	- scholar: survey blockchain
+	- scholar: transformer time-series
+- books
+    - proof of stake by Vitalik Buterin
+- exchange
+	- wallet integration
+	- binance API integration
+	- kucoin API integration
+	- Core Middleware Wallet & Asset Manager System
+	- Core Deposit Watchtower Platform
+	- ETH, BTC, TRON Warm Wallet, Asset Manager & Deposit Watchtower
+	- ERC20 and TRC20 integration.
+	- WAF Protection for the core wallet applications.
+	- Core Accounting Service: This is the service that is in charge of handling user balances and it is involved in almost every request that the client may make on the platform.
+	- Orders Matching Engine: This service is handling orders and it is reporting the trades that should be submitted to the system.
+	- Liquidity Making Automation: The architecture and the algorithm of this service are one of the most complex ones on the platform because it should maintain the liquidity on the exchange meanwhile keeping the load on other services as low as possible.
+	- Customized Load Balancing Design: one of the key features of RCv5 system design was the ability to scale horizontally which needed the specific protocols on the load balancing procedures.
+	- Fraud Control System: The most Complex system logic in the platform which required a deep understanding of the business in order to detect potential frauds in the platform be able and to avoid them.
+	- copy trading
+	- dex smartcontract
+    - nft marketplace
+    - wallex trading bot
+	- https://rabincash.com/
+	- https://www.linkedin.com/company/clanzofficial/
+	- https://twitter.com/cz_binance/status/1600204213908230144/photo/1
+	- https://twitter.com/Algorand
+- metaverse
+	- Sand token, Land token, Goverance token, soft fork voting, alpha mega events, sandbox integration opensource projects, game maker, apolyx.com
+	- ar/vr + blockchain
+- algo trading
+	- mql vs python
+	- price prediction with chatgpt
+- jobs
+    - https://www.linkedin.com/jobs/view/3402863409/
+
+
+## HTTP
+    - [HTTP1,2,3](https://twitter.com/sahnlam/status/1575715452440887296)
+
+
+## Marketing
+- books
+    - [1](https://twitter.com/Aazarshad/status/1574745775937945600)
+
+## Locomotive
+- [Podcast](http://locomo.tips/podcast/)
+- Twitter
+    - [Jeff Dean](https://twitter.com/Loc0m0/status/1565177889296764928)
+    - [programmer](https://twitter.com/Loc0m0/status/1513688441057210377)
+    - [startup vs company](https://twitter.com/Loc0m0/status/1566366156901871616)
+    - [facts about programming](https://twitter.com/Loc0m0/status/1612692005267853312)
+    - [facts about programming (cont)](https://twitter.com/Loc0m0/status/1613054324669829120)
+    - [self love](https://twitter.com/Loc0m0/status/1613813173576171522)
+    - [interview for getting job in USA](https://twitter.com/Loc0m0/status/1617770894277103619)
+    - [?](https://twitter.com/Loc0m0/status/1617770915827453954)
+    - [junior vs senior](https://twitter.com/Loc0m0/status/1623585934259425281)
+    - [starlink](https://twitter.com/Loc0m0/status/1583365549131603968)
+    - [Don't get arrested](https://twitter.com/Loc0m0/status/1586279906144501760)
+    - [jobs](https://twitter.com/Loc0m0/status/1599308373844901889)
