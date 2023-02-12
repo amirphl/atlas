@@ -1,18 +1,24 @@
 ## Content
-- [Full Stack Deep Learning - 2022](https://www.youtube.com/playlist?list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur)
-- [The Most Comprehensive List of Kaggle Solutions and Ideas](https://farid.one/kaggle-solutions/)
-- [Harvard CS197: AI Research Experiences – The Course Book](https://docs.google.com/document/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/)
-- [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
-- [theaisummer](https://theaisummer.com/)
-- [Best AI and Deep learning books to read in 2022](https://theaisummer.com/deep-learning-books-2022/)
-- [https://www.connectedpapers.com/](https://www.connectedpapers.com/)
-- [Git Re-Basin: Merging Models modulo Permutation Symmetries](https://arxiv.org/abs/2209.04836)
-- [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682)
-- [A platform that brings together the global AI community with impact-driven organizations to build real-world AI solutions.](https://omdena.com/)
-- [Lex Fridman youtube channel](https://www.youtube.com/c/lexfridman)
-- [Moein Shariatnia in Medium](https://medium.com/@moein.shariatnia)
-- [Easy Object Detection with Transformers: Simple Implementation of Pix2Seq Model in PyTorch](https://pub.towardsai.net/easy-object-detection-with-transformers-simple-implementation-of-pix2seq-model-in-pytorch-fde3e7162ce7)
-- [2-year journey into deep learning as a medical student — Part I: Initial Steps and the Books](https://medium.com/@moein.shariatnia/my-2-year-journey-into-deep-learning-as-a-medical-student-part-i-initial-steps-and-the-books-d9460d4d82d7)
-- [2-year journey into deep learning as a medical student](https://medium.com/@moein.shariatnia/my-2-year-journey-into-deep-learning-as-a-medical-student-part-ii-courses-55008ba4aae1)
-- [2-year journey into deep learning: Part III — Resources to get practice and stay up to date](https://medium.com/@moein.shariatnia/my-2-year-journey-into-deep-learning-part-iii-resources-to-get-practice-and-stay-up-to-date-a5f4aff3a76a)
-- 
+- youtube channels
+    - [Full Stack Deep Learning - 2022](https://www.youtube.com/playlist?list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur)
+    - [Lex Fridman youtube channel](https://www.youtube.com/c/lexfridman)
+- papers
+    - [Git Re-Basin: Merging Models modulo Permutation Symmetries](https://arxiv.org/abs/2209.04836)
+    - [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682)
+    - [A platform that brings together the global AI community with impact-driven organizations to build real-world AI solutions.](https://omdena.com/)
+- books
+    - [Best AI and Deep learning books to read in 2022](https://theaisummer.com/deep-learning-books-2022/)
+    - [Harvard CS197: AI Research Experiences – The Course Book](https://docs.google.com/document/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/)
+- courses
+    - [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
+- Kaggle
+    - [The Most Comprehensive List of Kaggle Solutions and Ideas](https://farid.one/kaggle-solutions/)
+- Moein Shariatnia
+    - [Medium](https://medium.com/@moein.shariatnia)
+    - [Easy Object Detection with Transformers: Simple Implementation of Pix2Seq Model in PyTorch](https://pub.towardsai.net/easy-object-detection-with-transformers-simple-implementation-of-pix2seq-model-in-pytorch-fde3e7162ce7)
+    - [2-year journey into deep learning as a medical student — Part I: Initial Steps and the Books](https://medium.com/@moein.shariatnia/my-2-year-journey-into-deep-learning-as-a-medical-student-part-i-initial-steps-and-the-books-d9460d4d82d7)
+    - [2-year journey into deep learning as a medical student](https://medium.com/@moein.shariatnia/my-2-year-journey-into-deep-learning-as-a-medical-student-part-ii-courses-55008ba4aae1)
+    - [2-year journey into deep learning: Part III — Resources to get practice and stay up to date](https://medium.com/@moein.shariatnia/my-2-year-journey-into-deep-learning-part-iii-resources-to-get-practice-and-stay-up-to-date-a5f4aff3a76a)
+- Misc
+    - [https://www.connectedpapers.com/](https://www.connectedpapers.com/)
+    - [the ai summer](https://theaisummer.com/)
