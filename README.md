@@ -28,9 +28,74 @@ This repository contains a list of references. It should not contain any source 
     - [the ai summer](https://theaisummer.com/)
 
 
-## Linux
-    - [Some commands](https://twitter.com/javarevisited/status/1576089457870061568)
-    - [Linux vs Unix](https://twitter.com/BendikMatej/status/1575796900401278976)
+## Golang
+- learning
+	- https://github.com/GoesToEleven/GolangTraining/
+	- golang 11 projects
+	- https://go.dev/doc/
+	- https://go.dev/doc/effective_go
+	- https://go.dev/blog/slices-intro
+	- https://go.dev/blog/slices
+	- https://go.dev/blog/strings
+    - https://go.dev/ref/spec
+	- https://gobyexample.com/
+	- https://gowebexamples.com/
+	- https://gophercises.com/
+	- https://www.ardanlabs.com/
+	- book: The Go Programming Language
+	- book: webrtc in pion
+- third party libs
+	- https://github.com/pion/webrtc
+	- 1000 top libs
+	- google: golang projects
+- links
+	- https://www.developer.com/languages/arrays-slices-golang/
+	- https://blog.devgenius.io/the-difference-between-arrays-and-slices-in-golang-6a7b3781c14a
+	- https://www.godesignpatterns.com/2014/05/arrays-vs-slices.html
+	- https://tpaschalis.github.io/channels-limitations-speed/
+	- https://go101.org/article/channel.html
+	- https://stackoverflow.com/questions/11943841/what-is-channel-buffer-size
+	- https://stackoverflow.com/questions/28886616/convert-array-to-slice-in-go
+	- https://developer.mozilla.org/en-US/docs/Glossary/CRLF
+	- EOF character
+	- https://github.com/akka/akka
+	- https://stackoverflow.com/questions/21494157/akka-or-similar-alternative-for-golang-to-support-distributed-concurrency
+	- https://www.geeksforgeeks.org/class-and-object-in-golang/
+	- https://golangbot.com/structs-instead-of-classes/
+	- https://stackoverflow.com/questions/24790175/when-is-the-init-function-run
+	- https://stackoverflow.com/questions/22892120/how-to-generate-a-random-string-of-a-fixed-length-in-go
+	- https://quera.org/contest/assignments/45362/problems/156377
+	- https://quera.org/blog/codecup-7-golang-warm-up-solutions/
+	- https://github.com/stuartcarnie/go-simd
+	- https://stackoverflow.com/questions/15520590/comparison-and-ordering-in-go
+	- https://pkg.go.dev/golang.org/x/time/rate
+	- https://en.wikipedia.org/wiki/Single_instruction,_multiple_data
+	- https://medium.com/golangspec/comparison-operators-in-go-910d9d788ec0
+	- https://stackoverflow.com/questions/20309751/is-it-possible-to-define-equality-for-named-types-structs
+	- https://stackoverflow.com/questions/5801008/go-and-operators
+	- https://stackoverflow.com/questions/13870845/converting-from-an-integer-to-its-binary-representation
+	- https://stackoverflow.com/questions/56605810/how-to-define-bit-literals-in-go
+	- https://stackoverflow.com/questions/6963078/how-to-convert-int-to-uint8
+	- https://cloud.google.com/products
+	- https://cloud.google.com/serverless
+	- https://community.hetzner.com/tutorials/basic-cloud-config
+	- https://docs.hetzner.cloud/#labels
+- patterns
+	- https://refactoring.guru/design-patterns/go
+	- https://github.com/donnemartin/system-design-primer
+	- system design interview youtube
+	- patterns, layouts, project boilerplate
+	- https://dev.to/mauriciolinhares/gof-design-patterns-that-still-make-sense-in-go-27k5
+	- http://golangbyexample.com/all-design-patterns-golang/
+	- https://medium.com/swlh/design-patterns-in-go-d90e7866deff
+	- https://github.com/PacktPublishing/Go-Design-Patterns
+	- https://www.godesignpatterns.com/
+	- https://github.com/ismanf/golang-design-patterns
+	- https://www.reactivemanifesto.org/
+	- https://www.youtube.com/watch?v=HHqv3_rUr88
+	- https://www.youtube.com/watch?v=s-HXwLqC45c
+	- https://www.youtube.com/watch?v=F365lY5ECGY
+	- https://www.udemy.com/course/design-patterns-go/
 
 
 ## Blockchain
@@ -92,13 +157,20 @@ This repository contains a list of references. It should not contain any source 
     - https://www.linkedin.com/jobs/view/3402863409/
 
 
+## Linux
+- Misc
+    - [Some commands](https://twitter.com/javarevisited/status/1576089457870061568)
+    - [Linux vs Unix](https://twitter.com/BendikMatej/status/1575796900401278976)
+
+
 ## HTTP
+- Misc
     - [HTTP1,2,3](https://twitter.com/sahnlam/status/1575715452440887296)
 
 
 ## Marketing
 - books
-    - [1](https://twitter.com/Aazarshad/status/1574745775937945600)
+    - https://twitter.com/Aazarshad/status/1574745775937945600
 
 ## Locomotive
 - [Podcast](http://locomo.tips/podcast/)
