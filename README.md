@@ -44,10 +44,14 @@ This repository contains a list of references. It should not contain any source 
 	- https://www.ardanlabs.com/
 	- book: The Go Programming Language
 	- book: webrtc in pion
+    - https://go.dev/doc/code
+    - https://go.dev/ref/mod
 - third party libs
 	- https://github.com/pion/webrtc
 	- 1000 top libs
 	- google: golang projects
+- editor
+    - https://github.com/golang/vscode-go/wiki/
 - links
 	- https://www.developer.com/languages/arrays-slices-golang/
 	- https://blog.devgenius.io/the-difference-between-arrays-and-slices-in-golang-6a7b3781c14a
@@ -155,6 +159,21 @@ This repository contains a list of references. It should not contain any source 
 	- price prediction with chatgpt
 - jobs
     - https://www.linkedin.com/jobs/view/3402863409/
+
+
+## Best Practices
+- https://github.com/elsewhencode/project-guidelines
+- https://github.com/GoogleChrome/lighthouse
+- https://github.com/OWASP/CheatSheetSeries
+- https://github.com/inancgumus/learngo
+- https://github.com/trimstray/nginx-admins-handbook
+- https://github.com/uber-go/guide
+- https://github.com/Sairyss/domain-driven-hexagon
+- https://github.com/OWASP/wstg
+- https://github.com/decalage2/awesome-security-hardening
+- https://github.com/gothinkster/golang-gin-realworld-example-app
+- https://github.com/denji/nginx-tuning
+- https://github.com/futurice/backend-best-practices
 
 
 ## Linux
