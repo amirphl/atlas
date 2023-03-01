@@ -103,6 +103,18 @@ This repository contains a list of references. It should not contain any source 
 	- https://www.udemy.com/course/design-patterns-go/
 
 
+## Python:
+- django - DRF - two scoop
+- static method, static class, class attribute, instance attribute, class method, instance method, methods and runtime complexity: [list, reversed, set, unordered_set, stack, queue, deque, slot, namedtuple, tuple, dict, unordered_dict], set: [&, |], &, |, ^, !, yield, generator, decorator, mixin, defaultdict, lambda functions, functional programming, object-oriented programming concept of encapsulation, abstraction, multi inheritance, doctype, PEP 8 coding style, python2 vs 3, numpy, datetime, seeking and scanning a file, os, sys, set_printoptions, python deprecation warnings, call by ref, call by value, is vs ===, compare by ref or value, np.array_equal(a,b), linalg.eig() and .matmul(), linalg.inv() and .dot(), linalg.det() and .dot(), linalg.inv() and .eye(), Series and DataFrames, string is immutable?, zip, enumerate, python data types, double and long data types, (256).bit_length(), remove vs pop, itertools, pathlib, decorators, map, filter, zip, lambda, breakpoint
+- how to
+	- take a snapshot of all the packages and libraries in your virtual environment
+	- scan the health of your Python ecosystem while inside a virtual environment
+- What do you get if you apply numpy.sum() to a list that contains only Boolean values?
+- https://www.geeksforgeeks.org/namedtuple-in-python/?ref=lbp
+- https://github.com/tiangolo/fastapi
+- https://github.com/python-mode/python-mode
+
+
 ## Blockchain
 - courses
     - ocw blockchain engineering and design
