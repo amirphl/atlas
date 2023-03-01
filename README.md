@@ -1,5 +1,6 @@
 This repository contains a list of references. It should not contain any source code. Folders perhaps include some PDF files or README files.
 
+
 ## AI
 - youtube channels
     - [Full Stack Deep Learning - 2022](https://www.youtube.com/playlist?list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur)
@@ -161,19 +162,149 @@ This repository contains a list of references. It should not contain any source 
     - https://www.linkedin.com/jobs/view/3402863409/
 
 
+## Data
+- query optimization
+
+
+## Books
+- Designing Data-Intensive Applications
+- Clean Code
+- Clean Architecture
+- Development: Principles, Patterns, and Practices (PPP) by uncle bob
+- Thinking in java
+- Software Architecture in Practice
+- python doc
+- django doc
+- design patterns(GoF, ...), Agile,Scrum, TDD, Principles(SOLID, DRY, YAGNI, ...), OOP
+- Martin Fowler - Refactoring Improving the Design of Existing Code-Addison-Wesley Professional (2018)
+- Sam Newman - Building Microservices Designing Fine-Grained Systems-O'Reilly Media (2021)
+- Sam Newman - Monolith to Microservices Evolutionary Patterns to Transform Your Monolith-O’Reilly Medi- (2019)
+- The pragmatic programmer: david thomas
+- The Pragmatic Engineer
+- refactoring: improving the design of existing code
+- the mythical man-month: fredrick brooks
+- cracking the coding interview
+- thanks for the feedback, i think
+- Crucial Conversations: Tools for Talking When Stakes are High
+- No Hard Feelings: The Secret Power of Embracing Emotions
+- Atomic Habits
+- MONEY Master the Game: 7 Simple Steps to Financial Freedom
+- The Intelligent Investor
+- The Power of Habit
+- literate programming - donald knuth
+- Extreme Programming Installed and Extreme Programming Adventures in C#
+- situational leadership course
+- The linux programming interface - michael kerrisk
+- microservices monolith
+- steal like an artist
+- The Intelligent Investor
+- MONEY Master the Game: 7 Simple Steps to Financial Freedom
+- The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win
+
+
 ## Best Practices
 - https://github.com/elsewhencode/project-guidelines
+- Security
+	- https://github.com/OWASP/CheatSheetSeries
+	- https://github.com/OWASP/wstg
+	- https://github.com/decalage2/awesome-security-hardening
+- Go
+	- https://github.com/uber-go/guide
+	- https://github.com/gothinkster/golang-gin-realworld-example-app
+	- https://github.com/inancgumus/learngo
+- Nginx
+	- https://github.com/trimstray/nginx-admins-handbook
+	- https://github.com/denji/nginx-tuning
+- System Design
+	- https://github.com/Sairyss/domain-driven-hexagon
+- Backend
+	- https://github.com/futurice/backend-best-practices
 - https://github.com/GoogleChrome/lighthouse
-- https://github.com/OWASP/CheatSheetSeries
-- https://github.com/inancgumus/learngo
-- https://github.com/trimstray/nginx-admins-handbook
-- https://github.com/uber-go/guide
-- https://github.com/Sairyss/domain-driven-hexagon
-- https://github.com/OWASP/wstg
-- https://github.com/decalage2/awesome-security-hardening
-- https://github.com/gothinkster/golang-gin-realworld-example-app
-- https://github.com/denji/nginx-tuning
-- https://github.com/futurice/backend-best-practices
+
+
+## Tutorial
+- Blokchain
+	- https://roadmap.sh/blockchain
+	- https://github.com/coinpride/CryptoList
+	- https://github.com/Scanate/EthList
+	- https://github.com/yeasy/blockchain_guide
+	- https://github.com/FrancescoXX/free-Web3-resources
+	- https://github.com/smartcontractkit/full-blockchain-solidity-course-js
+	- https://github.com/Dapp-Learning-DAO/Dapp-Learning
+	- https://github.com/openblockchains/awesome-blockchains
+	- https://github.com/Xel/Blockchain-stuff
+	- https://github.com/imbaniac/awesome-blockchain
+	- https://github.com/igorbarinov/awesome-blockchain
+	- https://github.com/yjjnls/awesome-blockchain
+	- https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line
+	- https://github.com/liuchengxu/blockchain-tutorial
+
+	- Security
+		- https://github.com/ConsenSys/smart-contract-best-practices
+	- Consensus
+		- https://github.com/tendermint/tendermint
+
+
+## Awesome
+- First take a look at this:
+	- https://github.com/sindresorhus/awesome
+	- https://github.com/DovAmir/awesome-design-patterns
+	- https://github.com/DopplerHQ/awesome-interview-questions
+	- https://github.com/kuchin/awesome-cto
+	- https://github.com/mfornos/awesome-microservices
+	- https://github.com/newTendermint/awesome-bigdata
+	- https://github.com/wilsonfreitas/awesome-quant
+	- https://github.com/skywind3000/awesome-cheatsheets
+	- https://github.com/stanzhai/be-a-professional-programmer
+	- https://github.com/TonnyL/Awesome_APIs
+	- https://github.com/detailyang/awesome-cheatsheet
+	- https://github.com/grpc-ecosystem/awesome-grpc
+- Design
+	- https://github.com/alexpate/awesome-design-systems
+- Web Performance Optimization
+	- https://github.com/davidsonfellipe/awesome-wpo
+- CV
+	- https://github.com/posquit0/Awesome-CV
+- Vim
+	- https://github.com/mhinz/vim-galore
+	- https://github.com/rockerBOO/awesome-neovim
+- ACM
+	- https://github.com/lnishan/awesome-competitive-programming
+- Go
+	- https://github.com/hackstoic/golang-open-source-projects
+	- https://github.com/tmrts/go-patterns
+	- https://github.com/avelino/awesome-go
+- Python
+	- https://github.com/vinta/awesome-python
+	- https://github.com/wsvincent/awesome-django
+- Blockchain
+	- https://github.com/OffcierCia/DeFi-Developer-Road-Map
+- Secutiry
+	- https://github.com/enaqx/awesome-pentest
+	- https://github.com/Lissy93/personal-security-checklist
+	- https://github.com/rshipp/awesome-malware-analysis
+	- https://github.com/qazbnm456/awesome-web-security
+	- https://github.com/carpedm20/awesome-hacking
+	- https://github.com/pluja/awesome-privacy
+	- https://github.com/ashishb/android-security-awesome
+- Linux
+	- https://github.com/awesome-foss/awesome-sysadmin
+- System Design
+	- https://github.com/binhnguyennus/awesome-scalability
+	- https://github.com/heynickc/awesome-ddd
+- Site Reliability Engineering
+	- https://github.com/dastergon/awesome-sre
+- Github
+	- https://github.com/tiimgreen/github-cheat-sheet
+
+
+## Hadoop
+- https://hadoop.apache.org/
+- http://www.hadoopbook.com/
+- https://github.com/tomwhite/hadoop-book/tree/master/appc/src/main/sh
+- https://aws.amazon.com/opendata/open-data-sponsorship-program/
+- http://infochimps.org/
+- https://www.apache.org/
 
 
 ## Linux
@@ -190,6 +321,7 @@ This repository contains a list of references. It should not contain any source 
 ## Marketing
 - books
     - https://twitter.com/Aazarshad/status/1574745775937945600
+
 
 ## Locomotive
 - [Podcast](http://locomo.tips/podcast/)
