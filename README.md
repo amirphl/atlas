@@ -292,6 +292,19 @@ This repository contains a list of references. It should not contain any source 
 - Checklists, Tips and tricks, Best practices
 
 
+## Tech Blogs
+- available in `todo2`
+- spend good time on youtube
+- linkedin feeds, channels - instagram - telegram - twitter - youtube - podcasts - reddit
+- medium - deeplearning.ai - towardsdatascience - kdnuggets.com - machinelearningmastery
+- twitter - uber - netflix - booking - coinbase - binance - google tech blog - youtube techblog
+- scanlibs
+- virgool
+- evand - eseminar
+ - codeference.ir - finupevent.ir - uxmashhad.com
+ - sahab academy - socan academy - arvan academy - arvan aparat - divar academy - divar tech blog - tech.cafebazaar.ir - engineering.snapp.ir - alibaba - alibaba aparat - https://www.aparat.com/arvancloud - aaic.aut.ac.ir - sotoon - bazaar - balad - javaneh - digikala - digikala exp zone - sahab - system_group - hamrah_avval_academy
+
+
 ## Books
 - Designing Data-Intensive Applications
 - Clean Code
