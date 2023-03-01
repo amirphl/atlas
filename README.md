@@ -164,6 +164,8 @@ This repository contains a list of references. It should not contain any source 
 
 ## Data
 - query optimization
+- CAP theorem
+- NoSql database concepts
 
 
 ## ACM
@@ -178,6 +180,8 @@ This repository contains a list of references. It should not contain any source 
 	- interviewbit
 	- interviewcake
 - Resources
+	- https://www.geeksforgeeks.org/string-data-structure/
+	- https://www.geeksforgeeks.org/array-subarray-subsequence-and-subset/
 	- https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=shm
 	- https://www.reddit.com/r/cscareerquestions/comments/eb1e2b/my_leetcode_study_guide/
 	- https://www.coursera.org/learn/algorithms-part1
@@ -195,18 +199,70 @@ This repository contains a list of references. It should not contain any source 
 	- google foobar
 	- https://quera.org/problemset
 	- quera jobs, problem set, contests, blog, ...
+- One more important thing: review hard problems you solved
+
+
+## System Design
+- https://github.com/donnemartin/interactive-coding-challenges
+- https://github.com/donnemartin/system-design-primer
+- https://refactoring.guru/
+- design patterns(GoF, ...), Agile,Scrum, TDD, Principles(SOLID, DRY, YAGNI, ...), OOP
+- awesome system design github
+- practice
+	- snappfood (system design, algorithm design)
+	- booking.com
+- 12 factor app
+- algoexpert, systemexpert
+- https://www.quora.com/What-is-the-best-book-to-understand-the-SOLID-principles-in-OOP-with-examples
+- https://www.geeksforgeeks.org/software-design-patterns/?ref=grb
+- https://www.educative.io/learn
+- https://www.educative.io/courses/grokking-the-system-design-interview- m2ygV4E81AR#3-Capacity-Estimation-and-Constraints
+- https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/
+- https://www.techinterviewhandbook.org/system-design/
+- https://towardsdatascience.com/the-complete-guide-to-the-system-design-interview-ba118f48bdfc
+- https://www.interviewbit.com/system-design-interview-questions/
+- https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/
+- https://igotanoffer.com/blogs/tech/system-design-interview-prep
+- https://www.freecodecamp.org/news/systems-design-for-interviews/
+- search "system design interview preparation" in google then you see a list of books!
+
+
+## Interview
+- software engineering | python | django | java | golang | OOP | distributed system | ... interview questions
+- recent interview questions
+- https://www.geeksforgeeks.org/company-interview-corner/
+- https://www.geeksforgeeks.org/category/interview-experiences/
+- top interview questions on leetcode
+- best practices in python | django | java | golang | OOP | distributed system | ....
+- tips and tricks
+- unit testing
+- Behvioral interview
+	- https://www.youtube.com/watch?v=0Z9RW_hhUT4
+- Mock interview
+- HR interview
+- CEO interview
+- https://interviewing.io/
+- https://careercup.com/
+- https://afteracademy.com/blog/distribute-candy-problem
+- https://www.interviewbit.com/problems/distribute-candy/
+- https://www.tutorialcup.com/interview/dynamic-programming/find-maximum-length-snake-sequence.htm
+- https://www.techiedelight.com/maximum-length-snake-sequence/
+- https://www.youtube.com/watch?v=z_YuqLmGZuo
+- https://www.youtube.com/watch?v=aht20iQXfRY
+- https://www.youtube.com/watch?v=CtmBGH8MkX4
 
 
 ## Books
 - Designing Data-Intensive Applications
 - Clean Code
+- Clean Coder
 - Clean Architecture
 - Development: Principles, Patterns, and Practices (PPP) by uncle bob
 - Thinking in java
+- The Software Craftman
 - Software Architecture in Practice
 - python doc
 - django doc
-- design patterns(GoF, ...), Agile,Scrum, TDD, Principles(SOLID, DRY, YAGNI, ...), OOP
 - Martin Fowler - Refactoring Improving the Design of Existing Code-Addison-Wesley Professional (2018)
 - Sam Newman - Building Microservices Designing Fine-Grained Systems-O'Reilly Media (2021)
 - Sam Newman - Monolith to Microservices Evolutionary Patterns to Transform Your Monolith-O’Reilly Medi- (2019)
