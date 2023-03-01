@@ -166,6 +166,37 @@ This repository contains a list of references. It should not contain any source 
 - query optimization
 
 
+## ACM
+- Websites
+	- codeforces
+	- leetcode
+	- geeksforgeeks
+	- codechef
+	- spoj
+	- hackerrank
+	- careercup
+	- interviewbit
+	- interviewcake
+- Resources
+	- https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=shm
+	- https://www.reddit.com/r/cscareerquestions/comments/eb1e2b/my_leetcode_study_guide/
+	- https://www.coursera.org/learn/algorithms-part1
+	- https://www.coursera.org/learn/algorithms-part2
+	- https://www.educative.io/courses/coderust-hacking-the-coding-interview
+	- https://leetcode.com/list/xoqag3yj/
+	- MIT course on YouTube: https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
+	- Stanford courses on Coursera: https://www.coursera.org/specializations/algorithms
+	- The Algorithm Design Manual by Skiena (book): https://www.amazon.com/gp/product/1849967202/
+	- The Google course on Udacity: https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
+	- Algorithms (book): https://www.amazon.com/gp/product/032157351X/
+	- https://github.com/tmwilliamlin168/CompetitiveProgramming
+	- https://williamlin.io/about
+	- Antti Laaksonen: https://jadi.net/wp-content/uploads/2017/07/competetive-programmers-handbook.pdf
+	- google foobar
+	- https://quera.org/problemset
+	- quera jobs, problem set, contests, blog, ...
+
+
 ## Books
 - Designing Data-Intensive Applications
 - Clean Code
