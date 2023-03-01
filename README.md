@@ -247,6 +247,7 @@ This repository contains a list of references. It should not contain any source 
 - top interview questions on leetcode
 - best practices in python | django | java | golang | OOP | distributed system | ....
 - tips and tricks
+- checklists
 - unit testing
 - Behvioral interview
 	- https://www.youtube.com/watch?v=0Z9RW_hhUT4
@@ -262,6 +263,33 @@ This repository contains a list of references. It should not contain any source 
 - https://www.youtube.com/watch?v=z_YuqLmGZuo
 - https://www.youtube.com/watch?v=aht20iQXfRY
 - https://www.youtube.com/watch?v=CtmBGH8MkX4
+
+
+## Linkedin
+- Courses
+	- https://www.linkedin.com/learning/subscription/career-guidance-hub
+	- https://upjourney.com/how-to-ask-for-feedback-after-a-job-rejection
+	- https://novoresume.com/career-blog/soft-skills
+	- https://stackoverflow.com/questions/46804617/what-is-the-meaning-of-99th-percentile-latency-and-throughput
+	- search in google: soft skills resume
+- Youtube
+	- https://www.youtube.com/watch?v=ELtiMdASSRg
+	- https://www.youtube.com/watch?v=8olUBfbL-NA
+	- https://www.youtube.com/watch?v=T1vlG9394b8
+	- https://www.youtube.com/watch?v=yB-DEm0EsEc
+	- https://www.youtube.com/watch?v=DHvwiA1136Q
+	- https://www.youtube.com/watch?v=nl-OZDVsFsg
+	- https://www.youtube.com/channel/UClxIrrKNy-n8-ZkFT3ATxMw/videos
+	- https://www.youtube.com/watch?v=iBiHDrrHhvM
+	- https://www.youtube.com/watch?v=OcExABAAsXs&t=514s
+- Assessments
+	- https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes
+	- https://www.linkedin.com/help/linkedin/answer/a507663/linkedin-skill-assessments?lang=en
+	- نکات مهاجرت
+		- https://docs.google.com/document/d/1bQA9DM_oM6_skTjYi8-kEWbcJvsH_OnGwGG-0Ggs3T4/edit#
+	- set alert for software developer, software engineer, backend developer, sponsorship, NED, UK, GER, FIN
+	- https://ind.nl/en/documents/06-2022/publicregisterregularlabourandhighlyskilledmigrants.pdf
+- Checklists, Tips and tricks, Best practices
 
 
 ## Books
