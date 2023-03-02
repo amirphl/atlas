@@ -29,6 +29,16 @@ This repository contains a list of references. It should not contain any source 
     - [the ai summer](https://theaisummer.com/)
 
 
+## C++
+- https://cplusplus.com/
+- https://en.cppreference.com/w/
+- https://lefticus.gitbooks.io/cpp-best-practices/content/
+- https://cpppatterns.com/
+- http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
+- https://github.com/TheLartians/ModernCppStarter
+- https://github.com/filipdutescu/modern-cpp-template
+
+
 ## Golang
 - learning
 	- https://github.com/GoesToEleven/GolangTraining/
@@ -174,6 +184,9 @@ This repository contains a list of references. It should not contain any source 
     - https://www.linkedin.com/jobs/view/3402863409/
 
 
+## Security
+- https://support.lastpass.com/help/incident-2-additional-details-of-the-attack
+
 ## Data
 - query optimization
 - CAP theorem
@@ -219,6 +232,7 @@ This repository contains a list of references. It should not contain any source 
 - https://github.com/donnemartin/system-design-primer
 - https://refactoring.guru/
 - design patterns(GoF, ...), Agile,Scrum, TDD, Principles(SOLID, DRY, YAGNI, ...), OOP
+	- In Go and CPP
 - awesome system design github
 - practice
 	- snappfood (system design, algorithm design)
@@ -237,10 +251,12 @@ This repository contains a list of references. It should not contain any source 
 - https://igotanoffer.com/blogs/tech/system-design-interview-prep
 - https://www.freecodecamp.org/news/systems-design-for-interviews/
 - search "system design interview preparation" in google then you see a list of books!
+- https://en.wikipedia.org/wiki/SOLID
 
 
 ## Interview
 - software engineering | python | django | java | golang | OOP | distributed system | ... interview questions
+- Design Patterns, Principles, and OOP in Go and C++ interview questions
 - recent interview questions
 - https://www.geeksforgeeks.org/company-interview-corner/
 - https://www.geeksforgeeks.org/category/interview-experiences/
@@ -251,7 +267,7 @@ This repository contains a list of references. It should not contain any source 
 - unit testing
 - Behvioral interview
 	- https://www.youtube.com/watch?v=0Z9RW_hhUT4
-- Mock interview
+- Youtube Mock interviews
 - HR interview
 - CEO interview
 - https://interviewing.io/
@@ -314,6 +330,7 @@ This repository contains a list of references. It should not contain any source 
 - Thinking in java
 - The Software Craftman
 - Software Architecture in Practice
+- Advanced progrming in the unix environments
 - python doc
 - django doc
 - Martin Fowler - Refactoring Improving the Design of Existing Code-Addison-Wesley Professional (2018)
@@ -340,6 +357,9 @@ This repository contains a list of references. It should not contain any source 
 - The Intelligent Investor
 - MONEY Master the Game: 7 Simple Steps to Financial Freedom
 - The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win
+- https://blog.pragmaticengineer.com/holiday-tech-book-recommendations/
+- https://www.geeksforgeeks.org/10-best-books-for-database-administrators-and-developers/
+- https://udemyiran.com/product/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d9%84%db%8c%d9%86%d9%88%da%a9%d8%b3-%d8%a7%d8%b2-%d8%b5%d9%81%d8%b1-%d8%a8%d9%87-%d8%b5%d8%af/
 
 
 ## Best Practices
@@ -348,6 +368,16 @@ This repository contains a list of references. It should not contain any source 
 	- https://github.com/OWASP/CheatSheetSeries
 	- https://github.com/OWASP/wstg
 	- https://github.com/decalage2/awesome-security-hardening
+- C++
+	- https://github.com/cpp-best-practices/cppbestpractices
+	- 
+	- 
+	- https://github.com/cpp-best-practices
+	- https://github.com/changkun/modern-cpp-tutorial
+	- https://github.com/QuantlabFinancial/cpp_tip_of_the_week
+	- https://github.com/facontidavide/CPP_Optimizations_Diary
+	- https://github.com/rachitiitr/modern-cpp-tricks
+	- https://github.com/methylDragon/coding-notes/blob/master/C++/09%20C++%20-%20Tips%20and%20Tricks.md
 - Go
 	- https://github.com/uber-go/guide
 	- https://github.com/gothinkster/golang-gin-realworld-example-app
@@ -388,6 +418,7 @@ This repository contains a list of references. It should not contain any source 
 ## Awesome
 - First take a look at this:
 	- https://github.com/sindresorhus/awesome
+	- https://github.com/bayandin/awesome-awesomeness
 	- https://github.com/DovAmir/awesome-design-patterns
 	- https://github.com/DopplerHQ/awesome-interview-questions
 	- https://github.com/kuchin/awesome-cto
@@ -410,6 +441,13 @@ This repository contains a list of references. It should not contain any source 
 	- https://github.com/rockerBOO/awesome-neovim
 - ACM
 	- https://github.com/lnishan/awesome-competitive-programming
+- C++
+	- https://github.com/fffaraz/awesome-cpp
+	- https://github.com/uhub/awesome-cpp
+	- https://github.com/isocpp/CppCoreGuidelines
+	- https://github.com/rigtorp/awesome-modern-cpp
+	- https://github.com/p-ranav/awesome-hpp
+	- https://github.com/AnthonyCalandra/modern-cpp-features
 - Go
 	- https://github.com/hackstoic/golang-open-source-projects
 	- https://github.com/tmrts/go-patterns
@@ -436,6 +474,8 @@ This repository contains a list of references. It should not contain any source 
 	- https://github.com/dastergon/awesome-sre
 - Github
 	- https://github.com/tiimgreen/github-cheat-sheet
+- AI
+    - https://github.com/Renumics/awesome-open-data-centric-ai
 
 
 ## Hadoop
