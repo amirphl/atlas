@@ -1,6 +1,12 @@
 This repository contains a list of references. It should not contain any source code. Folders perhaps include some PDF files or README files.
 
 
+## Research
+- https://www.connectedpapers.com/
+- https://github.com/mukulpatnaik/researchgpt
+- https://github.com/whitead/paper-qa
+
+
 ## AI
 - youtube channels
     - [Full Stack Deep Learning - 2022](https://www.youtube.com/playlist?list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur)
@@ -18,25 +24,37 @@ This repository contains a list of references. It should not contain any source 
     - [138 Data Science Projects You Can Try with Python](https://python.plainenglish.io/85-data-science-projects-c03c8750599e)
 - Kaggle
     - [The Most Comprehensive List of Kaggle Solutions and Ideas](https://farid.one/kaggle-solutions/)
-- Moein Shariatnia
+- Github
+	- https://github.com/easezyc/deep-transfer-learning
+	- https://github.com/hwchase17/langchain
+	- https://github.com/Nutlope/roomGPT
+	- https://github.com/Sentdex/ChatGPT-at-Home
+- Misc
+	- [OpenAI wiki](https://en.wikipedia.org/wiki/OpenAI)
     - [Medium](https://medium.com/@moein.shariatnia)
     - [Easy Object Detection with Transformers: Simple Implementation of Pix2Seq Model in PyTorch](https://pub.towardsai.net/easy-object-detection-with-transformers-simple-implementation-of-pix2seq-model-in-pytorch-fde3e7162ce7)
-    - [2-year journey into deep learning as a medical student — Part I: Initial Steps and the Books](https://medium.com/@moein.shariatnia/my-2-year-journey-into-deep-learning-as-a-medical-student-part-i-initial-steps-and-the-books-d9460d4d82d7)
+	- [2-year journey into deep learning as a medical student — Part I: Initial Steps and the Books](https://medium.com/@moein.shariatnia/my-2-year-journey-into-deep-learning-as-a-medical-student-part-i-initial-steps-and-the-books-d9460d4d82d7)
     - [2-year journey into deep learning as a medical student](https://medium.com/@moein.shariatnia/my-2-year-journey-into-deep-learning-as-a-medical-student-part-ii-courses-55008ba4aae1)
     - [2-year journey into deep learning: Part III — Resources to get practice and stay up to date](https://medium.com/@moein.shariatnia/my-2-year-journey-into-deep-learning-part-iii-resources-to-get-practice-and-stay-up-to-date-a5f4aff3a76a)
-- Misc
-    - [https://www.connectedpapers.com/](https://www.connectedpapers.com/)
     - [the ai summer](https://theaisummer.com/)
+	- [How ChatGPT Works: The Model Behind The Bot](https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286)
+	- [ChatGPT Writes a Chatbot AI](https://www.youtube.com/watch?v=QumfkMQr47M)
+- Tools
+	- http://perplexity.ai/
 
 
 ## C++
+- 10000 libs, books, iso, frameworks
 - https://cplusplus.com/
 - https://en.cppreference.com/w/
 - https://lefticus.gitbooks.io/cpp-best-practices/content/
 - https://cpppatterns.com/
-- http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
+- https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
 - https://github.com/TheLartians/ModernCppStarter
 - https://github.com/filipdutescu/modern-cpp-template
+- https://www.stroustrup.com/tour3.html
+- https://isocpp.org/
+- https://isocpp.org/tour
 
 
 ## Golang
@@ -57,10 +75,22 @@ This repository contains a list of references. It should not contain any source 
 	- book: webrtc in pion
     - https://go.dev/doc/code
     - https://go.dev/ref/mod
-- third party libs
-	- https://github.com/pion/webrtc
+- github
 	- 1000 top libs
 	- google: golang projects
+	- https://github.com/pion/webrtc
+	- https://github.com/mattermost/mattermost-server
+	- https://github.com/iancoleman/orderedmap
+	- https://github.com/elliotchance/orderedmap
+	- https://github.com/pierrec/lz4
+	- https://github.com/looplab/eventhorizon
+	- https://github.com/looplab/fsm
+	- https://github.com/brentp/intintmap
+	- https://github.com/mitchellh/hashstructure
+	- https://github.com/qiangxue/go-rest-api
+	- https://github.com/matryer/moq
+	- https://github.com/matryer/is
+	- https://github.com/matryer/vice
 - editor
     - https://github.com/golang/vscode-go/wiki/
 - links
@@ -95,6 +125,8 @@ This repository contains a list of references. It should not contain any source 
 	- https://cloud.google.com/serverless
 	- https://community.hetzner.com/tutorials/basic-cloud-config
 	- https://docs.hetzner.cloud/#labels
+	- https://research.swtch.com/2009/12/go-data-structures-interfaces.html
+	- https://github.com/search?q=org%3AOpenHFT+golang&type=topics
 - patterns
 	- https://refactoring.guru/design-patterns/go
 	- https://github.com/donnemartin/system-design-primer
@@ -113,8 +145,14 @@ This repository contains a list of references. It should not contain any source 
 	- https://www.udemy.com/course/design-patterns-go/
 
 
-## Python:
-- django - DRF - two scoop
+## Java, Scala
+- hierarchy like bfs, practice only in Scala
+- https://docs.oracle.com/javase/7/docs/api/overview-summary.html
+- Java `chronicles-wire` port in Golang
+
+
+## Python
+- django - DRF - two scoop - ML - 1000 libs
 - static method, static class, class attribute, instance attribute, class method, instance method, methods and runtime complexity: [list, reversed, set, unordered_set, stack, queue, deque, slot, namedtuple, tuple, dict, unordered_dict], set: [&, |], &, |, ^, !, yield, generator, decorator, mixin, defaultdict, lambda functions, functional programming, object-oriented programming concept of encapsulation, abstraction, multi inheritance, doctype, PEP 8 coding style, python2 vs 3, numpy, datetime, seeking and scanning a file, os, sys, set_printoptions, python deprecation warnings, call by ref, call by value, is vs ===, compare by ref or value, np.array_equal(a,b), linalg.eig() and .matmul(), linalg.inv() and .dot(), linalg.det() and .dot(), linalg.inv() and .eye(), Series and DataFrames, string is immutable?, zip, enumerate, python data types, double and long data types, (256).bit_length(), remove vs pop, itertools, pathlib, decorators, map, filter, zip, lambda, breakpoint
 - how to
 	- take a snapshot of all the packages and libraries in your virtual environment
@@ -174,23 +212,61 @@ This repository contains a list of references. It should not contain any source 
 	- https://www.linkedin.com/company/clanzofficial/
 	- https://twitter.com/cz_binance/status/1600204213908230144/photo/1
 	- https://twitter.com/Algorand
+	- open source
+		- https://github.com/gitbitex/gitbitex-new
+		- https://github.com/opexdev
+		- https://github.com/openware/opendax
+		- https://github.com/peatio/peatio
+		- https://github.com/tigeryant/order-matching-engine
+		- https://github.com/nicoloridulfo/Order-Matching-Engine
+		- https://github.com/enewhuis/liquibook
+		- https://gist.github.com/jdrew1303/e06361070468f6614d52216fb91b79e5
+		- https://github.com/anders94/order-matching-engine
+		- https://github.com/alpacahq/
+		- https://github.com/topics/order-matching
+		- https://github.com/topics/matching-engine
+		- https://github.com/topics/order-matching-system
+	- consideration:
+		- you need to know what to do if someone placed an order at 100$ when price is at 20k.
+		- you also need to be clever about precision and that price delta.
+		- hot and cold orderbook, hot orderbook is the array based one with limited price range. If current price moves 10%, then range is recomputed (whenever orderbook is less busy). All orders that are outside of the array price range go to normal hashmap like orderbook
 - metaverse
 	- Sand token, Land token, Goverance token, soft fork voting, alpha mega events, sandbox integration opensource projects, game maker, apolyx.com
 	- ar/vr + blockchain
+	- https://github.com/oxydev/Histopia-Smart-Contracts
 - algo trading
 	- mql vs python
 	- price prediction with chatgpt
 - jobs
     - https://www.linkedin.com/jobs/view/3402863409/
+- dev
+	- Solana dev
+	- Tokenization
 
 
 ## Security
 - https://support.lastpass.com/help/incident-2-additional-details-of-the-attack
+- Github
+	- https://github.com/s0md3v/XSStrike
+	- https://github.com/s0md3v/Smap
+	- https://github.com/s0md3v/Photon
+	- https://github.com/s0md3v/Arjun
+
 
 ## Data
 - query optimization
 - CAP theorem
 - NoSql database concepts
+- LevelDB
+	- https://github.com/google/leveldb
+- Hadoop
+	- https://hadoop.apache.org/
+	- http://www.hadoopbook.com/
+	- https://github.com/tomwhite/hadoop-book/tree/master/appc/src/main/sh
+	- https://aws.amazon.com/opendata/open-data-sponsorship-program/
+	- http://infochimps.org/
+	- https://www.apache.org/
+- https://github.com/EnterpriseDB/mysql_fdw
 
 
 ## ACM
@@ -255,6 +331,7 @@ This repository contains a list of references. It should not contain any source 
 
 
 ## Interview
+- https://github.com/Olshansk/interview
 - software engineering | python | django | java | golang | OOP | distributed system | ... interview questions
 - Design Patterns, Principles, and OOP in Go and C++ interview questions
 - recent interview questions
@@ -306,6 +383,7 @@ This repository contains a list of references. It should not contain any source 
 	- set alert for software developer, software engineer, backend developer, sponsorship, NED, UK, GER, FIN
 	- https://ind.nl/en/documents/06-2022/publicregisterregularlabourandhighlyskilledmigrants.pdf
 - Checklists, Tips and tricks, Best practices
+- https://www.gov.uk/skilled-worker-visa
 
 
 ## Tech Blogs
@@ -314,16 +392,23 @@ This repository contains a list of references. It should not contain any source 
 - linkedin feeds, channels - instagram - telegram - twitter - youtube - podcasts - reddit
 - medium - deeplearning.ai - towardsdatascience - kdnuggets.com - machinelearningmastery
 - twitter - uber - netflix - booking - coinbase - binance - google tech blog - youtube techblog
+	- https://discord.com/category/engineering
+	- https://lemire.me/blog/
 - scanlibs
 - virgool
 - evand - eseminar
- - codeference.ir - finupevent.ir - uxmashhad.com
- - sahab academy - socan academy - arvan academy - arvan aparat - divar academy - divar tech blog - tech.cafebazaar.ir - engineering.snapp.ir - alibaba - alibaba aparat - https://www.aparat.com/arvancloud - aaic.aut.ac.ir - sotoon - bazaar - balad - javaneh - digikala - digikala exp zone - sahab - system_group - hamrah_avval_academy
+- codeference.ir - finupevent.ir - uxmashhad.com
+- sahab academy - socan academy - arvan academy - arvan aparat - divar academy - divar tech blog - tech.cafebazaar.ir - engineering.snapp.ir - alibaba - alibaba aparat - sotoon - bazaar - balad - javaneh - digikala - digikala exp zone - sahab - system_group - hamrah_avval_academy
+	- https://www.aparat.com/arvancloud
+	- https://aaic.aut.ac.ir/
+	- https://hamed.blog/
 
 
 ## Books
+- https://github.com/EbookFoundation/free-programming-books
 - Designing Data-Intensive Applications
 - Clean Code
+	- https://github.com/unclebob/cmuratori-discussion/blob/main/cleancodeqa.md
 - Clean Coder
 - Clean Architecture
 - Development: Principles, Patterns, and Practices (PPP) by uncle bob
@@ -465,6 +550,7 @@ This repository contains a list of references. It should not contain any source 
 	- https://github.com/carpedm20/awesome-hacking
 	- https://github.com/pluja/awesome-privacy
 	- https://github.com/ashishb/android-security-awesome
+	- https://github.com/s0md3v/AwesomeXSS
 - Linux
 	- https://github.com/awesome-foss/awesome-sysadmin
 - System Design
@@ -476,15 +562,26 @@ This repository contains a list of references. It should not contain any source 
 	- https://github.com/tiimgreen/github-cheat-sheet
 - AI
     - https://github.com/Renumics/awesome-open-data-centric-ai
+- ChatGPT
+	- https://github.com/f/awesome-chatgpt-prompts
 
 
-## Hadoop
-- https://hadoop.apache.org/
-- http://www.hadoopbook.com/
-- https://github.com/tomwhite/hadoop-book/tree/master/appc/src/main/sh
-- https://aws.amazon.com/opendata/open-data-sponsorship-program/
-- http://infochimps.org/
-- https://www.apache.org/
+## C
+- https://github.com/lz4/lz4
+- https://github.com/LekKit/RVVM/tree/staging/src
+
+
+## JavaScript
+- https://github.com/artilleryio/artillery
+- https://github.com/prose/prose
+- https://frontendmasters.com/courses/service-workers/
+
+
+## TypeScript
+- https://github.com/dotenv-org/dotenv-vault
+
+
+## Kotlin
 
 
 ## Linux
@@ -496,6 +593,12 @@ This repository contains a list of references. It should not contain any source 
 ## HTTP
 - Misc
     - [HTTP1,2,3](https://twitter.com/sahnlam/status/1575715452440887296)
+
+
+## Startup
+- https://www.startupschool.org/
+- https://www.producthunt.com/products/startup-101
+
 
 
 ## Marketing
