@@ -5,42 +5,469 @@ This repository contains a list of references. It should not contain any source 
 - https://www.connectedpapers.com/
 - https://github.com/mukulpatnaik/researchgpt
 - https://github.com/whitead/paper-qa
+- [Discover the latest tools and trends in AI](https://gpte.ai/)
+- [Find & Save the best AI tools Everyday](https://topai.tools/)
 
 
 ## AI
 - youtube channels
     - [Full Stack Deep Learning - 2022](https://www.youtube.com/playlist?list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur)
     - [Lex Fridman youtube channel](https://www.youtube.com/c/lexfridman)
+	- [Andrew deep learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+	- [Stanford CS330: Deep Multi-Task and Meta Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI)
+	- [MIT RES.LL-005 Mathematics of Big Data and Machine Learning](https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V)
+	- [MIT: Machine Learning 6.036](https://www.youtube.com/watch?v=0xaLT4Svzgo)
 - papers
-    - [Git Re-Basin: Merging Models modulo Permutation Symmetries](https://arxiv.org/abs/2209.04836)
-    - [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682)
-    - [A platform that brings together the global AI community with impact-driven organizations to build real-world AI solutions.](https://omdena.com/)
+	- [Scaling Transformer to 1M tokens and beyond with RMT](https://github.com/booydar/t5-experiments/tree/scaling-report)
+	- [Scaling Transformer to 1M tokens and beyond with RMT - paper](https://arxiv.org/abs/2304.11062)
+	- [Speak Foreign Languages with Your Own Voice: Cross-Lingual Neural Codec Language Modeling](https://vallex-demo.github.io/)
+	- [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
+	- [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)
+	- [Git Re-Basin: Merging Models modulo Permutation Symmetries](https://arxiv.org/abs/2209.04836)
+	- [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682)
+	- [A platform that brings together the global AI community with impact-driven organizations to build real-world AI solutions.](https://omdena.com/)
 - books
     - [Best AI and Deep learning books to read in 2022](https://theaisummer.com/deep-learning-books-2022/)
     - [Harvard CS197: AI Research Experiences – The Course Book](https://docs.google.com/document/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/)
 - courses
     - [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
+	- https://academy.neuromatch.io/about
+	- https://ocw.mit.edu/courses/18-821-project-laboratory-in-mathematics-spring-2013/
+	- https://ocw.mit.edu/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/
 - projects
     - [138 Data Science Projects You Can Try with Python](https://python.plainenglish.io/85-data-science-projects-c03c8750599e)
-- Kaggle
+- kaggle
     - [The Most Comprehensive List of Kaggle Solutions and Ideas](https://farid.one/kaggle-solutions/)
-- Github
+- github
 	- https://github.com/easezyc/deep-transfer-learning
 	- https://github.com/hwchase17/langchain
 	- https://github.com/Nutlope/roomGPT
 	- https://github.com/Sentdex/ChatGPT-at-Home
-- Misc
+	- https://github.com/Torantulino/Auto-GPT
+	- https://github.com/Significant-Gravitas/Auto-GPT/tree/stable
+	- https://github.com/LAION-AI/Open-Assistant
+	- https://github.com/mindsdb/mindsdb
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
+- misc
 	- [OpenAI wiki](https://en.wikipedia.org/wiki/OpenAI)
-    - [Medium](https://medium.com/@moein.shariatnia)
     - [Easy Object Detection with Transformers: Simple Implementation of Pix2Seq Model in PyTorch](https://pub.towardsai.net/easy-object-detection-with-transformers-simple-implementation-of-pix2seq-model-in-pytorch-fde3e7162ce7)
 	- [2-year journey into deep learning as a medical student — Part I: Initial Steps and the Books](https://medium.com/@moein.shariatnia/my-2-year-journey-into-deep-learning-as-a-medical-student-part-i-initial-steps-and-the-books-d9460d4d82d7)
     - [2-year journey into deep learning as a medical student](https://medium.com/@moein.shariatnia/my-2-year-journey-into-deep-learning-as-a-medical-student-part-ii-courses-55008ba4aae1)
     - [2-year journey into deep learning: Part III — Resources to get practice and stay up to date](https://medium.com/@moein.shariatnia/my-2-year-journey-into-deep-learning-part-iii-resources-to-get-practice-and-stay-up-to-date-a5f4aff3a76a)
-    - [the ai summer](https://theaisummer.com/)
+	- https://theaisummer.com/
 	- [How ChatGPT Works: The Model Behind The Bot](https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286)
 	- [ChatGPT Writes a Chatbot AI](https://www.youtube.com/watch?v=QumfkMQr47M)
-- Tools
+	- [State of competitive machine learning 2022](https://mlcontests.com/state-of-competitive-machine-learning-2022/#tabular-data)
+	- [Stability AI Launches the First of its StableLM Suite of Language Models](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)
+	- [Moein Shariatnia Medium](https://medium.com/@moein.shariatnia)
+- tools
 	- http://perplexity.ai/
+	- https://beta.dreamstudio.ai/generate
+	- [Discover the latest tools and trends in AI](https://gpte.ai/)
+	- [AI search engine for developers](https://www.phind.com/)
+	- [Create AI chatbots](https://getchunky.io/)
+	- [Create content with AI](https://cohesive.so/)
+	- [Create stunning game assets with AI](https://leonardo.ai/)
+	- [Create images from words with AI](https://www.bing.com/create)
+	- [Find & Save the best AI tools Everyday](https://topai.tools/)
+	- [Free GPT](https://accounts.forefront.ai/)
+
+
+## Blockchain
+- courses
+    - OCW blockchain engineering and design
+	- two local videos downloaded from youtube: 32h, 16h
+	- https://www.freecodecamp.org/news/tag/blockchain/
+	- https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/
+	- https://www.freecodecamp.org/news/learn-solidity-blockchain-and-smart-contracts-in-a-free/
+	- https://www.classcentral.com/course/freecodecamp-solidity-blockchain-and-smart-contract-course-beginner-to-expert-python-tutorial-57033
+	- https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video_galleries/video-lectures/
+	- [MIT 15.S12 Blockchain and Money, Fall 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn)
+	- [MIT IDS.333 Risk and Decision Analysis, Fall 2021](https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC)
+	- https://ocw.mit.edu/search/?q=blockchain&s=department_course_numbers.sort_coursenum
+	- https://www.algoexpert.io/blockchain/product
+- papers
+	- conferences
+		- Blockchain and Applications international
+	- algo trading conferences
+		- 
+	- journals
+		- 
+	- keywords: survey blockchain, transformer time-series
+- books
+    - Proof of Stake: The Making of Ethereum and the Philosophy of Blockchains
+- exchange
+	- features
+		- wallet integration
+		- binance API integration
+		- kucoin API integration
+		- Core Middleware Wallet & Asset Manager System
+		- Core Deposit Watchtower Platform
+		- ETH, BTC, TRON Warm Wallet, Asset Manager & Deposit Watchtower
+		- ERC20 and TRC20 integration
+		- WAF Protection for the core wallet applications
+		- Core Accounting Service: This is the service that is in charge of handling user balances and it is involved in almost every request that the client may make on the platform.
+		- Orders Matching Engine: This service is handling orders and it is reporting the trades that should be submitted to the system.
+		- Liquidity Making Automation: The architecture and the algorithm of this service are one of the most complex ones on the platform because it should maintain the liquidity on the exchange meanwhile keeping the load on other services as low as possible.
+		- Customized Load Balancing Design: one of the key features of RCv5 system design was the ability to scale horizontally which needed the specific protocols on the load balancing procedures.
+		- Fraud Control System: The most Complex system logic in the platform which required a deep understanding of the business in order to detect potential frauds in the platform be able and to avoid them.
+		- copy trading
+		- wallex trading bot
+		- nft marketplace
+		- dex smartcontract
+		- https://twitter.com/cz_binance/status/1600204213908230144/photo/1
+	- considerations
+		- you need to know what to do if someone placed an order at 100$ when price is at 20k.
+		- you also need to be clever about precision and that price delta.
+		- hot and cold orderbook, hot orderbook is the array based one with limited price range. If current price moves 10%, then range is recomputed (whenever orderbook is less busy). All orders that are outside of the array price range go to normal hashmap like orderbook.
+	- competitors
+		- https://rabincash.com/
+		- https://www.linkedin.com/company/clanzofficial/
+		- https://twitter.com/Algorand
+	- open source projects
+		- https://github.com/gitbitex/gitbitex-new
+		- https://github.com/opexdev
+		- https://github.com/openware/opendax
+		- https://github.com/peatio/peatio
+		- https://github.com/tigeryant/order-matching-engine
+		- https://github.com/nicoloridulfo/Order-Matching-Engine
+		- https://github.com/enewhuis/liquibook
+		- https://gist.github.com/jdrew1303/e06361070468f6614d52216fb91b79e5
+		- https://github.com/anders94/order-matching-engine
+		- https://github.com/alpacahq/
+		- https://github.com/topics/order-matching
+		- https://github.com/topics/matching-engine
+		- https://github.com/topics/order-matching-system
+- metaverse
+	- Sand token, Land token, Goverance token, soft fork voting, alpha mega events, sandbox integration opensource projects, game maker, apolyx.com
+	- ar/vr + blockchain
+	- https://github.com/oxydev/Histopia-Smart-Contracts
+- algo trading
+	- mql vs python
+	- price prediction with chatgpt
+- jobs
+    - https://www.linkedin.com/jobs/view/3402863409/
+- dev
+	- Solana dev
+	- Tokenization
+- github
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
+
+
+## Security
+- courses
+	- https://clark.center/browse
+		- [Network Penetration Testing](https://clark.center/details/ahmirf44/e0c16b91-2d5c-4430-89b1-b8e43e2da487)
+		- [Digital Forensics](https://clark.center/details/ahmirf44/1af43087-25f0-40c7-94b6-1ec41d109155)
+		- [Adversarial Thinking](https://clark.center/details/shamman/25802ff5-301f-49a8-9ca8-83c287fd8a4e)
+		- [Machine Learning for Cybersecurity](https://clark.center/details/rcalix1/e8938245-f6c3-4b41-b9ae-d2fa9b5a5065)
+	- voorivex
+		- https://memoryleaks.ir/class/
+		- [telegram channel](https://web.telegram.org/z/#-1179721901)
+		- [twitch channel](https://www.twitch.tv/voorivex)
+		- [دوره امنیت اپلیکیشن](https://www.youtube.com/playlist?list=PLHKPm_f41K_64TpOp1nafNDDCcrcHd7RY)
+		- [چگونه یه باگ‌هانتر یا هکر بشیم؟ نقشه راه شروع امنیت](https://www.youtube.com/watch?v=_UxO2qKvCEQ)
+		- [دانش شبکه مورد نیاز برای باگ بانتی](https://www.youtube.com/watch?v=m1jlkO6gQ_0)
+		- [دانش جاوااسکریپت مورد نیاز برای هانت](https://www.youtube.com/watch?v=GUSUS2oEosw)
+		- [معرفی کلاس هانت جدید](https://www.youtube.com/watch?v=Zx15UdzkMak)
+		- [مصاحبه فنی امنیتی](https://www.youtube.com/watch?v=Hs4W0kAuJLs)
+		- [مصاحبه فنی امنیتی، قسمت دوم](https://www.youtube.com/watch?v=RWOk2FPPsx8)
+	- [Reverse Engineering with Ghidra](https://www.youtube.com/playlist?list=PL_tws4AXg7auglkFo6ZRoWGXnWL0FHAEi)
+	- [آموزش امنیت](https://www.youtube.com/@user-nt8yr9gj1b/playlists)
+- github
+	- https://github.com/s0md3v/XSStrike
+	- https://github.com/s0md3v/Smap
+	- https://github.com/s0md3v/Photon
+	- https://github.com/s0md3v/Arjun
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
+- twitter
+    - https://twitter.com/M0UNTAIN_HUNTER/status/1641838750584979456
+    - https://twitter.com/voorivex/status/1644449859838128129
+    - https://twitter.com/voorivex/status/1646958540626579466
+    - https://twitter.com/voorivex/status/1646848436921065474
+    - https://twitter.com/voorivex/status/1648769642079440906
+- misc
+	- https://support.lastpass.com/help/incident-2-additional-details-of-the-attack
+	- https://darknetdiaries.com/episode/132/
+	- https://www.microsoft.com/en-us/security/blog/2023/04/07/mercury-and-dev-1084-destructive-attack-on-hybrid-environment/
+	- https://techcrunch.com/2023/04/24/gitlabs-new-security-feature-uses-ai-to-explain-vulnerabilities-to-developers/
+	- https://www.hyas.com/blog/blackmamba-using-ai-to-generate-polymorphic-malware
+	- https://onhexgroup.ir/%D8%A8%D8%B1%D9%88%D8%B2%D8%B1%D8%B3%D8%A7%D9%86%DB%8C-owasp-api-top-10-%D8%A8%D9%87-%D9%86%D8%B3%D8%AE%D9%87-2023/
+
+
+## Data
+- postgres
+	- youtube
+		- [Crunchy Data](https://www.youtube.com/@CrunchyDataPostgres?app=desktop)
+		- [EDBPostgres](https://www.youtube.com/user/EnterpriseDB)
+		- [Architecting & Building a Multi-cloud Postgres Managed Service](https://www.youtube.com/watch?v=eZypM_4xlf8)
+		- [Neon: Serverless PostgreSQL! (Heikki Linnakangas)](https://www.youtube.com/watch?v=rES0yzeERns)
+		- [پایگاه داده توزیع شده سیتوس](https://www.youtube.com/watch?v=-jbWKwnyjoo)
+	- books
+		- https://postgrespro.com/community/books/internals
+		- https://theartofpostgresql.com/
+	- github
+		- https://github.com/citusdata
+			- https://github.com/citusdata/citus
+		- https://github.com/neondatabase/neon
+		- https://github.com/EnterpriseDB/mysql_fdw
+		- https://github.com/dimitri/pgcopydb
+		- awesome
+			- 
+		- best practices
+			- 
+		- cheatsheets
+			- 
+		- tutorials
+			- 
+	- misc
+		- https://pykello.github.io/fa/
+		- https://tapoueh.org/blog/2017/08/sql-regression-tests/?utm_campaign=meetedgar&utm_medium=social&utm_source=meetedgar.com
+		- https://tapoueh.org/blog/2013/08/understanding-window-functions/
+		- https://db.cs.cmu.edu/events/vaccination-2021-postgresql-optimizer-methodology-robert-haas/
+		- https://db.cs.cmu.edu/events/vaccination-2021-citus-distributed-postgresql-as-an-extension-marco-slot/
+		- https://www.citusdata.com/blog/2021/02/20/faster-data-migrations-in-postgres/
+		- https://www.enterprisedb.com/blog/postgresql-tproc-c-benchmarks-postgresql-12-vs-postgresql-13-performance
+		- https://www.thatguyfromdelhi.com/2020/12/what-postgres-sql-causes-table-rewrite.html
+		- https://pg-auto-failover.readthedocs.io/en/latest/tutorial.html
+- hadoop
+	- https://hadoop.apache.org/
+	- http://www.hadoopbook.com/
+	- https://github.com/tomwhite/hadoop-book/tree/master/appc/src/main/sh
+	- https://aws.amazon.com/opendata/open-data-sponsorship-program/
+	- http://infochimps.org/
+	- https://www.apache.org/
+	- github
+		- awesome
+			- 
+		- best practices
+			- 
+		- cheatsheets
+			- 
+		- tutorials
+			- 
+- leveldb
+	- https://github.com/google/leveldb
+	- github
+		- awesome
+			- 
+		- best practices
+			- 
+		- cheatsheets
+			- 
+		- tutorials
+			- 
+
+
+## ACM
+- websites
+	- codeforces
+	- leetcode
+	- geeksforgeeks
+	- codechef
+	- spoj
+	- hackerrank
+	- careercup
+	- interviewbit
+	- interviewcake
+- resources
+	- https://www.geeksforgeeks.org/string-data-structure/
+	- https://www.geeksforgeeks.org/array-subarray-subsequence-and-subset/
+	- https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=shm
+	- https://www.reddit.com/r/cscareerquestions/comments/eb1e2b/my_leetcode_study_guide/
+	- https://www.coursera.org/learn/algorithms-part1
+	- https://www.coursera.org/learn/algorithms-part2
+	- https://www.educative.io/courses/coderust-hacking-the-coding-interview
+	- https://leetcode.com/list/xoqag3yj/
+	- [MIT course on YouTube](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+	- [Stanford courses on Coursera](https://www.coursera.org/specializations/algorithms)
+	- [The Algorithm Design Manual by Skiena (book)](https://www.amazon.com/gp/product/1849967202/)
+	- [The Google course on Udacity](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+	- [Algorithms (book)](https://www.amazon.com/gp/product/032157351X/)
+	- https://github.com/tmwilliamlin168/CompetitiveProgramming
+	- https://williamlin.io/about
+	- Antti Laaksonen: https://jadi.net/wp-content/uploads/2017/07/competetive-programmers-handbook.pdf
+	- google foobar
+	- https://quera.org/problemset
+	- quera problem set, contests, blog, ...
+- github
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
+- One more important thing: review hard problems you solved
+
+
+## System Design
+- concepts
+	- TODO move this section to `learning` repo.
+	- Query Optimization
+	- CAP theorem
+	- NOSQL database
+	- Replication, Prepare/Commit, postgresql_fdw, Partitioning, Atomicity, Transaction
+	- SQL (ex: Postgres, MYSql) vs NOSQL (ex: Cassandra, DynamoDB) vs Cache (ex: Redis) vs Stream Processing (Kafka + Spark) vs Cloud Native Stream Processing (ex: Kinesis) vs Batch Processing (ex: Hadoop, map-reduce) vs Timeseries (ex: InfluxDB)
+		- When use which one?
+	- The rate the data is used (monthly vs realtime)
+	- Scale (read/write)
+		- Write ratio, Read ratio
+		- Num read queries - data volume in each query - num req/sec - can there be spikes in the traffic?
+	- Performance
+		- Write-to-Read data delay
+			- High: can use both batch and stream processing
+			- Low (realtime): can not use batch processing
+		- p99 latency
+			- low: perform count operation on write, no counting or minimal operation while reading
+	- Cost
+		- To minimize cost of development: use opensource
+		- To minimize cost of maintenance: use cloud services
+	- Functional Requirements
+		- What system do
+		- APIs
+		- func process(videoId, type(view, like, comment), metric(sum))
+	- Non-Functional Requirements
+		- Fast, Fault-Tolerant, Secure, Big Scale, High Performance
+		- Scalability, Reliability, Availability, Consistency
+- design patterns(GoF, ...), Agile, Scrum, TDD, Principles(SOLID, DRY, YAGNI, ...), OOP
+	- apply in cpp, java, scala, and golang
+- Resouces
+	- https://refactoring.guru/
+	- 12 factor app
+	- algoexpert, systemexpert
+	- https://www.quora.com/What-is-the-best-book-to-understand-the-SOLID-principles-in-OOP-with-examples
+	- https://www.geeksforgeeks.org/software-design-patterns/?ref=grb
+	- https://www.educative.io/learn
+	- https://www.educative.io/courses/grokking-the-system-design-interview- m2ygV4E81AR#3-Capacity-Estimation-and-Constraints
+	- https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/
+	- https://www.techinterviewhandbook.org/system-design/
+	- https://towardsdatascience.com/the-complete-guide-to-the-system-design-interview-ba118f48bdfc
+	- https://www.interviewbit.com/system-design-interview-questions/
+	- https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/
+	- https://igotanoffer.com/blogs/tech/system-design-interview-prep
+	- https://www.freecodecamp.org/news/systems-design-for-interviews/
+	- search "system design interview preparation" in google then you see a list of books!
+	- https://en.wikipedia.org/wiki/SOLID
+- github
+	- awesome
+		- https://github.com/donnemartin/interactive-coding-challenges
+		- https://github.com/donnemartin/system-design-primer
+		- https://github.com/madd86/awesome-system-design
+		- https://github.com/yangshun/tech-interview-handbook
+		- https://github.com/puncsky/system-design-and-architecture
+		- https://github.com/puncsky/system-design-and-architecture/blob/master/awesome-system-design.md
+		- https://github.com/nimesh-mittal/awesome-system-design
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
+- practice
+	- snappfood (system design, algorithm design)
+	- booking.com
+	- count youtube view
+	- count instagram likes
+	- exchanges like Binance, Coinbase, Kucoin
+- keywords
+	- system design youtube
+
+
+## Interview
+- https://github.com/Olshansk/interview
+- software engineering | python | django | java | golang | OOP | distributed system | ... interview questions
+- Design Patterns, Principles, and OOP in Go and C++ interview questions
+- recent interview questions
+- https://www.geeksforgeeks.org/company-interview-corner/
+- https://www.geeksforgeeks.org/category/interview-experiences/
+- top interview questions on leetcode
+- best practices in python | django | java | golang | OOP | distributed system | ....
+- tips and tricks
+- checklists
+- unit testing
+- Behvioral interview
+	- https://www.youtube.com/watch?v=0Z9RW_hhUT4
+- Youtube Mock interviews
+- HR interview
+- CEO interview
+- https://interviewing.io/
+- https://careercup.com/
+- https://afteracademy.com/blog/distribute-candy-problem
+- https://www.interviewbit.com/problems/distribute-candy/
+- https://www.tutorialcup.com/interview/dynamic-programming/find-maximum-length-snake-sequence.htm
+- https://www.techiedelight.com/maximum-length-snake-sequence/
+- https://www.youtube.com/watch?v=z_YuqLmGZuo
+- https://www.youtube.com/watch?v=aht20iQXfRY
+- https://www.youtube.com/watch?v=CtmBGH8MkX4
+- github
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
+
+
+## Linkedin
+- Courses
+	- https://www.linkedin.com/learning/subscription/career-guidance-hub
+	- https://upjourney.com/how-to-ask-for-feedback-after-a-job-rejection
+	- https://novoresume.com/career-blog/soft-skills
+	- https://stackoverflow.com/questions/46804617/what-is-the-meaning-of-99th-percentile-latency-and-throughput
+	- search in google: soft skills resume
+- Youtube
+	- https://www.youtube.com/watch?v=ELtiMdASSRg
+	- https://www.youtube.com/watch?v=8olUBfbL-NA
+	- https://www.youtube.com/watch?v=T1vlG9394b8
+	- https://www.youtube.com/watch?v=yB-DEm0EsEc
+	- https://www.youtube.com/watch?v=DHvwiA1136Q
+	- https://www.youtube.com/watch?v=nl-OZDVsFsg
+	- https://www.youtube.com/channel/UClxIrrKNy-n8-ZkFT3ATxMw/videos
+	- https://www.youtube.com/watch?v=iBiHDrrHhvM
+	- https://www.youtube.com/watch?v=OcExABAAsXs&t=514s
+- Assessments
+	- https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes
+	- https://www.linkedin.com/help/linkedin/answer/a507663/linkedin-skill-assessments?lang=en
+	- نکات مهاجرت
+		- https://docs.google.com/document/d/1bQA9DM_oM6_skTjYi8-kEWbcJvsH_OnGwGG-0Ggs3T4/edit#
+	- set alert for software developer, software engineer, backend developer, sponsorship, NED, UK, GER, FIN
+	- https://ind.nl/en/documents/06-2022/publicregisterregularlabourandhighlyskilledmigrants.pdf
+- Checklists, Tips and tricks, Best practices
+- https://www.gov.uk/skilled-worker-visa
+- github
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
 
 
 ## C++
@@ -55,6 +482,15 @@ This repository contains a list of references. It should not contain any source 
 - https://www.stroustrup.com/tour3.html
 - https://isocpp.org/
 - https://isocpp.org/tour
+- github
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
 
 
 ## Golang
@@ -93,6 +529,8 @@ This repository contains a list of references. It should not contain any source 
 	- https://github.com/matryer/vice
 - editor
     - https://github.com/golang/vscode-go/wiki/
+- lint
+	- https://github.com/amirphl/learning/blob/main/golang/uber-style-guide-summary.md
 - links
 	- https://www.developer.com/languages/arrays-slices-golang/
 	- https://blog.devgenius.io/the-difference-between-arrays-and-slices-in-golang-6a7b3781c14a
@@ -143,12 +581,30 @@ This repository contains a list of references. It should not contain any source 
 	- https://www.youtube.com/watch?v=s-HXwLqC45c
 	- https://www.youtube.com/watch?v=F365lY5ECGY
 	- https://www.udemy.com/course/design-patterns-go/
+- github
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
 
 
 ## Java, Scala
 - hierarchy like bfs, practice only in Scala
 - https://docs.oracle.com/javase/7/docs/api/overview-summary.html
 - Java `chronicles-wire` port in Golang
+- github
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
 
 
 ## Python
@@ -161,229 +617,30 @@ This repository contains a list of references. It should not contain any source 
 - https://www.geeksforgeeks.org/namedtuple-in-python/?ref=lbp
 - https://github.com/tiangolo/fastapi
 - https://github.com/python-mode/python-mode
+- github
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
 
 
-## Blockchain
-- courses
-    - ocw blockchain engineering and design
-	- two local videos downloaded from youtube: 32h, 16h
-	- https://www.freecodecamp.org/news/tag/blockchain/
-	- https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/
-	- https://www.freecodecamp.org/news/learn-solidity-blockchain-and-smart-contracts-in-a-free/
-	- https://www.classcentral.com/course/freecodecamp-solidity-blockchain-and-smart-contract-course-beginner-to-expert-python-tutorial-57033
-	- https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video_galleries/video-lectures/
-	- blockchain and money course - MIT
-	    - https://www.youtube.com/watch?v=EH6vE97qIP4
-	- https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC
-	- https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V
-	- https://www.youtube.com/watch?v=0xaLT4Svzgo
-	- https://ocw.mit.edu/courses/18-821-project-laboratory-in-mathematics-spring-2013/
-	- https://ocw.mit.edu/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/
-	- https://ocw.mit.edu/search/?q=blockchain&s=department_course_numbers.sort_coursenum
-	- https://www.algoexpert.io/blockchain/product
-- papers
-	- Blockchain and Applications international conferences
-        - other blockchain conferences
-        - algo trading conferences
-        - journals
-	- scholar: survey blockchain
-	- scholar: transformer time-series
-- books
-    - proof of stake by Vitalik Buterin
-- exchange
-	- wallet integration
-	- binance API integration
-	- kucoin API integration
-	- Core Middleware Wallet & Asset Manager System
-	- Core Deposit Watchtower Platform
-	- ETH, BTC, TRON Warm Wallet, Asset Manager & Deposit Watchtower
-	- ERC20 and TRC20 integration.
-	- WAF Protection for the core wallet applications.
-	- Core Accounting Service: This is the service that is in charge of handling user balances and it is involved in almost every request that the client may make on the platform.
-	- Orders Matching Engine: This service is handling orders and it is reporting the trades that should be submitted to the system.
-	- Liquidity Making Automation: The architecture and the algorithm of this service are one of the most complex ones on the platform because it should maintain the liquidity on the exchange meanwhile keeping the load on other services as low as possible.
-	- Customized Load Balancing Design: one of the key features of RCv5 system design was the ability to scale horizontally which needed the specific protocols on the load balancing procedures.
-	- Fraud Control System: The most Complex system logic in the platform which required a deep understanding of the business in order to detect potential frauds in the platform be able and to avoid them.
-	- copy trading
-	- dex smartcontract
-    - nft marketplace
-    - wallex trading bot
-	- https://rabincash.com/
-	- https://www.linkedin.com/company/clanzofficial/
-	- https://twitter.com/cz_binance/status/1600204213908230144/photo/1
-	- https://twitter.com/Algorand
-	- open source
-		- https://github.com/gitbitex/gitbitex-new
-		- https://github.com/opexdev
-		- https://github.com/openware/opendax
-		- https://github.com/peatio/peatio
-		- https://github.com/tigeryant/order-matching-engine
-		- https://github.com/nicoloridulfo/Order-Matching-Engine
-		- https://github.com/enewhuis/liquibook
-		- https://gist.github.com/jdrew1303/e06361070468f6614d52216fb91b79e5
-		- https://github.com/anders94/order-matching-engine
-		- https://github.com/alpacahq/
-		- https://github.com/topics/order-matching
-		- https://github.com/topics/matching-engine
-		- https://github.com/topics/order-matching-system
-	- consideration:
-		- you need to know what to do if someone placed an order at 100$ when price is at 20k.
-		- you also need to be clever about precision and that price delta.
-		- hot and cold orderbook, hot orderbook is the array based one with limited price range. If current price moves 10%, then range is recomputed (whenever orderbook is less busy). All orders that are outside of the array price range go to normal hashmap like orderbook
-- metaverse
-	- Sand token, Land token, Goverance token, soft fork voting, alpha mega events, sandbox integration opensource projects, game maker, apolyx.com
-	- ar/vr + blockchain
-	- https://github.com/oxydev/Histopia-Smart-Contracts
-- algo trading
-	- mql vs python
-	- price prediction with chatgpt
-- jobs
-    - https://www.linkedin.com/jobs/view/3402863409/
-- dev
-	- Solana dev
-	- Tokenization
-
-
-## Security
-- https://support.lastpass.com/help/incident-2-additional-details-of-the-attack
-- Github
-	- https://github.com/s0md3v/XSStrike
-	- https://github.com/s0md3v/Smap
-	- https://github.com/s0md3v/Photon
-	- https://github.com/s0md3v/Arjun
-
-
-## Data
-- query optimization
-- CAP theorem
-- NoSql database concepts
-- LevelDB
-	- https://github.com/google/leveldb
-- Hadoop
-	- https://hadoop.apache.org/
-	- http://www.hadoopbook.com/
-	- https://github.com/tomwhite/hadoop-book/tree/master/appc/src/main/sh
-	- https://aws.amazon.com/opendata/open-data-sponsorship-program/
-	- http://infochimps.org/
-	- https://www.apache.org/
-- https://github.com/EnterpriseDB/mysql_fdw
-
-
-## ACM
-- Websites
-	- codeforces
-	- leetcode
-	- geeksforgeeks
-	- codechef
-	- spoj
-	- hackerrank
-	- careercup
-	- interviewbit
-	- interviewcake
-- Resources
-	- https://www.geeksforgeeks.org/string-data-structure/
-	- https://www.geeksforgeeks.org/array-subarray-subsequence-and-subset/
-	- https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=shm
-	- https://www.reddit.com/r/cscareerquestions/comments/eb1e2b/my_leetcode_study_guide/
-	- https://www.coursera.org/learn/algorithms-part1
-	- https://www.coursera.org/learn/algorithms-part2
-	- https://www.educative.io/courses/coderust-hacking-the-coding-interview
-	- https://leetcode.com/list/xoqag3yj/
-	- MIT course on YouTube: https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
-	- Stanford courses on Coursera: https://www.coursera.org/specializations/algorithms
-	- The Algorithm Design Manual by Skiena (book): https://www.amazon.com/gp/product/1849967202/
-	- The Google course on Udacity: https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
-	- Algorithms (book): https://www.amazon.com/gp/product/032157351X/
-	- https://github.com/tmwilliamlin168/CompetitiveProgramming
-	- https://williamlin.io/about
-	- Antti Laaksonen: https://jadi.net/wp-content/uploads/2017/07/competetive-programmers-handbook.pdf
-	- google foobar
-	- https://quera.org/problemset
-	- quera jobs, problem set, contests, blog, ...
-- One more important thing: review hard problems you solved
-
-
-## System Design
-- https://github.com/donnemartin/interactive-coding-challenges
-- https://github.com/donnemartin/system-design-primer
-- https://refactoring.guru/
-- design patterns(GoF, ...), Agile,Scrum, TDD, Principles(SOLID, DRY, YAGNI, ...), OOP
-	- In Go and CPP
-- awesome system design github
-- practice
-	- snappfood (system design, algorithm design)
-	- booking.com
-- 12 factor app
-- algoexpert, systemexpert
-- https://www.quora.com/What-is-the-best-book-to-understand-the-SOLID-principles-in-OOP-with-examples
-- https://www.geeksforgeeks.org/software-design-patterns/?ref=grb
-- https://www.educative.io/learn
-- https://www.educative.io/courses/grokking-the-system-design-interview- m2ygV4E81AR#3-Capacity-Estimation-and-Constraints
-- https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/
-- https://www.techinterviewhandbook.org/system-design/
-- https://towardsdatascience.com/the-complete-guide-to-the-system-design-interview-ba118f48bdfc
-- https://www.interviewbit.com/system-design-interview-questions/
-- https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/
-- https://igotanoffer.com/blogs/tech/system-design-interview-prep
-- https://www.freecodecamp.org/news/systems-design-for-interviews/
-- search "system design interview preparation" in google then you see a list of books!
-- https://en.wikipedia.org/wiki/SOLID
-
-
-## Interview
-- https://github.com/Olshansk/interview
-- software engineering | python | django | java | golang | OOP | distributed system | ... interview questions
-- Design Patterns, Principles, and OOP in Go and C++ interview questions
-- recent interview questions
-- https://www.geeksforgeeks.org/company-interview-corner/
-- https://www.geeksforgeeks.org/category/interview-experiences/
-- top interview questions on leetcode
-- best practices in python | django | java | golang | OOP | distributed system | ....
-- tips and tricks
-- checklists
-- unit testing
-- Behvioral interview
-	- https://www.youtube.com/watch?v=0Z9RW_hhUT4
-- Youtube Mock interviews
-- HR interview
-- CEO interview
-- https://interviewing.io/
-- https://careercup.com/
-- https://afteracademy.com/blog/distribute-candy-problem
-- https://www.interviewbit.com/problems/distribute-candy/
-- https://www.tutorialcup.com/interview/dynamic-programming/find-maximum-length-snake-sequence.htm
-- https://www.techiedelight.com/maximum-length-snake-sequence/
-- https://www.youtube.com/watch?v=z_YuqLmGZuo
-- https://www.youtube.com/watch?v=aht20iQXfRY
-- https://www.youtube.com/watch?v=CtmBGH8MkX4
-
-
-## Linkedin
-- Courses
-	- https://www.linkedin.com/learning/subscription/career-guidance-hub
-	- https://upjourney.com/how-to-ask-for-feedback-after-a-job-rejection
-	- https://novoresume.com/career-blog/soft-skills
-	- https://stackoverflow.com/questions/46804617/what-is-the-meaning-of-99th-percentile-latency-and-throughput
-	- search in google: soft skills resume
-- Youtube
-	- https://www.youtube.com/watch?v=ELtiMdASSRg
-	- https://www.youtube.com/watch?v=8olUBfbL-NA
-	- https://www.youtube.com/watch?v=T1vlG9394b8
-	- https://www.youtube.com/watch?v=yB-DEm0EsEc
-	- https://www.youtube.com/watch?v=DHvwiA1136Q
-	- https://www.youtube.com/watch?v=nl-OZDVsFsg
-	- https://www.youtube.com/channel/UClxIrrKNy-n8-ZkFT3ATxMw/videos
-	- https://www.youtube.com/watch?v=iBiHDrrHhvM
-	- https://www.youtube.com/watch?v=OcExABAAsXs&t=514s
-- Assessments
-	- https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes
-	- https://www.linkedin.com/help/linkedin/answer/a507663/linkedin-skill-assessments?lang=en
-	- نکات مهاجرت
-		- https://docs.google.com/document/d/1bQA9DM_oM6_skTjYi8-kEWbcJvsH_OnGwGG-0Ggs3T4/edit#
-	- set alert for software developer, software engineer, backend developer, sponsorship, NED, UK, GER, FIN
-	- https://ind.nl/en/documents/06-2022/publicregisterregularlabourandhighlyskilledmigrants.pdf
-- Checklists, Tips and tricks, Best practices
-- https://www.gov.uk/skilled-worker-visa
+## Linux
+- Misc
+    - [Some commands](https://twitter.com/javarevisited/status/1576089457870061568)
+    - [Linux vs Unix](https://twitter.com/BendikMatej/status/1575796900401278976)
+- github
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
 
 
 ## Tech Blogs
@@ -445,6 +702,15 @@ This repository contains a list of references. It should not contain any source 
 - https://blog.pragmaticengineer.com/holiday-tech-book-recommendations/
 - https://www.geeksforgeeks.org/10-best-books-for-database-administrators-and-developers/
 - https://udemyiran.com/product/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d9%84%db%8c%d9%86%d9%88%da%a9%d8%b3-%d8%a7%d8%b2-%d8%b5%d9%81%d8%b1-%d8%a8%d9%87-%d8%b5%d8%af/
+- github
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
 
 
 ## Best Practices
@@ -496,6 +762,7 @@ This repository contains a list of references. It should not contain any source 
 
 	- Security
 		- https://github.com/ConsenSys/smart-contract-best-practices
+		- https://github.com/jassics/security-study-plan
 	- Consensus
 		- https://github.com/tendermint/tendermint
 
@@ -569,42 +836,97 @@ This repository contains a list of references. It should not contain any source 
 ## C
 - https://github.com/lz4/lz4
 - https://github.com/LekKit/RVVM/tree/staging/src
+- github
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
 
 
 ## JavaScript
 - https://github.com/artilleryio/artillery
 - https://github.com/prose/prose
 - https://frontendmasters.com/courses/service-workers/
+- github
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
 
 
 ## TypeScript
 - https://github.com/dotenv-org/dotenv-vault
+- github
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
 
 
 ## Kotlin
-
-
-## Linux
-- Misc
-    - [Some commands](https://twitter.com/javarevisited/status/1576089457870061568)
-    - [Linux vs Unix](https://twitter.com/BendikMatej/status/1575796900401278976)
+- github
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
 
 
 ## HTTP
-- Misc
+- misc
     - [HTTP1,2,3](https://twitter.com/sahnlam/status/1575715452440887296)
+- github
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
 
 
 ## Startup
 - https://www.startupschool.org/
 - https://www.producthunt.com/products/startup-101
-
+- github
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
 
 
 ## Marketing
 - books
     - https://twitter.com/Aazarshad/status/1574745775937945600
-
+- github
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
 
 ## Locomotive
 - [Podcast](http://locomo.tips/podcast/)
