@@ -11,8 +11,8 @@ This repository contains a list of references. It should not contain any source 
 
 ## AI
 - youtube channels
-    - [Full Stack Deep Learning - 2022](https://www.youtube.com/playlist?list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur)
-    - [Lex Fridman youtube channel](https://www.youtube.com/c/lexfridman)
+	- [Full Stack Deep Learning - 2022](https://www.youtube.com/playlist?list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur)
+	- [Lex Fridman youtube channel](https://www.youtube.com/c/lexfridman)
 	- [Andrew deep learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 	- [Stanford CS330: Deep Multi-Task and Meta Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI)
 	- [MIT RES.LL-005 Mathematics of Big Data and Machine Learning](https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V)
@@ -27,17 +27,17 @@ This repository contains a list of references. It should not contain any source 
 	- [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682)
 	- [A platform that brings together the global AI community with impact-driven organizations to build real-world AI solutions.](https://omdena.com/)
 - books
-    - [Best AI and Deep learning books to read in 2022](https://theaisummer.com/deep-learning-books-2022/)
-    - [Harvard CS197: AI Research Experiences – The Course Book](https://docs.google.com/document/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/)
+	- [Best AI and Deep learning books to read in 2022](https://theaisummer.com/deep-learning-books-2022/)
+	- [Harvard CS197: AI Research Experiences – The Course Book](https://docs.google.com/document/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/)
 - courses
-    - [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
+	- [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
 	- https://academy.neuromatch.io/about
 	- https://ocw.mit.edu/courses/18-821-project-laboratory-in-mathematics-spring-2013/
 	- https://ocw.mit.edu/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/
 - projects
-    - [138 Data Science Projects You Can Try with Python](https://python.plainenglish.io/85-data-science-projects-c03c8750599e)
+	- [138 Data Science Projects You Can Try with Python](https://python.plainenglish.io/85-data-science-projects-c03c8750599e)
 - kaggle
-    - [The Most Comprehensive List of Kaggle Solutions and Ideas](https://farid.one/kaggle-solutions/)
+	- [The Most Comprehensive List of Kaggle Solutions and Ideas](https://farid.one/kaggle-solutions/)
 - github
 	- https://github.com/easezyc/deep-transfer-learning
 	- https://github.com/hwchase17/langchain
@@ -55,12 +55,14 @@ This repository contains a list of references. It should not contain any source 
 		- 
 	- tutorials
 		- 
+	- checklists
+		- 
 - misc
 	- [OpenAI wiki](https://en.wikipedia.org/wiki/OpenAI)
-    - [Easy Object Detection with Transformers: Simple Implementation of Pix2Seq Model in PyTorch](https://pub.towardsai.net/easy-object-detection-with-transformers-simple-implementation-of-pix2seq-model-in-pytorch-fde3e7162ce7)
+	- [Easy Object Detection with Transformers: Simple Implementation of Pix2Seq Model in PyTorch](https://pub.towardsai.net/easy-object-detection-with-transformers-simple-implementation-of-pix2seq-model-in-pytorch-fde3e7162ce7)
 	- [2-year journey into deep learning as a medical student — Part I: Initial Steps and the Books](https://medium.com/@moein.shariatnia/my-2-year-journey-into-deep-learning-as-a-medical-student-part-i-initial-steps-and-the-books-d9460d4d82d7)
-    - [2-year journey into deep learning as a medical student](https://medium.com/@moein.shariatnia/my-2-year-journey-into-deep-learning-as-a-medical-student-part-ii-courses-55008ba4aae1)
-    - [2-year journey into deep learning: Part III — Resources to get practice and stay up to date](https://medium.com/@moein.shariatnia/my-2-year-journey-into-deep-learning-part-iii-resources-to-get-practice-and-stay-up-to-date-a5f4aff3a76a)
+	- [2-year journey into deep learning as a medical student](https://medium.com/@moein.shariatnia/my-2-year-journey-into-deep-learning-as-a-medical-student-part-ii-courses-55008ba4aae1)
+	- [2-year journey into deep learning: Part III — Resources to get practice and stay up to date](https://medium.com/@moein.shariatnia/my-2-year-journey-into-deep-learning-part-iii-resources-to-get-practice-and-stay-up-to-date-a5f4aff3a76a)
 	- https://theaisummer.com/
 	- [How ChatGPT Works: The Model Behind The Bot](https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286)
 	- [ChatGPT Writes a Chatbot AI](https://www.youtube.com/watch?v=QumfkMQr47M)
@@ -82,7 +84,7 @@ This repository contains a list of references. It should not contain any source 
 
 ## Blockchain
 - courses
-    - OCW blockchain engineering and design
+	- OCW blockchain engineering and design
 	- two local videos downloaded from youtube: 32h, 16h
 	- https://www.freecodecamp.org/news/tag/blockchain/
 	- https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/
@@ -102,7 +104,7 @@ This repository contains a list of references. It should not contain any source 
 		- 
 	- keywords: survey blockchain, transformer time-series
 - books
-    - Proof of Stake: The Making of Ethereum and the Philosophy of Blockchains
+	- Proof of Stake: The Making of Ethereum and the Philosophy of Blockchains
 - exchange
 	- features
 		- wallet integration
@@ -153,7 +155,7 @@ This repository contains a list of references. It should not contain any source 
 	- mql vs python
 	- price prediction with chatgpt
 - jobs
-    - https://www.linkedin.com/jobs/view/3402863409/
+	- https://www.linkedin.com/jobs/view/3402863409/
 - dev
 	- Solana dev
 	- Tokenization
@@ -165,6 +167,8 @@ This repository contains a list of references. It should not contain any source 
 	- cheatsheets
 		- 
 	- tutorials
+		- 
+	- checklists
 		- 
 
 
@@ -201,12 +205,14 @@ This repository contains a list of references. It should not contain any source 
 		- 
 	- tutorials
 		- 
+	- checklists
+		- 
 - twitter
-    - https://twitter.com/M0UNTAIN_HUNTER/status/1641838750584979456
-    - https://twitter.com/voorivex/status/1644449859838128129
-    - https://twitter.com/voorivex/status/1646958540626579466
-    - https://twitter.com/voorivex/status/1646848436921065474
-    - https://twitter.com/voorivex/status/1648769642079440906
+	- https://twitter.com/M0UNTAIN_HUNTER/status/1641838750584979456
+	- https://twitter.com/voorivex/status/1644449859838128129
+	- https://twitter.com/voorivex/status/1646958540626579466
+	- https://twitter.com/voorivex/status/1646848436921065474
+	- https://twitter.com/voorivex/status/1648769642079440906
 - misc
 	- https://support.lastpass.com/help/incident-2-additional-details-of-the-attack
 	- https://darknetdiaries.com/episode/132/
@@ -214,6 +220,7 @@ This repository contains a list of references. It should not contain any source 
 	- https://techcrunch.com/2023/04/24/gitlabs-new-security-feature-uses-ai-to-explain-vulnerabilities-to-developers/
 	- https://www.hyas.com/blog/blackmamba-using-ai-to-generate-polymorphic-malware
 	- https://onhexgroup.ir/%D8%A8%D8%B1%D9%88%D8%B2%D8%B1%D8%B3%D8%A7%D9%86%DB%8C-owasp-api-top-10-%D8%A8%D9%87-%D9%86%D8%B3%D8%AE%D9%87-2023/
+	- use HTTPs, server render, store JWT/token in 'secure' - 'samesite' - 'httponly' cookie (prevent XSS), declare content security policy (prevent XSS), regen cookies when user auths (prevent session fixation), set short cookie lifetime
 
 
 ## Data
@@ -241,6 +248,8 @@ This repository contains a list of references. It should not contain any source 
 			- 
 		- tutorials
 			- 
+		- checklists
+			- 
 	- misc
 		- https://pykello.github.io/fa/
 		- https://tapoueh.org/blog/2017/08/sql-regression-tests/?utm_campaign=meetedgar&utm_medium=social&utm_source=meetedgar.com
@@ -254,10 +263,22 @@ This repository contains a list of references. It should not contain any source 
 - hadoop
 	- https://hadoop.apache.org/
 	- http://www.hadoopbook.com/
-	- https://github.com/tomwhite/hadoop-book/tree/master/appc/src/main/sh
 	- https://aws.amazon.com/opendata/open-data-sponsorship-program/
 	- http://infochimps.org/
 	- https://www.apache.org/
+	- github
+		- https://github.com/tomwhite/hadoop-book/tree/master/appc/src/main/sh
+		- awesome
+			- 
+		- best practices
+			- 
+		- cheatsheets
+			- 
+		- tutorials
+			- 
+		- checklists
+			- 
+- kafka
 	- github
 		- awesome
 			- 
@@ -266,6 +287,20 @@ This repository contains a list of references. It should not contain any source 
 		- cheatsheets
 			- 
 		- tutorials
+			- 
+		- checklists
+			- 
+- rabbitmq
+	- github
+		- awesome
+			- 
+		- best practices
+			- 
+		- cheatsheets
+			- 
+		- tutorials
+			- 
+		- checklists
 			- 
 - leveldb
 	- https://github.com/google/leveldb
@@ -277,6 +312,8 @@ This repository contains a list of references. It should not contain any source 
 		- cheatsheets
 			- 
 		- tutorials
+			- 
+		- checklists
 			- 
 
 
@@ -320,6 +357,16 @@ This repository contains a list of references. It should not contain any source 
 		- 
 	- tutorials
 		- 
+	- checklists
+		- 
+- misc
+	- https://quera.org/course/assignments/2693/problems/8773
+	- https://en.cppreference.com/w/cpp/types/integer
+	- https://cplusplus.com/reference/unordered_set/unordered_set/insert/
+	- https://afteracademy.com/blog/distribute-candy-problem
+	- https://www.interviewbit.com/problems/distribute-candy/
+	- https://www.tutorialcup.com/interview/dynamic-programming/find-maximum-length-snake-sequence.htm
+	- https://www.techiedelight.com/maximum-length-snake-sequence/
 - One more important thing: review hard problems you solved
 
 
@@ -328,6 +375,7 @@ This repository contains a list of references. It should not contain any source 
 	- TODO move this section to `learning` repo.
 	- Query Optimization
 	- CAP theorem
+	- PACELC theorem
 	- NOSQL database
 	- Replication, Prepare/Commit, postgresql_fdw, Partitioning, Atomicity, Transaction
 	- SQL (ex: Postgres, MYSql) vs NOSQL (ex: Cassandra, DynamoDB) vs Cache (ex: Redis) vs Stream Processing (Kafka + Spark) vs Cloud Native Stream Processing (ex: Kinesis) vs Batch Processing (ex: Hadoop, map-reduce) vs Timeseries (ex: InfluxDB)
@@ -352,7 +400,8 @@ This repository contains a list of references. It should not contain any source 
 	- Non-Functional Requirements
 		- Fast, Fault-Tolerant, Secure, Big Scale, High Performance
 		- Scalability, Reliability, Availability, Consistency
-- design patterns(GoF, ...), Agile, Scrum, TDD, Principles(SOLID, DRY, YAGNI, ...), OOP
+	- Exactly once delivery
+- design patterns(gof, ...), tdd, design principles(solid, dry, yagni, ...), oop
 	- apply in cpp, java, scala, and golang
 - Resouces
 	- https://refactoring.guru/
@@ -386,6 +435,8 @@ This repository contains a list of references. It should not contain any source 
 		- 
 	- tutorials
 		- 
+	- checklists
+		- 
 - practice
 	- snappfood (system design, algorithm design)
 	- booking.com
@@ -397,32 +448,27 @@ This repository contains a list of references. It should not contain any source 
 
 
 ## Interview
-- https://github.com/Olshansk/interview
-- software engineering | python | django | java | golang | OOP | distributed system | ... interview questions
-- Design Patterns, Principles, and OOP in Go and C++ interview questions
-- recent interview questions
-- https://www.geeksforgeeks.org/company-interview-corner/
-- https://www.geeksforgeeks.org/category/interview-experiences/
-- top interview questions on leetcode
-- best practices in python | django | java | golang | OOP | distributed system | ....
-- tips and tricks
-- checklists
-- unit testing
-- Behvioral interview
-	- https://www.youtube.com/watch?v=0Z9RW_hhUT4
-- Youtube Mock interviews
+- `interview questions` and `best practices` of:
+	- cpp, java, scala, golang, python, django, blockchain, security, data(postgres, kafka, ...), algorithm, data structure, system design, design patterns, design principles(solid, yagni, ...), oop, linux (lpic, bash), vim, regex, video conferencing stack(webrtc, sdp, rtp, rsvp, ...), devops(kuber, docker), cloud(aws, azure, gdc, ...), serialization(grpc, thrift, graphql, rest), agile (scrum, kanban, jira, ...)
+	- software engineering
+	- distributed systems
+- system design interview youtube
 - HR interview
 - CEO interview
-- https://interviewing.io/
-- https://careercup.com/
-- https://afteracademy.com/blog/distribute-candy-problem
-- https://www.interviewbit.com/problems/distribute-candy/
-- https://www.tutorialcup.com/interview/dynamic-programming/find-maximum-length-snake-sequence.htm
-- https://www.techiedelight.com/maximum-length-snake-sequence/
-- https://www.youtube.com/watch?v=z_YuqLmGZuo
-- https://www.youtube.com/watch?v=aht20iQXfRY
-- https://www.youtube.com/watch?v=CtmBGH8MkX4
+- behvioral interview
+- resources
+	- youtube mock interviews
+	- top interview questions on leetcode
+	- https://interviewing.io/
+	- https://careercup.com/
+	- https://www.geeksforgeeks.org/company-interview-corner/
+	- https://www.geeksforgeeks.org/category/interview-experiences/
+	- [Behvioral interview](https://www.youtube.com/watch?v=0Z9RW_hhUT4)
+	- [Five common system design interview mistakes](https://www.youtube.com/watch?v=z_YuqLmGZuo)
+	- [How to best prepare for system design interviews](https://www.youtube.com/watch?v=aht20iQXfRY)
+	- [5 Tips for System Design Interviews](https://www.youtube.com/watch?v=CtmBGH8MkX4)
 - github
+	- https://github.com/Olshansk/interview
 	- awesome
 		- 
 	- best practices
@@ -431,58 +477,57 @@ This repository contains a list of references. It should not contain any source 
 		- 
 	- tutorials
 		- 
+	- checklists
+		- 
 
 
 ## Linkedin
-- Courses
+- courses
 	- https://www.linkedin.com/learning/subscription/career-guidance-hub
 	- https://upjourney.com/how-to-ask-for-feedback-after-a-job-rejection
 	- https://novoresume.com/career-blog/soft-skills
 	- https://stackoverflow.com/questions/46804617/what-is-the-meaning-of-99th-percentile-latency-and-throughput
 	- search in google: soft skills resume
-- Youtube
-	- https://www.youtube.com/watch?v=ELtiMdASSRg
-	- https://www.youtube.com/watch?v=8olUBfbL-NA
-	- https://www.youtube.com/watch?v=T1vlG9394b8
-	- https://www.youtube.com/watch?v=yB-DEm0EsEc
-	- https://www.youtube.com/watch?v=DHvwiA1136Q
-	- https://www.youtube.com/watch?v=nl-OZDVsFsg
-	- https://www.youtube.com/channel/UClxIrrKNy-n8-ZkFT3ATxMw/videos
-	- https://www.youtube.com/watch?v=iBiHDrrHhvM
-	- https://www.youtube.com/watch?v=OcExABAAsXs&t=514s
-- Assessments
+- youtube
+	- [چگونه برای مصاحبه کاری آماده شویم؟](https://www.youtube.com/watch?v=ELtiMdASSRg)
+	- [ده اشتباهی که جونیورها در سی وی انجام میدن](https://www.youtube.com/watch?v=8olUBfbL-NA)
+	- [آموزش ساخت پروفایل لینکدین جذاب و حرفه‌ای](https://www.youtube.com/watch?v=T1vlG9394b8)
+	- [چرا شرکت ها در مصاحبه سوال های بی ربط می پرسند؟](https://www.youtube.com/watch?v=yB-DEm0EsEc)
+	- [!رمز و رازهای مصاحبه قبل از استخدام](https://www.youtube.com/watch?v=DHvwiA1136Q)
+	- [ATS - همه چیز در مورد بررسی رزومه توسط کامپیوتر](https://www.youtube.com/watch?v=nl-OZDVsFsg)
+	- [Siavash Ghanbari](https://www.youtube.com/channel/UClxIrrKNy-n8-ZkFT3ATxMw/videos)
+- assessments
 	- https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes
 	- https://www.linkedin.com/help/linkedin/answer/a507663/linkedin-skill-assessments?lang=en
-	- نکات مهاجرت
-		- https://docs.google.com/document/d/1bQA9DM_oM6_skTjYi8-kEWbcJvsH_OnGwGG-0Ggs3T4/edit#
+- misc
+	- [نکات مهاجرت](https://docs.google.com/document/d/1bQA9DM_oM6_skTjYi8-kEWbcJvsH_OnGwGG-0Ggs3T4/edit#)
 	- set alert for software developer, software engineer, backend developer, sponsorship, NED, UK, GER, FIN
 	- https://ind.nl/en/documents/06-2022/publicregisterregularlabourandhighlyskilledmigrants.pdf
-- Checklists, Tips and tricks, Best practices
-- https://www.gov.uk/skilled-worker-visa
-- github
-	- awesome
-		- 
-	- best practices
-		- 
-	- cheatsheets
-		- 
-	- tutorials
-		- 
+	- https://www.gov.uk/skilled-worker-visa
 
 
 ## C++
-- 10000 libs, books, iso, frameworks
-- https://cplusplus.com/
-- https://en.cppreference.com/w/
-- https://lefticus.gitbooks.io/cpp-best-practices/content/
-- https://cpppatterns.com/
-- https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
-- https://github.com/TheLartians/ModernCppStarter
-- https://github.com/filipdutescu/modern-cpp-template
-- https://www.stroustrup.com/tour3.html
-- https://isocpp.org/
-- https://isocpp.org/tour
+- 10000 libs, frameworks, books, iso
+- .lib, .dll, cygiwn, mingw, clang, mvc++, microsoft visual c++ redist, qt, pipes, posix
+	- https://en.wikipedia.org/wiki/POSIX
+	- https://en.wikipedia.org/wiki/Microsoft_Visual_C%2B%2B
+	- visual studio
+	- cuda c++
+	- windows subsystem for linux
+	- c11 c99, c++98, c++11, c++14, c++17
+	- configure, make, publish source, different architectures: amd, arm, x86, ...., .h and .c .cpp files
+- resources
+	- https://cplusplus.com/
+	- https://en.cppreference.com/w/
+	- https://lefticus.gitbooks.io/cpp-best-practices/content/
+	- https://cpppatterns.com/
+	- https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
+	- https://isocpp.org/
+	- https://isocpp.org/tour
+	- https://www.stroustrup.com/tour3.html
 - github
+	- https://github.com/TheLartians/ModernCppStarter
+	- https://github.com/filipdutescu/modern-cpp-template
 	- awesome
 		- 
 	- best practices
@@ -490,30 +535,43 @@ This repository contains a list of references. It should not contain any source 
 	- cheatsheets
 		- 
 	- tutorials
+		- 
+	- checklists
 		- 
 
 
 ## Golang
-- learning
-	- https://github.com/GoesToEleven/GolangTraining/
-	- golang 11 projects
+- 10000 libs, frameworks, books
+- resources
 	- https://go.dev/doc/
+	- https://go.dev/doc/code
 	- https://go.dev/doc/effective_go
 	- https://go.dev/blog/slices-intro
 	- https://go.dev/blog/slices
 	- https://go.dev/blog/strings
-    - https://go.dev/ref/spec
+	- https://go.dev/ref/spec
+	- https://go.dev/ref/mod
 	- https://gobyexample.com/
 	- https://gowebexamples.com/
 	- https://gophercises.com/
 	- https://www.ardanlabs.com/
 	- book: The Go Programming Language
 	- book: webrtc in pion
-    - https://go.dev/doc/code
-    - https://go.dev/ref/mod
+- design patterns
+	- https://refactoring.guru/design-patterns/go
+	- https://golangbyexample.com/all-design-patterns-golang/
+	- https://www.godesignpatterns.com/
+	- https://github.com/PacktPublishing/Go-Design-Patterns
+	- https://github.com/ismanf/golang-design-patterns
+	- https://www.reactivemanifesto.org/
+	- https://www.udemy.com/course/design-patterns-go/
+	- https://medium.com/swlh/design-patterns-in-go-d90e7866deff
+	- https://dev.to/mauriciolinhares/gof-design-patterns-that-still-make-sense-in-go-27k5
+	- [Idiomatic Design Patterns in Go](https://www.youtube.com/watch?v=HHqv3_rUr88)
+	- [Design patterns for microservices in Go (Part 1)](https://www.youtube.com/watch?v=s-HXwLqC45c)
+	- [Go Design Patterns - The Decorator Pattern - Part One](https://www.youtube.com/watch?v=F365lY5ECGY)
 - github
-	- 1000 top libs
-	- google: golang projects
+	- https://github.com/search?q=org%3AOpenHFT+golang&type=topics
 	- https://github.com/pion/webrtc
 	- https://github.com/mattermost/mattermost-server
 	- https://github.com/iancoleman/orderedmap
@@ -527,11 +585,22 @@ This repository contains a list of references. It should not contain any source 
 	- https://github.com/matryer/moq
 	- https://github.com/matryer/is
 	- https://github.com/matryer/vice
+	- https://github.com/stuartcarnie/go-simd
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- https://github.com/GoesToEleven/GolangTraining/
+	- checklists
+		- 
 - editor
-    - https://github.com/golang/vscode-go/wiki/
+	- https://github.com/golang/vscode-go/wiki/
 - lint
 	- https://github.com/amirphl/learning/blob/main/golang/uber-style-guide-summary.md
-- links
+- misc
 	- https://www.developer.com/languages/arrays-slices-golang/
 	- https://blog.devgenius.io/the-difference-between-arrays-and-slices-in-golang-6a7b3781c14a
 	- https://www.godesignpatterns.com/2014/05/arrays-vs-slices.html
@@ -540,8 +609,6 @@ This repository contains a list of references. It should not contain any source 
 	- https://stackoverflow.com/questions/11943841/what-is-channel-buffer-size
 	- https://stackoverflow.com/questions/28886616/convert-array-to-slice-in-go
 	- https://developer.mozilla.org/en-US/docs/Glossary/CRLF
-	- EOF character
-	- https://github.com/akka/akka
 	- https://stackoverflow.com/questions/21494157/akka-or-similar-alternative-for-golang-to-support-distributed-concurrency
 	- https://www.geeksforgeeks.org/class-and-object-in-golang/
 	- https://golangbot.com/structs-instead-of-classes/
@@ -549,7 +616,6 @@ This repository contains a list of references. It should not contain any source 
 	- https://stackoverflow.com/questions/22892120/how-to-generate-a-random-string-of-a-fixed-length-in-go
 	- https://quera.org/contest/assignments/45362/problems/156377
 	- https://quera.org/blog/codecup-7-golang-warm-up-solutions/
-	- https://github.com/stuartcarnie/go-simd
 	- https://stackoverflow.com/questions/15520590/comparison-and-ordering-in-go
 	- https://pkg.go.dev/golang.org/x/time/rate
 	- https://en.wikipedia.org/wiki/Single_instruction,_multiple_data
@@ -559,44 +625,46 @@ This repository contains a list of references. It should not contain any source 
 	- https://stackoverflow.com/questions/13870845/converting-from-an-integer-to-its-binary-representation
 	- https://stackoverflow.com/questions/56605810/how-to-define-bit-literals-in-go
 	- https://stackoverflow.com/questions/6963078/how-to-convert-int-to-uint8
-	- https://cloud.google.com/products
-	- https://cloud.google.com/serverless
-	- https://community.hetzner.com/tutorials/basic-cloud-config
-	- https://docs.hetzner.cloud/#labels
 	- https://research.swtch.com/2009/12/go-data-structures-interfaces.html
-	- https://github.com/search?q=org%3AOpenHFT+golang&type=topics
-- patterns
-	- https://refactoring.guru/design-patterns/go
-	- https://github.com/donnemartin/system-design-primer
-	- system design interview youtube
-	- patterns, layouts, project boilerplate
-	- https://dev.to/mauriciolinhares/gof-design-patterns-that-still-make-sense-in-go-27k5
-	- http://golangbyexample.com/all-design-patterns-golang/
-	- https://medium.com/swlh/design-patterns-in-go-d90e7866deff
-	- https://github.com/PacktPublishing/Go-Design-Patterns
-	- https://www.godesignpatterns.com/
-	- https://github.com/ismanf/golang-design-patterns
-	- https://www.reactivemanifesto.org/
-	- https://www.youtube.com/watch?v=HHqv3_rUr88
-	- https://www.youtube.com/watch?v=s-HXwLqC45c
-	- https://www.youtube.com/watch?v=F365lY5ECGY
-	- https://www.udemy.com/course/design-patterns-go/
-- github
-	- awesome
-		- 
-	- best practices
-		- 
-	- cheatsheets
-		- 
-	- tutorials
-		- 
+	- EOF character
 
 
 ## Java, Scala
-- hierarchy like bfs, practice only in Scala
-- https://docs.oracle.com/javase/7/docs/api/overview-summary.html
-- Java `chronicles-wire` port in Golang
+- 10000 libs, frameworks, books
+- class loading, why String is immutable?, java string pool, array vs arrayList, key features of java 8 (lambda expressions, optional class, default method, method reference, lambdas, parallel collection, streams, ...),
+- resources
+	- https://docs.oracle.com/en/java/javase/
+	- https://docs.oracle.com/en/java/javase/20/language/
+	- https://docs.oracle.com/javaee/7/index.html
+	- https://docs.oracle.com/javase/7/docs/api/overview-summary.html
+	- https://docs.oracle.com/javase/8/docs/
+	- https://docs.oracle.com/javase/specs/jls/se8/html/jls-17.html
+	- https://docs.oracle.com/javase/specs/jls/se8/html/index.html
+	- https://docs.oracle.com/javase/specs/index.html
+	- https://docs.oracle.com/javase/tutorial/index.html
+	- https://docs.oracle.com/en/java/java-components/index.html
+	- https://docs.oracle.com/solutions/
+	- https://docs.oracle.com/en/database/index.html
+	- https://www.oracle.com/java/technologies/javase-documentation.html
+	- https://blogs.oracle.com/oracle-help-center/
+	- https://developer.oracle.com/
+	- https://en.wikipedia.org/wiki/Double-checked_locking
+	- https://en.wikipedia.org/wiki/Mutual_exclusion
+	- https://en.wikipedia.org/wiki/Semaphore_(programming)
+	- https://en.wikipedia.org/wiki/Lock-free_and_wait-free_algorithms
+	- https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability)
+	- https://rockthejvm.com/
+	- [Rock the JVM](https://www.youtube.com/c/RocktheJVM/videos)
+	- [Java Concurrency in Practice](https://jcip.net/)
+	- [The JSR-133 Cookbook for Compiler Writers](https://gee.cs.oswego.edu/dl/jmm/cookbook.html)
+	- http://bad-concurrency.blogspot.com/
+	- https://mechanical-sympathy.blogspot.com/
 - github
+	- https://github.com/akka/akka
+	- https://github.com/real-logic/aeron
+	- https://github.com/spockframework/spock
+	- https://github.com/javalin/javalin
+	- https://github.com/sdkman
 	- awesome
 		- 
 	- best practices
@@ -605,6 +673,11 @@ This repository contains a list of references. It should not contain any source 
 		- 
 	- tutorials
 		- 
+	- checklists
+		- 
+- misc
+	- https://stackoverflow.com/questions/24469063/behavior-of-memory-barrier-in-java
+	- https://stackoverflow.com/questions/38414829/
 
 
 ## Python
@@ -626,12 +699,16 @@ This repository contains a list of references. It should not contain any source 
 		- 
 	- tutorials
 		- 
+	- checklists
+		- 
 
 
 ## Linux
+- LPIC
+- bash scripting
 - Misc
-    - [Some commands](https://twitter.com/javarevisited/status/1576089457870061568)
-    - [Linux vs Unix](https://twitter.com/BendikMatej/status/1575796900401278976)
+	- [Some commands](https://twitter.com/javarevisited/status/1576089457870061568)
+	- [Linux vs Unix](https://twitter.com/BendikMatej/status/1575796900401278976)
 - github
 	- awesome
 		- 
@@ -641,7 +718,116 @@ This repository contains a list of references. It should not contain any source 
 		- 
 	- tutorials
 		- 
+	- checklists
+		- 
 
+
+## DevOps
+- kubernetes
+- docker
+- github
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
+	- checklists
+		- 
+
+## Cloud
+- aws
+- azure
+- google cloud platform (gdc)
+- github
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
+	- checklists
+		- 
+
+## Serialization
+- grpc
+- thrift
+- graphql
+- rest
+- github
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
+	- checklists
+		- 
+
+## Vim
+- github
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
+	- checklists
+		- 
+
+## Regex
+- github
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
+	- checklists
+		- 
+
+## Video Conferencing Stack
+- webrtc
+- sdp
+- rtp
+- rsvp
+- github
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
+	- checklists
+		- 
+
+## Agile
+- scrum
+- kanban
+- jira
+- github
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
+	- checklists
+		- 
 
 ## Tech Blogs
 - available in `todo2`
@@ -710,6 +896,8 @@ This repository contains a list of references. It should not contain any source 
 	- cheatsheets
 		- 
 	- tutorials
+		- 
+	- checklists
 		- 
 
 
@@ -828,15 +1016,15 @@ This repository contains a list of references. It should not contain any source 
 - Github
 	- https://github.com/tiimgreen/github-cheat-sheet
 - AI
-    - https://github.com/Renumics/awesome-open-data-centric-ai
+	- https://github.com/Renumics/awesome-open-data-centric-ai
 - ChatGPT
 	- https://github.com/f/awesome-chatgpt-prompts
 
 
 ## C
-- https://github.com/lz4/lz4
-- https://github.com/LekKit/RVVM/tree/staging/src
 - github
+	- https://github.com/lz4/lz4
+	- https://github.com/LekKit/RVVM/tree/staging/src
 	- awesome
 		- 
 	- best practices
@@ -844,14 +1032,65 @@ This repository contains a list of references. It should not contain any source 
 	- cheatsheets
 		- 
 	- tutorials
+		- 
+	- checklists
+		- 
+
+
+## Rust:
+- resources
+	- https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html
+	- https://this-week-in-rust.org/blog/2023/04/05/this-week-in-rust-489/
+	- [Rust Crash Course](https://www.youtube.com/playlist?list=PL6yRaaP0WPkWRsXJgdnw9lj1vchAaKwfS)
+- misc
+	- https://twitter.com/RyanCarniato/status/1580347110611816448
+	- https://twitter.com/ahrzb/status/1647901909603287041
+	- https://twitter.com/mr_pouriya/status/1648925173310009344
+	- https://idursun.com/posts/rust_zero_cost_abstractions_in_action/
+	- [Rust-based platform for the Web](https://swc.rs/)
+- github
+	- https://github.com/rust-lang/rustlings
+	- https://github.com/charliermarsh/ruff
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
+	- checklists
+		- 
+
+
+## Erlang, Elixir
+- resources
+	- 
+- github
+	- https://joearms.github.io/#Index
+	- https://github.com/processone/tsung
+	- https://www.emqx.io/
+	- https://www.ejabberd.im/
+	- https://www.rabbitmq.com/
+	- awesome
+		- 
+	- best practices
+		- 
+	- cheatsheets
+		- 
+	- tutorials
+		- 
+	- checklists
 		- 
 
 
 ## JavaScript
-- https://github.com/artilleryio/artillery
-- https://github.com/prose/prose
 - https://frontendmasters.com/courses/service-workers/
+- https://frontendmasters.com/courses/javascript-hard-parts-v2/
+- https://www.udemy.com/course/the-complete-javascript-course/
 - github
+	- https://github.com/artilleryio/artillery
+	- https://github.com/prose/prose
 	- awesome
 		- 
 	- best practices
@@ -859,6 +1098,8 @@ This repository contains a list of references. It should not contain any source 
 	- cheatsheets
 		- 
 	- tutorials
+		- 
+	- checklists
 		- 
 
 
@@ -873,6 +1114,8 @@ This repository contains a list of references. It should not contain any source 
 		- 
 	- tutorials
 		- 
+	- checklists
+		- 
 
 
 ## Kotlin
@@ -885,11 +1128,13 @@ This repository contains a list of references. It should not contain any source 
 		- 
 	- tutorials
 		- 
+	- checklists
+		- 
 
 
 ## HTTP
 - misc
-    - [HTTP1,2,3](https://twitter.com/sahnlam/status/1575715452440887296)
+	- [HTTP1,2,3](https://twitter.com/sahnlam/status/1575715452440887296)
 - github
 	- awesome
 		- 
@@ -898,6 +1143,8 @@ This repository contains a list of references. It should not contain any source 
 	- cheatsheets
 		- 
 	- tutorials
+		- 
+	- checklists
 		- 
 
 
@@ -913,11 +1160,13 @@ This repository contains a list of references. It should not contain any source 
 		- 
 	- tutorials
 		- 
+	- checklists
+		- 
 
 
 ## Marketing
 - books
-    - https://twitter.com/Aazarshad/status/1574745775937945600
+	- https://twitter.com/Aazarshad/status/1574745775937945600
 - github
 	- awesome
 		- 
@@ -927,19 +1176,21 @@ This repository contains a list of references. It should not contain any source 
 		- 
 	- tutorials
 		- 
+	- checklists
+		- 
 
 ## Locomotive
 - [Podcast](http://locomo.tips/podcast/)
 - Twitter
-    - [Jeff Dean](https://twitter.com/Loc0m0/status/1565177889296764928)
-    - [programmer](https://twitter.com/Loc0m0/status/1513688441057210377)
-    - [startup vs company](https://twitter.com/Loc0m0/status/1566366156901871616)
-    - [facts about programming](https://twitter.com/Loc0m0/status/1612692005267853312)
-    - [facts about programming (cont)](https://twitter.com/Loc0m0/status/1613054324669829120)
-    - [self love](https://twitter.com/Loc0m0/status/1613813173576171522)
-    - [interview for getting job in USA](https://twitter.com/Loc0m0/status/1617770894277103619)
-    - [?](https://twitter.com/Loc0m0/status/1617770915827453954)
-    - [junior vs senior](https://twitter.com/Loc0m0/status/1623585934259425281)
-    - [starlink](https://twitter.com/Loc0m0/status/1583365549131603968)
-    - [Don't get arrested](https://twitter.com/Loc0m0/status/1586279906144501760)
-    - [jobs](https://twitter.com/Loc0m0/status/1599308373844901889)
+	- [Jeff Dean](https://twitter.com/Loc0m0/status/1565177889296764928)
+	- [programmer](https://twitter.com/Loc0m0/status/1513688441057210377)
+	- [startup vs company](https://twitter.com/Loc0m0/status/1566366156901871616)
+	- [facts about programming](https://twitter.com/Loc0m0/status/1612692005267853312)
+	- [facts about programming (cont)](https://twitter.com/Loc0m0/status/1613054324669829120)
+	- [self love](https://twitter.com/Loc0m0/status/1613813173576171522)
+	- [interview for getting job in USA](https://twitter.com/Loc0m0/status/1617770894277103619)
+	- [?](https://twitter.com/Loc0m0/status/1617770915827453954)
+	- [junior vs senior](https://twitter.com/Loc0m0/status/1623585934259425281)
+	- [starlink](https://twitter.com/Loc0m0/status/1583365549131603968)
+	- [Don't get arrested](https://twitter.com/Loc0m0/status/1586279906144501760)
+	- [jobs](https://twitter.com/Loc0m0/status/1599308373844901889)
