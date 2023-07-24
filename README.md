@@ -1,4 +1,4 @@
-This repository contains a list of references. It should not contain any source code. Folders perhaps include some PDF files or README files.
+This repository contains a list of references.
 
 
 ## Research
@@ -86,7 +86,8 @@ This repository contains a list of references. It should not contain any source 
     - https://github.com/mindsdb/mindsdb
     - https://github.com/microsoft/DeepSpeed
     - awesome
-        - 
+        - https://github.com/Renumics/awesome-open-data-centric-ai
+        - https://github.com/f/awesome-chatgpt-prompts
     - best practices
         - 
     - cheatsheets
@@ -238,14 +239,29 @@ This repository contains a list of references. It should not contain any source 
 - github
     - https://github.com/BlockstreamResearch
     - https://github.com/blockchain-etl/bitcoin-etl
+    - https://github.com/tendermint/tendermint
     - awesome
-        - 
+        - https://roadmap.sh/blockchain
+        - https://github.com/openblockchains/awesome-blockchains
+        - https://github.com/imbaniac/awesome-blockchain
+        - https://github.com/igorbarinov/awesome-blockchain
+        - https://github.com/yjjnls/awesome-blockchain
+        - https://github.com/OffcierCia/DeFi-Developer-Road-Map
+        - https://github.com/wilsonfreitas/awesome-quant
     - best practices
-        - 
+        - https://github.com/ConsenSys/smart-contract-best-practices
     - cheatsheets
         - 
     - tutorials
-        - 
+        - https://github.com/coinpride/CryptoList
+        - https://github.com/Scanate/EthList
+        - https://github.com/yeasy/blockchain_guide
+        - https://github.com/FrancescoXX/free-Web3-resources
+        - https://github.com/smartcontractkit/full-blockchain-solidity-course-js
+        - https://github.com/Dapp-Learning-DAO/Dapp-Learning
+        - https://github.com/Xel/Blockchain-stuff
+        - https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line
+        - https://github.com/liuchengxu/blockchain-tutorial
     - checklists
         - 
 - misc
@@ -290,15 +306,22 @@ This repository contains a list of references. It should not contain any source 
     - https://github.com/s0md3v/Arjun
     - https://github.com/buzzer-re/Shinigami/
     - awesome
-        - 
+        - https://github.com/enaqx/awesome-pentest
+        - https://github.com/rshipp/awesome-malware-analysis
+        - https://github.com/qazbnm456/awesome-web-security
+        - https://github.com/carpedm20/awesome-hacking
+        - https://github.com/pluja/awesome-privacy
+        - https://github.com/ashishb/android-security-awesome
+        - https://github.com/s0md3v/AwesomeXSS
+        - https://github.com/decalage2/awesome-security-hardening
     - best practices
-        - 
+        - https://github.com/OWASP/wstg
     - cheatsheets
-        - 
+        - https://github.com/OWASP/CheatSheetSeries
     - tutorials
-        - 
+        - https://github.com/jassics/security-study-plan
     - checklists
-        - 
+        - https://github.com/Lissy93/personal-security-checklist
 - twitter
     - https://twitter.com/M0UNTAIN_HUNTER/status/1641838750584979456
     - https://twitter.com/voorivex/status/1644449859838128129
@@ -475,7 +498,7 @@ Also refer to [##System Design](#system-design).
 - github
     - https://github.com/tmwilliamlin168/CompetitiveProgramming
     - awesome
-        - 
+        - https://github.com/lnishan/awesome-competitive-programming
     - best practices
         - 
     - cheatsheets
@@ -580,8 +603,16 @@ Also refer to [## Data](#data)
         - https://github.com/puncsky/system-design-and-architecture
         - https://github.com/puncsky/system-design-and-architecture/blob/master/awesome-system-design.md
         - https://github.com/nimesh-mittal/awesome-system-design
+        - https://github.com/DovAmir/awesome-design-patterns
+        - https://github.com/binhnguyennus/awesome-scalability
+        - https://github.com/heynickc/awesome-ddd
+        - https://github.com/mfornos/awesome-microservices
+        - https://github.com/newTendermint/awesome-bigdata
+        - https://github.com/kuchin/awesome-cto
+        - https://github.com/grpc-ecosystem/awesome-grpc
     - best practices
-        - 
+        - https://github.com/Sairyss/domain-driven-hexagon
+        - https://github.com/futurice/backend-best-practices
     - cheatsheets
         - 
     - tutorials
@@ -601,7 +632,7 @@ Also refer to [## Data](#data)
 
 ## Interview
 - `interview questions` and `best practices` of:
-    - [cpp](#c), [java, scala](#java-scala), [golang](#golang), [python](#python), [rust](#rust), [erlang](#erlang-elixir), [django](#django), [blockchain](#blockchain), [security](#security), [data](#data)(postgres, kafka, ...), algorithm, data structure, [system design](#system-design)(design patterns, design principles(solid, yagni, ...), oop), [linux](#linux)(lpic, bash), [vim](#vim), [regex](#regex), [testing](#testing), [video conferencing stack](#video-conferencing-stack)(webrtc, sdp, rtp, rsvp, ...), [devops](#devops)(kuber, docker, prometheus, grafana, gitlab, cicd), [cloud](#cloud)(aws, azure, gcp), [serialization](#serialization)(grpc, thrift, graphql, rest), [agile](#agile)(scrum, kanban, jira, ...)
+    - [cpp](#c), [java, scala](#java-scala), [golang](#golang), [python](#python), [rust](#rust), [erlang](#erlang-elixir), [django](#django), [blockchain](#blockchain), [security](#security), [data](#data)(postgres, kafka, ...), algorithm, data structure, [system design](#system-design)(design patterns, design principles(solid, yagni, ...), oop), [linux](#linux)(lpic, bash), [vim](#vim), [regex](#regex), [testing](#testing), [video conferencing stack](#video-conferencing-stack)(webrtc, sdp, rtp, rsvp, ...), [devops](#devops)(kuber, docker, prometheus, grafana, gitlab, cicd, ansible, nginx), [cloud](#cloud)(aws, azure, gcp), [serialization](#serialization)(grpc, thrift, graphql, rest), [agile](#agile)(scrum, kanban, jira, ...)
     - software engineering
     - distributed systems
 - system design interview youtube
@@ -622,7 +653,7 @@ Also refer to [## Data](#data)
 - github
     - https://github.com/Olshansk/interview
     - awesome
-        - 
+        - https://github.com/DopplerHQ/awesome-interview-questions
     - best practices
         - 
     - cheatsheets
@@ -681,9 +712,20 @@ Also refer to [## Data](#data)
     - https://github.com/TheLartians/ModernCppStarter
     - https://github.com/filipdutescu/modern-cpp-template
     - awesome
-        - 
+        - https://github.com/fffaraz/awesome-cpp
+        - https://github.com/uhub/awesome-cpp
+        - https://github.com/isocpp/CppCoreGuidelines
+        - https://github.com/rigtorp/awesome-modern-cpp
+        - https://github.com/p-ranav/awesome-hpp
+        - https://github.com/AnthonyCalandra/modern-cpp-features
     - best practices
-        - 
+        - https://github.com/cpp-best-practices/cppbestpractices
+        - https://github.com/cpp-best-practices
+        - https://github.com/changkun/modern-cpp-tutorial
+        - https://github.com/QuantlabFinancial/cpp_tip_of_the_week
+        - https://github.com/facontidavide/CPP_Optimizations_Diary
+        - https://github.com/rachitiitr/modern-cpp-tricks
+        - https://github.com/methylDragon/coding-notes/blob/master/C++/09%20C++%20-%20Tips%20and%20Tricks.md
     - cheatsheets
         - 
     - tutorials
@@ -748,14 +790,18 @@ Also refer to [## Data](#data)
         - https://github.com/chika0801/Xray-examples/
         - https://github.com/aleskxyz/reality-ezpz/
         - https://blog.azardata.net/how-to-install-vless-xtls-xray-core/
+    - https://github.com/gothinkster/golang-gin-realworld-example-app
     - awesome
-        - 
+        - https://github.com/hackstoic/golang-open-source-projects
+        - https://github.com/tmrts/go-patterns
+        - https://github.com/avelino/awesome-go
     - best practices
-        - 
+        - https://github.com/uber-go/guide
     - cheatsheets
         - 
     - tutorials
         - https://github.com/GoesToEleven/GolangTraining/
+        - https://github.com/inancgumus/learngo
     - checklists
         - 
 - editor
@@ -881,7 +927,8 @@ Also refer to [## Data](#data)
     - https://github.com/tiangolo/fastapi
     - https://github.com/python-mode/python-mode
     - awesome
-        - 
+        - https://github.com/vinta/awesome-python
+        - https://github.com/wsvincent/awesome-django
     - best practices
         - 
     - cheatsheets
@@ -908,7 +955,7 @@ Also refer to [## Data](#data)
     - https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs
 - github
     - awesome
-        - 
+        - https://github.com/awesome-foss/awesome-sysadmin
     - best practices
         - 
     - cheatsheets
@@ -929,11 +976,15 @@ Also refer to [## Data](#data)
 - prometheus
 - grafana
 - git
+    - https://github.com/tiimgreen/github-cheat-sheet
 - cicd
 - ansible
+- nginx
+    - https://github.com/trimstray/nginx-admins-handbook
+    - https://github.com/denji/nginx-tuning
 - github
     - awesome
-        - 
+        - https://github.com/dastergon/awesome-sre
     - best practices
         - 
     - cheatsheets
@@ -993,7 +1044,8 @@ Also refer to [## Data](#data)
     - https://github.com/mfussenegger/nvim-dap
     - https://github.com/puremourning/vimspector
     - awesome
-        - 
+        - https://github.com/mhinz/vim-galore
+        - https://github.com/rockerBOO/awesome-neovim
     - best practices
         - 
     - cheatsheets
@@ -1128,124 +1180,34 @@ Also refer to [## Data](#data)
 - https://udemyiran.com/product/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d9%84%db%8c%d9%86%d9%88%da%a9%d8%b3-%d8%a7%d8%b2-%d8%b5%d9%81%d8%b1-%d8%a8%d9%87-%d8%b5%d8%af/
 
 
-## Best Practices
-- https://github.com/elsewhencode/project-guidelines
-- Security
-    - https://github.com/OWASP/CheatSheetSeries
-    - https://github.com/OWASP/wstg
-    - https://github.com/decalage2/awesome-security-hardening
-- C++
-    - https://github.com/cpp-best-practices/cppbestpractices
-    - 
-    - 
-    - https://github.com/cpp-best-practices
-    - https://github.com/changkun/modern-cpp-tutorial
-    - https://github.com/QuantlabFinancial/cpp_tip_of_the_week
-    - https://github.com/facontidavide/CPP_Optimizations_Diary
-    - https://github.com/rachitiitr/modern-cpp-tricks
-    - https://github.com/methylDragon/coding-notes/blob/master/C++/09%20C++%20-%20Tips%20and%20Tricks.md
-- Go
-    - https://github.com/uber-go/guide
-    - https://github.com/gothinkster/golang-gin-realworld-example-app
-    - https://github.com/inancgumus/learngo
-- Nginx
-    - https://github.com/trimstray/nginx-admins-handbook
-    - https://github.com/denji/nginx-tuning
-- System Design
-    - https://github.com/Sairyss/domain-driven-hexagon
-- Backend
-    - https://github.com/futurice/backend-best-practices
-- https://github.com/GoogleChrome/lighthouse
-
-
-## Tutorial
-- Blokchain
-    - https://roadmap.sh/blockchain
-    - https://github.com/coinpride/CryptoList
-    - https://github.com/Scanate/EthList
-    - https://github.com/yeasy/blockchain_guide
-    - https://github.com/FrancescoXX/free-Web3-resources
-    - https://github.com/smartcontractkit/full-blockchain-solidity-course-js
-    - https://github.com/Dapp-Learning-DAO/Dapp-Learning
-    - https://github.com/openblockchains/awesome-blockchains
-    - https://github.com/Xel/Blockchain-stuff
-    - https://github.com/imbaniac/awesome-blockchain
-    - https://github.com/igorbarinov/awesome-blockchain
-    - https://github.com/yjjnls/awesome-blockchain
-    - https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line
-    - https://github.com/liuchengxu/blockchain-tutorial
-
-    - Security
-        - https://github.com/ConsenSys/smart-contract-best-practices
-        - https://github.com/jassics/security-study-plan
-    - Consensus
-        - https://github.com/tendermint/tendermint
-
-
 ## Awesome
-- First take a look at this:
-    - https://github.com/sindresorhus/awesome
-    - https://github.com/bayandin/awesome-awesomeness
-    - https://github.com/DovAmir/awesome-design-patterns
-    - https://github.com/DopplerHQ/awesome-interview-questions
-    - https://github.com/kuchin/awesome-cto
-    - https://github.com/mfornos/awesome-microservices
-    - https://github.com/newTendermint/awesome-bigdata
-    - https://github.com/wilsonfreitas/awesome-quant
-    - https://github.com/skywind3000/awesome-cheatsheets
-    - https://github.com/stanzhai/be-a-professional-programmer
-    - https://github.com/TonnyL/Awesome_APIs
-    - https://github.com/detailyang/awesome-cheatsheet
-    - https://github.com/grpc-ecosystem/awesome-grpc
+- https://github.com/sindresorhus/awesome
+- https://github.com/bayandin/awesome-awesomeness
+- https://github.com/skywind3000/awesome-cheatsheets
+- https://github.com/stanzhai/be-a-professional-programmer
+- https://github.com/TonnyL/Awesome_APIs
+- https://github.com/detailyang/awesome-cheatsheet
 - Design
     - https://github.com/alexpate/awesome-design-systems
 - Web Performance Optimization
     - https://github.com/davidsonfellipe/awesome-wpo
 - CV
     - https://github.com/posquit0/Awesome-CV
-- Vim
-    - https://github.com/mhinz/vim-galore
-    - https://github.com/rockerBOO/awesome-neovim
-- ACM
-    - https://github.com/lnishan/awesome-competitive-programming
-- C++
-    - https://github.com/fffaraz/awesome-cpp
-    - https://github.com/uhub/awesome-cpp
-    - https://github.com/isocpp/CppCoreGuidelines
-    - https://github.com/rigtorp/awesome-modern-cpp
-    - https://github.com/p-ranav/awesome-hpp
-    - https://github.com/AnthonyCalandra/modern-cpp-features
-- Go
-    - https://github.com/hackstoic/golang-open-source-projects
-    - https://github.com/tmrts/go-patterns
-    - https://github.com/avelino/awesome-go
-- Python
-    - https://github.com/vinta/awesome-python
-    - https://github.com/wsvincent/awesome-django
-- Blockchain
-    - https://github.com/OffcierCia/DeFi-Developer-Road-Map
-- Secutiry
-    - https://github.com/enaqx/awesome-pentest
-    - https://github.com/Lissy93/personal-security-checklist
-    - https://github.com/rshipp/awesome-malware-analysis
-    - https://github.com/qazbnm456/awesome-web-security
-    - https://github.com/carpedm20/awesome-hacking
-    - https://github.com/pluja/awesome-privacy
-    - https://github.com/ashishb/android-security-awesome
-    - https://github.com/s0md3v/AwesomeXSS
-- Linux
-    - https://github.com/awesome-foss/awesome-sysadmin
-- System Design
-    - https://github.com/binhnguyennus/awesome-scalability
-    - https://github.com/heynickc/awesome-ddd
-- Site Reliability Engineering
-    - https://github.com/dastergon/awesome-sre
-- Github
-    - https://github.com/tiimgreen/github-cheat-sheet
-- AI
-    - https://github.com/Renumics/awesome-open-data-centric-ai
-- ChatGPT
-    - https://github.com/f/awesome-chatgpt-prompts
+
+
+
+## Best Practices
+- https://github.com/elsewhencode/project-guidelines
+- https://github.com/GoogleChrome/lighthouse
+
+
+## Tutorial
+
+
+## cheatsheets
+
+
+## checklists
 
 
 ## C
