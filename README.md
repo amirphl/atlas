@@ -10,7 +10,7 @@ This repository contains a list of references.
 - [System Design](#system-design)
 - [Interview Preparation](#interview)
 - [Linkedin](#linkedin)
-- [C++](#c++)
+- [CPP](#cpp)
 - [Golang](#golang)
 - [Java, Scala](#java-scala)
 - [Python](#python)
@@ -18,7 +18,7 @@ This repository contains a list of references.
 - [Linux](#linux)
 - [DevOps](#devops)
 - [Cloud](#cloud)
-- [Serialization Frameworks](#serializers)
+- [Serialization Frameworks](#serialization)
 - [Vim](#vim)
 - [Regex](#regex)
 - [Testing](#testing)
@@ -26,11 +26,11 @@ This repository contains a list of references.
 - [Agile](#agile)
 - [Tech Blogs](#tech-blogs)
 - [Books](#books)
-- [Awesome Github](#awesome)
-- [Best Practices Github](#best-practices)
-- [Tutorials Github](#tutorial)
-- [Cheatsheets Github](#cheatsheets)
-- [Checklists Github](#checklists)
+- [Awesome Github](#github-awesome)
+- [Best Practices Github](#github-best-practices)
+- [Tutorials Github](#github-tutorials)
+- [Cheatsheets Github](#github-cheatsheets)
+- [Checklists Github](#github-checklists)
 - [C](#c)
 - [Rust](#rust)
 - [Erlang, Elixir](#erlang-elixir)
@@ -633,7 +633,7 @@ Also refer to [## Data](#data)
         - https://proto.actor/docs/what-is-protoactor/
     - CQRS, event sourcing, circuit breaker, ambassador, leader election, pub/sub, sharding, strangler facade
 - design patterns(gof, ...), tdd, design principles(solid, dry, yagni, ...), oop
-    - apply in [cpp](#c), [java, scala](#java-scala), [golang](#golang), [python](#python), [rust](#rust), and [erlang](#erlang-elixir)
+    - apply in [cpp](#cpp), [java, scala](#java-scala), [golang](#golang), [python](#python), [rust](#rust), and [erlang](#erlang-elixir)
 - resouces
     - https://refactoring.guru/
     - https://microservices.io/
@@ -713,7 +713,7 @@ Also refer to [## Data](#data)
 
 ## Interview
 - `interview questions` and `best practices` of:
-    - [cpp](#c), [java, scala](#java-scala), [golang](#golang), [python](#python), [rust](#rust), [erlang](#erlang-elixir), [django](#django), [blockchain](#blockchain), [security](#security), [data](#data)(postgres, kafka, ...), algorithm, data structure, [system design](#system-design)(design patterns, design principles(solid, yagni, ...), oop), [linux](#linux)(lpic, bash), [vim](#vim), [regex](#regex), [testing](#testing), [video conferencing stack](#video-conferencing-stack)(webrtc, sdp, rtp, rsvp, ...), [devops](#devops)(kuber, docker, prometheus, grafana, gitlab, cicd, ansible, nginx), [cloud](#cloud)(aws, azure, gcp), [serialization](#serialization)(grpc, thrift, graphql, rest), [agile](#agile)(scrum, kanban, jira, ...)
+    - [cpp](#cpp), [java, scala](#java-scala), [golang](#golang), [python](#python), [rust](#rust), [erlang](#erlang-elixir), [django](#django), [blockchain](#blockchain), [security](#security), [data](#data)(postgres, kafka, ...), algorithm, data structure, [system design](#system-design)(design patterns, design principles(solid, yagni, ...), oop), [linux](#linux)(lpic, bash), [vim](#vim), [regex](#regex), [testing](#testing), [video conferencing stack](#video-conferencing-stack)(webrtc, sdp, rtp, rsvp, ...), [devops](#devops)(kuber, docker, prometheus, grafana, gitlab, cicd, ansible, nginx), [cloud](#cloud)(aws, azure, gcp), [serialization](#serialization)(grpc, thrift, graphql, rest), [agile](#agile)(scrum, kanban, jira, ...)
     - software engineering
     - distributed systems
 - system design interview youtube
@@ -774,7 +774,7 @@ Also refer to [## Data](#data)
     - nomad visa
 
 
-## C++
+## CPP
 - 10000 libs, frameworks, books, iso
 - .lib, .dll, cygiwn, mingw, gcc, clang, llvm, cmake, mvc++, microsoft visual c++ redist, qt, pipes, posix
     - https://en.wikipedia.org/wiki/POSIX
@@ -1301,7 +1301,7 @@ Also refer to [## Data](#data)
 - https://udemyiran.com/product/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d9%84%db%8c%d9%86%d9%88%da%a9%d8%b3-%d8%a7%d8%b2-%d8%b5%d9%81%d8%b1-%d8%a8%d9%87-%d8%b5%d8%af/
 
 
-## Awesome
+## Github Awesome
 - https://github.com/sindresorhus/awesome
 - https://github.com/bayandin/awesome-awesomeness
 - https://github.com/skywind3000/awesome-cheatsheets
@@ -1317,18 +1317,18 @@ Also refer to [## Data](#data)
 
 
 
-## Best Practices
+## Github Best Practices
 - https://github.com/elsewhencode/project-guidelines
 - https://github.com/GoogleChrome/lighthouse
 
 
-## Tutorial
+## Github Tutorials
 
 
-## cheatsheets
+## Github Cheatsheets
 
 
-## checklists
+## Github Checklists
 
 
 ## C
