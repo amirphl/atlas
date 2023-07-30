@@ -144,7 +144,11 @@ This repository contains a list of references.
     - https://github.com/microsoft/torchscale
     - https://github.com/invoke-ai/InvokeAI
     - https://github.com/ShishirPatil/gorilla
+    - https://github.com/gmpetrov/databerry
+    - https://github.com/langgenius/dify
     - https://github.com/Stability-AI/generative-models
+    - https://github.com/geekan/MetaGPT
+    - https://github.com/huggingface/text-generation-inference
     - 
 
     - awesome
@@ -313,6 +317,7 @@ This repository contains a list of references.
     - https://github.com/blockchain-etl/bitcoin-etl
     - https://github.com/tendermint/tendermint
     - https://github.com/Vectorized/solady
+    - https://github.com/ethereum-lists/chains
     - awesome
         - https://roadmap.sh/blockchain
         - https://github.com/openblockchains/awesome-blockchains
@@ -342,7 +347,6 @@ This repository contains a list of references.
     - https://bashgah.com/edu
     - https://twitter.com/FrancescoCiull4/status/1575944598488129536
     - https://mihanblockchain.com/okexchange-annual-report/
-    - https://khanesarmaye.com/employment-in-listed-companies/
     - https://novincrypto.com/f/%D8%A8%DB%8C%D8%AA-24-%D8%B5%D8%B1%D8%A7%D9%81%DB%8C/
     - https://on.wax.io/wax-io/
     - https://gamecredits.org/
@@ -379,6 +383,7 @@ This repository contains a list of references.
     - https://github.com/s0md3v/Arjun
     - https://github.com/buzzer-re/Shinigami/
     - https://github.com/google/security-research
+    - https://github.com/pushsecurity/saas-attacks
     - awesome
         - https://github.com/enaqx/awesome-pentest
         - https://github.com/rshipp/awesome-malware-analysis
@@ -388,6 +393,7 @@ This repository contains a list of references.
         - https://github.com/ashishb/android-security-awesome
         - https://github.com/s0md3v/AwesomeXSS
         - https://github.com/decalage2/awesome-security-hardening
+        - https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks
     - best practices
         - https://github.com/OWASP/wstg
     - cheatsheets
@@ -1008,6 +1014,7 @@ Also refer to [## Data](#data)
     - https://github.com/quarkusio/quarkus
     - https://github.com/twitter/the-algorithm
     - https://github.com/apache/incubator-paimon
+    - https://github.com/languagetool-org/languagetool
     - awesome
         - 
     - best practices
@@ -1041,7 +1048,7 @@ Also refer to [## Data](#data)
     - cheatsheets
         - 
     - tutorials
-        - 
+        - https://github.com/dabeaz-course/python-mastery
     - checklists
         - 
 - misc
@@ -1053,7 +1060,8 @@ Also refer to [## Data](#data)
 
 
 ## Django
-- DRF, Two Scoop
+- DRF
+- Django Two Scoop
 - models, views (class based, mixin, generic, DRF views, etc), settings, orm, query optimization, routing, forms and validation, templates, migration and schema management, authentication and authorization, admin and user, groups and permissions, middleware and signals, json serializer, rest api principles, drf, drf serializers,  drf auth, drf permissions, CORS, python multithreading, async programming, async orm, caching, (unit) testing, django security, rq and celery, design patterns (template method, decorator pattern, singleton pattern, factory method), wsgi vs asgi, gunicorn, mypy, graphql 
 
 
@@ -1157,11 +1165,12 @@ Also refer to [## Data](#data)
 ## Vim
 - github
     - https://github.com/neoclide/coc.nvim
-    - https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions
+        - https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions
     - https://github.com/nvim-treesitter/nvim-treesitter
     - https://github.com/neoclide/coc-java
     - https://github.com/mfussenegger/nvim-dap
     - https://github.com/puremourning/vimspector
+    - https://github.com/nvim-lua/kickstart.nvim
     - awesome
         - https://github.com/mhinz/vim-galore
         - https://github.com/rockerBOO/awesome-neovim
@@ -1194,10 +1203,7 @@ Also refer to [## Data](#data)
 
 
 ## Video Conferencing Stack
-- webrtc
-- sdp
-- rtp
-- rsvp
+- webrtc, sdp, rtp, rsvp
 - github
     - awesome
         - 
@@ -1230,7 +1236,6 @@ Also refer to [## Data](#data)
 
 ## Tech Blogs
 - available in `todo2`
-- spend good time on youtube
 - linkedin feeds, channels - instagram - telegram - twitter - youtube - podcasts - reddit
 - medium - deeplearning.ai - towardsdatascience - kdnuggets.com - machinelearningmastery
 - twitter - uber - netflix - booking - coinbase - binance - google tech blog - youtube techblog
@@ -1249,9 +1254,8 @@ Also refer to [## Data](#data)
         - https://blog.cloudflare.com/performance-isolation-in-a-multi-tenant-database-environment/
 - scanlibs
 - virgool
-- evand - eseminar
 - codeference.ir - finupevent.ir - uxmashhad.com
-- sahab academy - socan academy - arvan academy - arvan aparat - divar academy - divar tech blog - tech.cafebazaar.ir - engineering.snapp.ir - alibaba - alibaba aparat - sotoon - bazaar - balad - javaneh - digikala - digikala exp zone - sahab - system_group - hamrah_avval_academy
+- sahab academy - socan academy - arvan academy - arvan aparat channel - divar academy - divar tech blog - tech.cafebazaar.ir - engineering.snapp.ir - alibaba - alibaba aparat channel- sotoon - bazaar - balad - javaneh - digikala - digikala exp zone - system_group - hamrah avval academy
     - https://www.aparat.com/arvancloud
     - https://aaic.aut.ac.ir/
     - https://hamed.blog/
