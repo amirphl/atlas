@@ -1,5 +1,50 @@
 This repository contains a list of references.
 
+## Content
+- [Research](#research)
+- [AI](#ai)
+- [Blockchain](#blockchain)
+- [Security](#security)
+- [Data](#data)
+- [ACM](#acm)
+- [System Design](#system-design)
+- [Interview Preparation](#interview)
+- [Linkedin](#linkedin)
+- [C++](#c++)
+- [Golang](#golang)
+- [Java, Scala](#java-scala)
+- [Python](#python)
+- [Django](#django)
+- [Linux](#linux)
+- [DevOps](#devops)
+- [Cloud](#cloud)
+- [Serialization Frameworks](#serializers)
+- [Vim](#vim)
+- [Regex](#regex)
+- [Testing](#testing)
+- [Video Conferencing Stack](#video-conferencing-stack)
+- [Agile](#agile)
+- [Tech Blogs](#tech-blogs)
+- [Books](#books)
+- [Awesome Github](#awesome)
+- [Best Practices Github](#best-practices)
+- [Tutorials Github](#tutorial)
+- [Cheatsheets Github](#cheatsheets)
+- [Checklists Github](#checklists)
+- [C](#c)
+- [Rust](#rust)
+- [Erlang, Elixir](#erlang-elixir)
+- [JavaScript](#javascript)
+- [TypeScript](#typescript)
+- [React](#react)
+- [Front End](#front-end)
+- [Kotlin](#kotlin)
+- [WASM](#wasm)
+- [HTTP](#http)
+- [Startup](#startup)
+- [Marketing](#marketing)
+- [VPN](#vpn)
+
 
 ## Research
 - https://www.connectedpapers.com/
@@ -79,12 +124,29 @@ This repository contains a list of references.
     - https://github.com/Sentdex/ChatGPT-at-Home
     - https://github.com/Torantulino/Auto-GPT
     - https://github.com/reworkd/AgentGPT
-    - https://github.com/Significant-Gravitas/Auto-GPT/tree/stable
+    - https://github.com/Significant-Gravitas/Auto-GPT
     - https://github.com/LAION-AI/Open-Assistant
     - https://github.com/lm-sys/FastChat
     - https://github.com/Yidadaa/ChatGPT-Next-Web
+    - https://github.com/imartinez/privateGPT
+    - https://github.com/PromtEngineer/localGPT
+    - https://github.com/karpathy/nanoGPT
+    - https://github.com/karpathy/minGPT
+    - https://github.com/microsoft/TypeChat
+    - https://github.com/FlowiseAI/Flowise
     - https://github.com/mindsdb/mindsdb
     - https://github.com/microsoft/DeepSpeed
+    - https://github.com/karpathy/llama2.c
+    - https://github.com/liltom-eth/llama2-webui
+    - https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference
+    - https://github.com/suno-ai/bark
+    - https://github.com/omerbt/TokenFlow
+    - https://github.com/microsoft/torchscale
+    - https://github.com/invoke-ai/InvokeAI
+    - https://github.com/ShishirPatil/gorilla
+    - https://github.com/Stability-AI/generative-models
+    - 
+
     - awesome
         - https://github.com/Renumics/awesome-open-data-centric-ai
         - https://github.com/f/awesome-chatgpt-prompts
@@ -93,11 +155,12 @@ This repository contains a list of references.
     - cheatsheets
         - 
     - tutorials
-        - 
+        - https://github.com/Avik-Jain/100-Days-Of-ML-Code
     - checklists
         - 
 - tools
     - http://perplexity.ai/
+        - https://medium.com/@entrustech/perplexity-ai-what-you-need-to-know-and-how-to-use-it-82ee6ce1fbd
     - https://beta.dreamstudio.ai/generate
     - [Discover the latest tools and trends in AI](https://gpte.ai/)
     - [AI search engine for developers](https://www.phind.com/)
@@ -113,6 +176,7 @@ This repository contains a list of references.
     - https://huggingface.co/models
         - https://huggingface.co/chat/
         - https://huggingface.co/spaces/microsoft/visual_chatgpt
+    - [Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 9 - Self- Attention and Transformers](https://www.youtube.com/watch?v=ptuGllU5SQQ)
     - [OpenAI wiki](https://en.wikipedia.org/wiki/OpenAI)
     - [Easy Object Detection with Transformers: Simple Implementation of Pix2Seq Model in PyTorch](https://pub.towardsai.net/easy-object-detection-with-transformers-simple-implementation-of-pix2seq-model-in-pytorch-fde3e7162ce7)
     - [2-year journey into deep learning as a medical student — Part I: Initial Steps and the Books](https://medium.com/@moein.shariatnia/my-2-year-journey-into-deep-learning-as-a-medical-student-part-i-initial-steps-and-the-books-d9460d4d82d7)
@@ -129,6 +193,14 @@ This repository contains a list of references.
     - [Moein Shariatnia Medium](https://medium.com/@moein.shariatnia)
     - https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
     - [Stable Diffusion AI Deepfake](https://twitter.com/_akhaliq/status/1656291671061983233)
+- keywords
+    - courses: linear algebra, statistics and probability
+    - libs: tensorflow, pytorch, sklearn, scipy, numpy, pandas, matplotlib, seaborn, plotly, opencv
+    - regression, svm, decision tree, ensemble learning, classification, clustering, sequential models
+    - deep learning, natural language processing (NLP), computer vision, image processing, 
+    - data preparation and feature engineering, dimensionality reduction, learning and generalization, visualization
+    - web scraping
+    - power bi, metabase
 
 
 ## Blockchain
@@ -240,6 +312,7 @@ This repository contains a list of references.
     - https://github.com/BlockstreamResearch
     - https://github.com/blockchain-etl/bitcoin-etl
     - https://github.com/tendermint/tendermint
+    - https://github.com/Vectorized/solady
     - awesome
         - https://roadmap.sh/blockchain
         - https://github.com/openblockchains/awesome-blockchains
@@ -305,6 +378,7 @@ This repository contains a list of references.
     - https://github.com/s0md3v/Photon
     - https://github.com/s0md3v/Arjun
     - https://github.com/buzzer-re/Shinigami/
+    - https://github.com/google/security-research
     - awesome
         - https://github.com/enaqx/awesome-pentest
         - https://github.com/rshipp/awesome-malware-analysis
@@ -427,6 +501,7 @@ Also refer to [##System Design](#system-design).
             - 
 - zookeeper, etcd
 - kafka
+    - https://medium.com/@stephane.maarek/how-to-use-apache-kafka-to-transform-a-batch-pipeline-into-a-real-time-one-831b48a6ad85
 - rabbitmq
 - elastic search
     - ELK stack for logging and monitoring
@@ -441,8 +516,9 @@ Also refer to [##System Design](#system-design).
 - apache ranger
 - mysql
 - mssql
-- power bi
-- 
+- neo4j
+- data warehouse
+
 - conferences
     - Academic conferences
     - [CIDR](https://www.cidrdb.org/)
@@ -558,7 +634,7 @@ Also refer to [## Data](#data)
     - CQRS, event sourcing, circuit breaker, ambassador, leader election, pub/sub, sharding, strangler facade
 - design patterns(gof, ...), tdd, design principles(solid, dry, yagni, ...), oop
     - apply in [cpp](#c), [java, scala](#java-scala), [golang](#golang), [python](#python), [rust](#rust), and [erlang](#erlang-elixir)
-- Resouces
+- resouces
     - https://refactoring.guru/
     - https://microservices.io/
         - https://microservices.io/patterns/data/saga.html
@@ -628,6 +704,11 @@ Also refer to [## Data](#data)
     - system design youtube
 - misc
     - https://opensource.com/article/23/4/distributed-database-load-balancing-architecture-shardingsphere
+    - https://medium.com/javarevisited/10-microservices-design-principles-every-developer-should-know-44f2f69e960f
+    - https://medium.com/javarevisited/11-microservice-best-practices-for-building-scalable-and-resilient-applications-1a19feb46f0
+    - https://levelup.gitconnected.com/12-microservices-pattern-i-wish-i-knew-before-the-system-design-interview-5c35919f16a2
+    - https://aws.amazon.com/de/blogs/architecture/best-practices-for-implementing-event-driven-architectures-in-your-organization/
+    - https://www.infoq.com/news/2023/07/linkedin-protocol-buffers-restli/
 
 
 ## Interview
@@ -652,6 +733,7 @@ Also refer to [## Data](#data)
     - [5 Tips for System Design Interviews](https://www.youtube.com/watch?v=CtmBGH8MkX4)
 - github
     - https://github.com/Olshansk/interview
+    - https://github.com/alikarimii/interview
     - awesome
         - https://github.com/DopplerHQ/awesome-interview-questions
     - best practices
@@ -687,6 +769,9 @@ Also refer to [## Data](#data)
     - set alert for software developer, software engineer, backend developer, sponsorship, NED, UK, GER, FIN
     - https://ind.nl/en/documents/06-2022/publicregisterregularlabourandhighlyskilledmigrants.pdf
     - https://www.gov.uk/skilled-worker-visa
+    - https://en.life-in-germany.de/job-guide/
+    - relocate.me
+    - nomad visa
 
 
 ## C++
@@ -758,8 +843,6 @@ Also refer to [## Data](#data)
     - https://refactoring.guru/design-patterns/go
     - https://golangbyexample.com/all-design-patterns-golang/
     - https://www.godesignpatterns.com/
-    - https://github.com/PacktPublishing/Go-Design-Patterns
-    - https://github.com/ismanf/golang-design-patterns
     - https://www.reactivemanifesto.org/
     - https://www.udemy.com/course/design-patterns-go/
     - https://medium.com/swlh/design-patterns-in-go-d90e7866deff
@@ -784,6 +867,7 @@ Also refer to [## Data](#data)
     - https://github.com/matryer/vice
     - https://github.com/stuartcarnie/go-simd
     - https://github.com/jaegertracing/jaeger
+    - https://github.com/gorilla/mux
     - XTLS + REALITY
         - https://github.com/XTLS/REALITY
         - https://github.com/SasukeFreestyle/XTLS-Iran-Reality
@@ -792,11 +876,29 @@ Also refer to [## Data](#data)
         - https://blog.azardata.net/how-to-install-vless-xtls-xray-core/
     - https://github.com/gothinkster/golang-gin-realworld-example-app
     - awesome
+        - https://github.com/avelino/awesome-go
         - https://github.com/hackstoic/golang-open-source-projects
         - https://github.com/tmrts/go-patterns
-        - https://github.com/avelino/awesome-go
+        - https://github.com/PacktPublishing/Go-Design-Patterns
+        - https://github.com/ismanf/golang-design-patterns
+        - https://github.com/sensorario/go-design-patterns
+        - https://github.com/yksz/go-design-patterns
+        - https://github.com/bvwells/go-patterns
     - best practices
         - https://github.com/uber-go/guide
+        - https://github.com/smallnest/go-best-practices
+        - https://gist.github.com/pzurek/6642797
+        - https://github.com/golang-standards/project-layout
+        - https://github.com/golang/go/wiki/CommonMistakes
+        - https://github.com/Pungyeon/clean-go-article
+        - https://github.com/golovers/effective-go
+        - https://github.com/codeship/go-best-practices
+        - https://github.com/tjarratt/go-best-practices
+        - https://go-proverbs.github.io/
+        - https://rakyll.org/style-packages/
+        - https://www.arp242.net/go-testing-style.html
+        - https://dmitri.shuralyov.com/idiomatic-go#use-consistent-spelling-of-certain-words
+        - https://google.github.io/styleguide/go/best-practices.html
     - cheatsheets
         - 
     - tutorials
@@ -904,6 +1006,8 @@ Also refer to [## Data](#data)
     - https://github.com/locationtech/geotrellis
     - https://github.com/phaller/lacasa
     - https://github.com/quarkusio/quarkus
+    - https://github.com/twitter/the-algorithm
+    - https://github.com/apache/incubator-paimon
     - awesome
         - 
     - best practices
@@ -917,11 +1021,14 @@ Also refer to [## Data](#data)
 - misc
     - https://stackoverflow.com/questions/24469063/behavior-of-memory-barrier-in-java
     - https://stackoverflow.com/questions/38414829/
+    - https://medium.com/javarevisited/10-spring-boot-features-that-make-java-development-easier-6bbee204c867
+    - https://medium.com/javarevisited/10-spring-cloud-features-which-makes-microservice-development-easier-in-java-e061885422fe
 
 
 ## Python
 - 10000 libs, frameworks, books
-- django - DRF - two scoop - ML
+    - ML libs and frameworks
+- ipython
 - static method, static class, class attribute, instance attribute, class method, instance method, methods and runtime complexity: \[list, reversed, set, unordered_set, stack, queue, deque, slot, namedtuple, tuple, dict, unordered_dict], set: \[&, |], &, |, ^, !, yield, generator, decorator, mixin, defaultdict, lambda functions, functional programming, object-oriented programming concept of encapsulation, abstraction, multi inheritance, doctype, PEP 8 coding style, python2 vs 3, numpy, datetime, seeking and scanning a file, os, sys, set_printoptions, python deprecation warnings, call by ref, call by value, is vs ===, compare by ref or value, np.array_equal(a,b), linalg.eig() and .matmul(), linalg.inv() and .dot(), linalg.det() and .dot(), linalg.inv() and .eye(), Series and DataFrames, string is immutable?, zip, enumerate, python data types, double and long data types, (256).bit_length(), remove vs pop, itertools, pathlib, decorators, map, filter, zip, lambda, breakpoint
 - github
     - https://github.com/tiangolo/fastapi
@@ -945,6 +1052,11 @@ Also refer to [## Data](#data)
     - https://blog.ganssle.io/articles/2018/03/pytz-fastest-footgun.html
 
 
+## Django
+- DRF, Two Scoop
+- models, views (class based, mixin, generic, DRF views, etc), settings, orm, query optimization, routing, forms and validation, templates, migration and schema management, authentication and authorization, admin and user, groups and permissions, middleware and signals, json serializer, rest api principles, drf, drf serializers,  drf auth, drf permissions, CORS, python multithreading, async programming, async orm, caching, (unit) testing, django security, rq and celery, design patterns (template method, decorator pattern, singleton pattern, factory method), wsgi vs asgi, gunicorn, mypy, graphql 
+
+
 ## Linux
 - resources
     - LPIC
@@ -954,6 +1066,7 @@ Also refer to [## Data](#data)
     - [Linux vs Unix](https://twitter.com/BendikMatej/status/1575796900401278976)
     - https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs
 - github
+    - https://github.com/yhzhang0128/egos-2000
     - awesome
         - https://github.com/awesome-foss/awesome-sysadmin
     - best practices
@@ -972,6 +1085,8 @@ Also refer to [## Data](#data)
     - OOM or SoW error
     - https://cloud.google.com/learn/what-is-istio
     - https://istio.io/
+    - https://dev.to/admantium/kubernetes-with-k3s-how-i-upgraded-a-production-cluster-from-v117-to-v125-2ci
+    - https://medium.com/microsoftazure/testing-the-kubernetes-gateway-api-with-the-istio-based-service-mesh-add-on-for-azure-kubernetes-65308cbe62c1
 - docker
 - prometheus
 - grafana
@@ -983,6 +1098,8 @@ Also refer to [## Data](#data)
     - https://github.com/trimstray/nginx-admins-handbook
     - https://github.com/denji/nginx-tuning
 - github
+    - https://github.com/bregman-arie/devops-exercises
+    - https://github.com/HariSekhon/DevOps-Bash-tools
     - awesome
         - https://github.com/dastergon/awesome-sre
     - best practices
@@ -994,6 +1111,7 @@ Also refer to [## Data](#data)
     - checklists
         - 
 
+
 ## Cloud
 - aws
     - https://github.com/localstack/localstack
@@ -1001,6 +1119,7 @@ Also refer to [## Data](#data)
     - aws certificate path: developer, devops, security, ...
     - coursera certificates
     - amazon lambda and step functions, ECS, ECS2
+    - https://towardsaws.com/aws-tech-blog-exploring-the-modern-data-stack-universe-with-active-metadata-management-eb1af98b9e3a
 - azure
 - google cloud platform (gcp)
 - github
@@ -1126,6 +1245,8 @@ Also refer to [## Data](#data)
     - netflix
         - https://netflixtechblog.com/?gi=f12ee0009fe8
         - https://netflixtechblog.com/tagged/data-engineering
+    - cloudflare
+        - https://blog.cloudflare.com/performance-isolation-in-a-multi-tenant-database-environment/
 - scanlibs
 - virgool
 - evand - eseminar
@@ -1288,6 +1409,7 @@ Also refer to [## Data](#data)
 - github
     - https://github.com/artilleryio/artillery
     - https://github.com/prose/prose
+    - https://github.com/iptv-org/iptv
     - awesome
         - 
     - best practices
