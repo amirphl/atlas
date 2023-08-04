@@ -66,7 +66,7 @@ This repository contains a list of references.
     - [MIT RES.LL-005 Mathematics of Big Data and Machine Learning](https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V)
     - [MIT: Machine Learning 6.036](https://www.youtube.com/watch?v=0xaLT4Svzgo)
     - [MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
-- papers
+- papers (TODO sort by date)
     - [Large Language Models as Tool Makers](https://arxiv.org/abs/2305.17126)
     - [BiomedGPT: A Unified and Generalist Biomedical Generative Pre-trained Transformer for Vision, Language, and Multimodal Tasks](https://arxiv.org/abs/2305.17100)
     - [AdaPlanner: Adaptive Planning from Feedback with Language Models](https://arxiv.org/abs/2305.16653)
@@ -118,6 +118,7 @@ This repository contains a list of references.
     - https://github.com/openai/
     - https://github.com/openai/gym
     - https://github.com/openai/gpt-3
+    - https://github.com/openai/openai-cookbook
     - https://github.com/easezyc/deep-transfer-learning
     - https://github.com/hwchase17/langchain
     - https://github.com/Nutlope/roomGPT
@@ -133,12 +134,22 @@ This repository contains a list of references.
     - https://github.com/karpathy/nanoGPT
     - https://github.com/karpathy/minGPT
     - https://github.com/microsoft/TypeChat
+    - https://github.com/microsoft/azurechatgpt
+    - https://github.com/microsoft/chat-copilot
+    - https://github.com/geekan/MetaGPT
+    - https://github.com/OpenBMB/ToolBench
+    - https://github.com/psychic-api/rag-stack
+
     - https://github.com/FlowiseAI/Flowise
     - https://github.com/mindsdb/mindsdb
     - https://github.com/microsoft/DeepSpeed
+
     - https://github.com/karpathy/llama2.c
     - https://github.com/liltom-eth/llama2-webui
     - https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference
+    - https://github.com/jmorganca/ollama
+    - https://github.com/Alpha-VLLM/LLaMA2-Accessory
+
     - https://github.com/suno-ai/bark
     - https://github.com/omerbt/TokenFlow
     - https://github.com/microsoft/torchscale
@@ -147,9 +158,26 @@ This repository contains a list of references.
     - https://github.com/gmpetrov/databerry
     - https://github.com/langgenius/dify
     - https://github.com/Stability-AI/generative-models
-    - https://github.com/geekan/MetaGPT
     - https://github.com/huggingface/text-generation-inference
-    - 
+    - https://github.com/apple/ml-stable-diffusion
+    - https://github.com/comfyanonymous/ComfyUI
+    - https://github.com/a16z-infra/companion-app
+    - https://github.com/StanGirard/quivr
+    - https://github.com/evidentlyai/evidently
+    - https://github.com/dmlc/xgboost
+    - https://github.com/ultralytics/ultralytics
+    - https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
+
+    - https://github.com/BloopAI/bloop
+
+    - https://github.com/facebookresearch
+    - https://github.com/facebookresearch/audiocraft
+
+    - https://github.com/deeplearning4j/deeplearning4j
+    - https://github.com/Angel-ML/angel
+    - https://github.com/microsoft/SynapseML
+    - https://github.com/intel-analytics/BigDL
+    - https://github.com/yahoo/TensorFlowOnSpark
 
     - awesome
         - https://github.com/Renumics/awesome-open-data-centric-ai
@@ -176,6 +204,8 @@ This repository contains a list of references.
     - [Free GPT](https://accounts.forefront.ai/)
     - [build scalable machine learning](http://paperspace.com/gradient)
     - https://neurodub.ai/
+    - [To remove plagiarism](https://www.plagiarismremover.net/)
+    - [Free academic style corrector](https://www.angryreviewer.com/)
 - misc
     - https://huggingface.co/models
         - https://huggingface.co/chat/
@@ -260,6 +290,9 @@ This repository contains a list of references.
         - "Limit TP/SL Order" which is a combination of Limit, market, and two stops called OCO.
         - Special kind of reversed markets orders, to fulfill a market order not by market price, but by volume(budget), called "QuoteOrderQty market orders"
             - https://dev.binance.vision/t/beginners-guide-to-quoteorderqty-market-orders/404/11
+    - security issues
+        - also refer to [## Security](#security)
+        - 
     - considerations
         - you need to know what to do if someone placed an order at 100$ when price is at 20k.
         - you also need to be clever about precision and that price delta.
@@ -293,7 +326,6 @@ This repository contains a list of references.
 - metaverse
     - Sand token, Land token, Goverance token, soft fork voting, alpha mega events, sandbox integration opensource projects, game maker, apolyx.com
     - ar/vr + blockchain
-    - https://github.com/oxydev/Histopia-Smart-Contracts
 - algo trading
     - mql vs python
     - price prediction with chatgpt
@@ -313,11 +345,16 @@ This repository contains a list of references.
     - ETH classic vs ETH vs ETH2
     - How to reduce exchange fee?
 - github
+    - https://github.com/ethereum/go-ethereum
+    - https://github.com/hyperledger/fabric
+    - https://github.com/sei-protocol/sei-chain
     - https://github.com/BlockstreamResearch
     - https://github.com/blockchain-etl/bitcoin-etl
     - https://github.com/tendermint/tendermint
     - https://github.com/Vectorized/solady
     - https://github.com/ethereum-lists/chains
+    - https://github.com/oxydev/Histopia-Smart-Contracts
+    - https://github.com/base-org/withdrawer
     - awesome
         - https://roadmap.sh/blockchain
         - https://github.com/openblockchains/awesome-blockchains
@@ -384,6 +421,10 @@ This repository contains a list of references.
     - https://github.com/buzzer-re/Shinigami/
     - https://github.com/google/security-research
     - https://github.com/pushsecurity/saas-attacks
+    - https://github.com/Ignitetechnologies/Mindmap
+    - https://github.com/DarkNetEye/tor-links
+    - https://github.com/0xPugazh/One-Liners
+    - https://github.com/TheHive-Project/TheHive
     - awesome
         - https://github.com/enaqx/awesome-pentest
         - https://github.com/rshipp/awesome-malware-analysis
@@ -439,10 +480,17 @@ Also refer to [##System Design](#system-design).
 - Udi Dahan videos
     - https://gist.github.com/craigtp/05a82b51557adc278acd71b5a2b88905
 - https://dancres.github.io/Pages/
-- https://github.com/theanalyst/awesome-distributed-systems
+- 
 - https://pdos.csail.mit.edu/6.824/schedule.html
 - https://www.cs.cornell.edu/ken/
 - spark
+    - https://github.com/apache/spark
+    - https://github.com/yahoo/TensorFlowOnSpark
+    - https://github.com/spark-notebook/spark-notebook
+    - https://github.com/awslabs/deequ
+    - https://github.com/spark-jobserver/spark-jobserver
+- flink
+    - https://github.com/apache/flink
 - postgres
     - youtube
         - [Intro to Database Systems (Fall 2021)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjZaHA6QcxDfJ0SIWBzQFKEG)
@@ -493,27 +541,27 @@ Also refer to [##System Design](#system-design).
     - https://aws.amazon.com/opendata/open-data-sponsorship-program/
     - https://infochimps.org/
     - https://www.apache.org/
-    - github
-        - https://github.com/tomwhite/hadoop-book/tree/master/appc/src/main/sh
-        - awesome
-            - 
-        - best practices
-            - 
-        - cheatsheets
-            - 
-        - tutorials
-            - 
-        - checklists
-            - 
-- zookeeper, etcd
+    - https://github.com/tomwhite/hadoop-book/tree/master/appc/src/main/sh
+- zookeeper
+- etcd
+    - https://github.com/etcd-io/etcd
+- dubbo
+    - https://github.com/apache/dubbo
 - kafka
+    - https://github.com/apache/kafka
+    - https://github.com/yahoo/CMAK
     - https://medium.com/@stephane.maarek/how-to-use-apache-kafka-to-transform-a-batch-pipeline-into-a-real-time-one-831b48a6ad85
 - rabbitmq
+- nsq
+    - https://github.com/nsqio/nsq
 - elastic search
     - ELK stack for logging and monitoring
+- manticoresearch
+    - https://github.com/manticoresoftware/manticoresearch
 - leveldb
     - https://github.com/google/leveldb
 - mongodb
+    - https://github.com/mongodb/mongo-java-driver
 - dynamodb
 - cosmosdb
 - dynamodb indexing vs cosmosdb indexing
@@ -524,6 +572,24 @@ Also refer to [##System Design](#system-design).
 - mssql
 - neo4j
 - data warehouse
+- go-micro
+    - https://github.com/go-micro/go-micro
+- seaweedfs
+    - https://github.com/seaweedfs/seaweedfs
+- rqlite
+    - https://github.com/rqlite/rqlite
+- tidb
+    - https://github.com/pingcap/tidb
+- dgraph
+    - https://github.com/dgraph-io/dgraph
+- consul
+    - https://github.com/hashicorp/consul
+- cockroachdb
+    - https://github.com/cockroachdb/cockroach
+- arrow
+    - https://github.com/apache/arrow
+- elasticmq
+    - https://github.com/softwaremill/elasticmq
 
 - conferences
     - Academic conferences
@@ -638,7 +704,7 @@ Also refer to [## Data](#data)
         - https://itnext.io/introduction-to-software-architecture-with-actors-part-1-89de6000e0d3
         - https://proto.actor/docs/what-is-protoactor/
     - CQRS, event sourcing, circuit breaker, ambassador, leader election, pub/sub, sharding, strangler facade
-- design patterns(gof, ...), tdd, design principles(solid, dry, yagni, ...), oop
+- design patterns(gof, ...), tdd, design principles(solid, dry, yagni, ...), oop, testing
     - apply in [cpp](#cpp), [java, scala](#java-scala), [golang](#golang), [python](#python), [rust](#rust), and [erlang](#erlang-elixir)
 - resouces
     - https://refactoring.guru/
@@ -676,7 +742,9 @@ Also refer to [## Data](#data)
     - https://www.freecodecamp.org/news/systems-design-for-interviews/
     - search "system design interview preparation" in google then you see a list of books!
     - https://en.wikipedia.org/wiki/SOLID
+    - https://www.evidentlyai.com/ml-system-design
 - github
+    - https://github.com/Vonng/ddia
     - awesome
         - https://github.com/donnemartin/interactive-coding-challenges
         - https://github.com/donnemartin/system-design-primer
@@ -692,6 +760,20 @@ Also refer to [## Data](#data)
         - https://github.com/newTendermint/awesome-bigdata
         - https://github.com/kuchin/awesome-cto
         - https://github.com/grpc-ecosystem/awesome-grpc
+        - https://github.com/karanpratapsingh/system-design
+        - https://github.com/heibaiying/BigData-Notes
+        - https://github.com/lk-geimfari/awesomo
+        - https://github.com/lauris/awesome-scala
+        - https://github.com/adilkhash/Data-Engineering-HowTo
+
+        - https://github.com/theanalyst/awesome-distributed-systems
+        - https://github.com/zhenlohuang/awesome-distributed-systems
+        - https://github.com/FedericoPonzi/awesome-distributed-systems
+        - https://github.com/rShetty/awesome-distributed-systems
+        - https://github.com/gojek/awesome-distributed-systems
+        - https://github.com/roma-glushko/awesome-distributed-system-projects
+        - https://github.com/doocs/advanced-java
+        - https://github.com/ty4z2008/Qix
     - best practices
         - https://github.com/Sairyss/domain-driven-hexagon
         - https://github.com/futurice/backend-best-practices
@@ -782,7 +864,7 @@ Also refer to [## Data](#data)
 
 ## CPP
 - 10000 libs, frameworks, books, iso
-- .lib, .dll, cygiwn, mingw, gcc, clang, llvm, cmake, mvc++, microsoft visual c++ redist, qt, pipes, posix
+- .lib, .dll, .so, cygiwn, mingw, gcc, clang, llvm, cmake, mvc++, microsoft visual c++ redist, qt, pipes, posix
     - https://en.wikipedia.org/wiki/POSIX
     - https://en.wikipedia.org/wiki/Microsoft_Visual_C%2B%2B
     - visual studio
@@ -824,6 +906,7 @@ Also refer to [## Data](#data)
     - checklists
         - 
 - misc
+    - c++ move semantics
     - https://alibabatech.medium.com/gcc-vs-clang-llvm-an-in-depth-comparison-of-c-c-compilers-899ede2be378
     - https://stackoverflow.com/questions/3187414/clang-vs-gcc-which-produces-faster-binaries
 
@@ -859,6 +942,7 @@ Also refer to [## Data](#data)
 - github
     - https://github.com/search?q=org%3AOpenHFT+golang&type=topics
     - https://github.com/pion/webrtc
+    - https://github.com/ionorg/ion
     - https://github.com/mattermost/mattermost-server
     - https://github.com/iancoleman/orderedmap
     - https://github.com/elliotchance/orderedmap
@@ -874,6 +958,9 @@ Also refer to [## Data](#data)
     - https://github.com/stuartcarnie/go-simd
     - https://github.com/jaegertracing/jaeger
     - https://github.com/gorilla/mux
+    - https://github.com/dapr/dapr
+    - https://github.com/micro/micro
+    - https://github.com/uber/cadence
     - XTLS + REALITY
         - https://github.com/XTLS/REALITY
         - https://github.com/SasukeFreestyle/XTLS-Iran-Reality
@@ -1003,7 +1090,21 @@ Also refer to [## Data](#data)
     - initialization, lifetime management, fault handling, escalation, destroy, async, queue, stateful, diagnosis
     - virtual actor
 - github
+    - https://github.com/scala/scala
+    - https://github.com/lampepfl/dotty
+    - https://github.com/sbt/sbt
     - https://github.com/akka/akka
+    - https://github.com/playframework/playframework
+    - https://github.com/slick/slick
+    - https://github.com/zio/zio
+    - https://github.com/typelevel/cats
+    - https://github.com/Angel-ML/angel
+    - https://github.com/apache/zeppelin
+    - https://github.com/scalaz/scalaz
+    - https://github.com/scala-js/scala-js
+    - https://github.com/scala-native/scala-native
+    - https://github.com/milessabin/shapeless
+    - https://github.com/gatling/gatling
     - https://github.com/real-logic/aeron
     - https://github.com/spockframework/spock
     - https://github.com/javalin/javalin
@@ -1013,16 +1114,26 @@ Also refer to [## Data](#data)
     - https://github.com/phaller/lacasa
     - https://github.com/quarkusio/quarkus
     - https://github.com/twitter/the-algorithm
+    - https://github.com/twitter/util
+    - https://github.com/twitter/finagle
+    - https://github.com/twitter/finatra
     - https://github.com/apache/incubator-paimon
     - https://github.com/languagetool-org/languagetool
+    - https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
+    - https://github.com/scalatra/scalatra
+    - https://github.com/LuckyZXL2016/Movie_Recommend
+    - https://github.com/spotify/scio
+    - https://github.com/http4s/http4s
+    - https://github.com/circe/circe
+    - https://github.com/typelevel/fs2
     - awesome
-        - 
+        - https://github.com/scala-exercises/scala-exercises
     - best practices
         - 
     - cheatsheets
         - 
     - tutorials
-        - 
+        - https://github.com/scala-exercises/scala-exercises
     - checklists
         - 
 - misc
@@ -1040,6 +1151,7 @@ Also refer to [## Data](#data)
 - github
     - https://github.com/tiangolo/fastapi
     - https://github.com/python-mode/python-mode
+    - https://github.com/TheAlgorithms/Python
     - awesome
         - https://github.com/vinta/awesome-python
         - https://github.com/wsvincent/awesome-django
@@ -1062,7 +1174,7 @@ Also refer to [## Data](#data)
 ## Django
 - DRF
 - Django Two Scoop
-- models, views (class based, mixin, generic, DRF views, etc), settings, orm, query optimization, routing, forms and validation, templates, migration and schema management, authentication and authorization, admin and user, groups and permissions, middleware and signals, json serializer, rest api principles, drf, drf serializers,  drf auth, drf permissions, CORS, python multithreading, async programming, async orm, caching, (unit) testing, django security, rq and celery, design patterns (template method, decorator pattern, singleton pattern, factory method), wsgi vs asgi, gunicorn, mypy, graphql 
+- models, views (class based, mixin, generic, DRF views, etc), settings, orm, query optimization, routing, forms and validation, templates, migration and schema management, authentication and authorization, admin and user, groups and permissions, middleware and signals, json serializer, rest api principles, drf, drf serializers,  drf auth, drf permissions, CORS, python multithreading, async programming, async orm, caching, (unit) testing, django security, rq and celery, design patterns (template method, decorator pattern, singleton pattern, factory method), wsgi vs uwsgi vs asgi vs scgi vs fcgi vs cgi, gunicorn, mypy, graphql
 
 
 ## Linux
@@ -1075,6 +1187,7 @@ Also refer to [## Data](#data)
     - https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs
 - github
     - https://github.com/yhzhang0128/egos-2000
+    - https://github.com/tpm2-software
     - awesome
         - https://github.com/awesome-foss/awesome-sysadmin
     - best practices
@@ -1097,17 +1210,22 @@ Also refer to [## Data](#data)
     - https://medium.com/microsoftazure/testing-the-kubernetes-gateway-api-with-the-istio-based-service-mesh-add-on-for-azure-kubernetes-65308cbe62c1
 - docker
 - prometheus
+    - advanced prometheus queries
 - grafana
 - git
     - https://github.com/tiimgreen/github-cheat-sheet
+    - gitlab api and doc
 - cicd
 - ansible
 - nginx
     - https://github.com/trimstray/nginx-admins-handbook
     - https://github.com/denji/nginx-tuning
+    - nginx architecture
+    - https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/
 - github
     - https://github.com/bregman-arie/devops-exercises
     - https://github.com/HariSekhon/DevOps-Bash-tools
+    - https://github.com/iam-veeramalla/aws-devops-zero-to-hero
     - awesome
         - https://github.com/dastergon/awesome-sre
     - best practices
@@ -1163,6 +1281,9 @@ Also refer to [## Data](#data)
 
 
 ## Vim
+- cpp debugger for vim
+- formatter
+- top 100 hotkeys
 - github
     - https://github.com/neoclide/coc.nvim
         - https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions
@@ -1237,8 +1358,10 @@ Also refer to [## Data](#data)
 ## Tech Blogs
 - available in `todo2`
 - linkedin feeds, channels - instagram - telegram - twitter - youtube - podcasts - reddit
-- medium - deeplearning.ai - towardsdatascience - kdnuggets.com - machinelearningmastery
-- twitter - uber - netflix - booking - coinbase - binance - google tech blog - youtube techblog
+- source of articles
+    - medium - deeplearning.ai - towardsdatascience - kdnuggets.com - machinelearningmastery, virgool
+- engineering blogs
+    - twitter - uber - netflix - booking - coinbase - binance - google techblog - youtube techblog
     - https://discord.com/category/engineering
     - https://engineering.fb.com/
     - https://blog.ton.org/
@@ -1253,12 +1376,12 @@ Also refer to [## Data](#data)
     - cloudflare
         - https://blog.cloudflare.com/performance-isolation-in-a-multi-tenant-database-environment/
 - scanlibs
-- virgool
 - codeference.ir - finupevent.ir - uxmashhad.com
 - sahab academy - socan academy - arvan academy - arvan aparat channel - divar academy - divar tech blog - tech.cafebazaar.ir - engineering.snapp.ir - alibaba - alibaba aparat channel- sotoon - bazaar - balad - javaneh - digikala - digikala exp zone - system_group - hamrah avval academy
     - https://www.aparat.com/arvancloud
     - https://aaic.aut.ac.ir/
     - https://hamed.blog/
+- https://github.com/ruanyf/weekly
 
 
 ## Books
@@ -1312,6 +1435,7 @@ Also refer to [## Data](#data)
 - https://github.com/stanzhai/be-a-professional-programmer
 - https://github.com/TonnyL/Awesome_APIs
 - https://github.com/detailyang/awesome-cheatsheet
+- https://github.com/FortAwesome/Font-Awesome
 - Design
     - https://github.com/alexpate/awesome-design-systems
 - Web Performance Optimization
@@ -1373,6 +1497,10 @@ Also refer to [## Data](#data)
 - github
     - https://github.com/rust-lang/rustlings
     - https://github.com/charliermarsh/ruff
+    - https://github.com/tokio-rs/axum
+    - https://github.com/spacedriveapp/spacedrive
+    - https://github.com/apache/arrow-datafusion
+    - https://github.com/DioxusLabs/dioxus
     - awesome
         - 
     - best practices
@@ -1414,6 +1542,8 @@ Also refer to [## Data](#data)
     - https://github.com/artilleryio/artillery
     - https://github.com/prose/prose
     - https://github.com/iptv-org/iptv
+    - https://github.com/chartjs/Chart.js
+    - https://github.com/idurar/idurar-erp-crm
     - awesome
         - 
     - best practices
@@ -1427,8 +1557,10 @@ Also refer to [## Data](#data)
 
 
 ## TypeScript
-- https://github.com/dotenv-org/dotenv-vault
 - github
+    - https://github.com/dotenv-org/dotenv-vault
+    - https://github.com/owncast/owncast
+    - https://github.com/nextui-org/nextui
     - awesome
         - 
     - best practices
@@ -1444,6 +1576,7 @@ Also refer to [## Data](#data)
 ## React
 - [React.js: The Documentary](https://www.youtube.com/watch?v=8pDqJVdNa44)
 - https://atomicdesign.bradfrost.com/chapter-2/
+- react-query
 - github
     - awesome
         - 
