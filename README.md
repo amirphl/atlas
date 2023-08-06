@@ -229,12 +229,13 @@ This repository contains a list of references.
     - [Stable Diffusion AI Deepfake](https://twitter.com/_akhaliq/status/1656291671061983233)
 - keywords
     - courses: linear algebra, statistics and probability
-    - libs: tensorflow, pytorch, sklearn, scipy, numpy, pandas, matplotlib, seaborn, plotly, opencv
+    - libs: tensorflow, keras, pytorch, sklearn, scipy, numpy, pandas, matplotlib, seaborn, plotly, opencv, excel
     - regression, svm, decision tree, ensemble learning, classification, clustering, sequential models
-    - deep learning, natural language processing (NLP), computer vision, image processing, 
+    - deep learning, machine learning, data mining, data science, reinforcement learning, pattern recogntion, natural language processing (NLP), computer vision, image processing, statistical modeling, recommender systems 
     - data preparation and feature engineering, dimensionality reduction, learning and generalization, visualization
     - web scraping
     - power bi, metabase
+    - fraud detection, customer loyalty prediction, churn rate prediction
 
 
 ## Blockchain
@@ -413,6 +414,7 @@ This repository contains a list of references.
         - [ChatGPT helps bug hunters](https://www.youtube.com/watch?v=CR9o996DOdo)
     - [Reverse Engineering with Ghidra](https://www.youtube.com/playlist?list=PL_tws4AXg7auglkFo6ZRoWGXnWL0FHAEi)
     - [آموزش امنیت](https://www.youtube.com/@user-nt8yr9gj1b/playlists)
+    - [HackTheBox Agile | Detailed Walkthrough](https://www.youtube.com/watch?v=OqcUrQnbulM)
 - github
     - https://github.com/s0md3v/XSStrike
     - https://github.com/s0md3v/Smap
@@ -425,6 +427,7 @@ This repository contains a list of references.
     - https://github.com/DarkNetEye/tor-links
     - https://github.com/0xPugazh/One-Liners
     - https://github.com/TheHive-Project/TheHive
+    - https://github.com/aquasecurity/trivy
     - awesome
         - https://github.com/enaqx/awesome-pentest
         - https://github.com/rshipp/awesome-malware-analysis
@@ -465,6 +468,7 @@ This repository contains a list of references.
     - https://www.thc.org/segfault/
     - https://www.youtube.com/watch?v=JPfcYIO42aE
     - https://amn.hamed.blog/
+    - [Google’s automatic bug finder already found more than 9,000 vulnerabilities](https://www.techzine.eu/news/security/37046/googles-automatic-bug-finder-already-found-more-than-9000-vulnerabilities/)
 
 
 ## Data
@@ -489,6 +493,9 @@ Also refer to [##System Design](#system-design).
     - https://github.com/spark-notebook/spark-notebook
     - https://github.com/awslabs/deequ
     - https://github.com/spark-jobserver/spark-jobserver
+    - https://github.com/oap-project/gluten
+    - 
+- akka
 - flink
     - https://github.com/apache/flink
 - postgres
@@ -706,6 +713,7 @@ Also refer to [## Data](#data)
     - CQRS, event sourcing, circuit breaker, ambassador, leader election, pub/sub, sharding, strangler facade
 - design patterns(gof, ...), tdd, design principles(solid, dry, yagni, ...), oop, testing
     - apply in [cpp](#cpp), [java, scala](#java-scala), [golang](#golang), [python](#python), [rust](#rust), and [erlang](#erlang-elixir)
+    - MVC vs MVT vs MVVM vs MVP
 - resouces
     - https://refactoring.guru/
     - https://microservices.io/
@@ -740,9 +748,12 @@ Also refer to [## Data](#data)
     - https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/
     - https://igotanoffer.com/blogs/tech/system-design-interview-prep
     - https://www.freecodecamp.org/news/systems-design-for-interviews/
-    - search "system design interview preparation" in google then you see a list of books!
-    - https://en.wikipedia.org/wiki/SOLID
     - https://www.evidentlyai.com/ml-system-design
+    - search "system design interview preparation" in google then you see a list of books!
+    - [Generic programming](https://en.wikipedia.org/wiki/Generic_programming)
+    - [Don't repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+    - [KISS principle](https://en.wikipedia.org/wiki/KISS_principle)
+    - [SOLID](https://en.wikipedia.org/wiki/SOLID)
 - github
     - https://github.com/Vonng/ddia
     - awesome
@@ -1152,9 +1163,17 @@ Also refer to [## Data](#data)
     - https://github.com/tiangolo/fastapi
     - https://github.com/python-mode/python-mode
     - https://github.com/TheAlgorithms/Python
+    - https://github.com/sanic-org/sanic
+        - https://sanic.dev/en/guide/getting-started.html
+    - https://github.com/dask/dask
+    - https://socket.io/
+    - https://github.com/python-poetry/poetry
+    - https://github.com/mahmoud/boltons
+    - https://github.com/mahmoud/glom
+    - 
     - awesome
         - https://github.com/vinta/awesome-python
-        - https://github.com/wsvincent/awesome-django
+        - https://github.com/mahmoud/awesome-python-applications
     - best practices
         - 
     - cheatsheets
@@ -1172,9 +1191,161 @@ Also refer to [## Data](#data)
 
 
 ## Django
-- DRF
-- Django Two Scoop
+- TODO resume crawling `https://web.telegram.org/k/#@djangoex` from January 2, 2021
 - models, views (class based, mixin, generic, DRF views, etc), settings, orm, query optimization, routing, forms and validation, templates, migration and schema management, authentication and authorization, admin and user, groups and permissions, middleware and signals, json serializer, rest api principles, drf, drf serializers,  drf auth, drf permissions, CORS, python multithreading, async programming, async orm, caching, (unit) testing, django security, rq and celery, design patterns (template method, decorator pattern, singleton pattern, factory method), wsgi vs uwsgi vs asgi vs scgi vs fcgi vs cgi, gunicorn, mypy, graphql
+- https://testdriven.io/
+- https://restfulapi.net/
+- resources
+    - youtube
+        - [دوره ی مقدماتی تا پیشرفته جنگو](https://www.youtube.com/playlist?list=PLAt10Vana3YeAwS_LyLCeu7chml8eP8bh)
+        - [آشنایی با Django REST Framework و JWT](https://www.youtube.com/playlist?list=PLAt10Vana3YcUsTbbHHRw6ksPzbfotg7S)
+        - [ساخت هکرنیوز با فریمورک جنگو (جلسه یک) - کدنویسی روزمره](https://www.youtube.com/watch?v=qe475O-QODI)
+        - [کدام دیتابیس برای پروژه من مناسبه؟ SQL vs NOSQL](https://www.youtube.com/watch?v=kVJUaKPaWTA)
+        - [آموزش مانگو دی‌بی](https://www.youtube.com/playlist?list=PLAt10Vana3Yfq0eUrJn7wZEdMG49MyB_j)
+        - [آموزش وب‌سوکت با جنگو با چنلز](https://www.youtube.com/playlist?list=PLRU2zoAmuzJ2GD68st5SinXXv_Gv1lWRm)
+            - https://github.com/shahriarshm/websocket-with-django-and-channels
+        - [آموزش Celery در پایتون](https://www.youtube.com/playlist?list=PLRU2zoAmuzJ1MjnIueq8vkXwWojH04Dwx)
+        - [چطوری هر لوکال هاستی رو با یه دستور در اینترنت به اشتراک بذاریم؟](https://www.youtube.com/watch?v=ipC9pBpiNE0)
+        - [کنونیکال چیه و چطور میتونه باعث بن شدن سایت توی گوگل بشه + راه حل](https://www.youtube.com/watch?v=dWpm1zuwNdk)
+        - [پایتونیک / کلین کد (01)](https://www.youtube.com/watch?v=heNQmXDSNh8)
+        - [پایتونیک / کلین کد (02)](https://www.youtube.com/watch?v=wwy8cpf--ho)
+        - [ده اشتباه مهلک توسعه دهندگان جنگو - قسمت اول](https://www.youtube.com/watch?v=pgvEN50iYdQ)
+        - [ده اشتباه مهلک توسعه دهندگان جنگو - قسمت دوم](https://www.youtube.com/watch?v=L0Un19NHIsg)
+        - [تست وب سایت لوکال در اینترنت](https://www.youtube.com/watch?v=eIbG0D7ZbmY)
+        - [ترجمه پروژه Floating Point Math](https://www.youtube.com/watch?v=Wk9gNbsbi9Q)
+        - [تست سلامت کانتینرهای داکر](https://www.youtube.com/watch?v=VtFgjPG2ai8)
+        - [مدارک پولی سایت کورسرا رو رایگان بگیرید!](https://www.youtube.com/watch?v=Gg_BI1ag5r8)
+        - [لایوکست دونفره چالش های فریمورک جنگو - گفتگو مجید آقامحمد و بابی](https://www.youtube.com/watch?v=H06VCoMLMsA)
+        - [تفاوت داکر و ماشین مجازی](https://www.youtube.com/watch?v=f2oRwOnjmUQ)
+        - [تفاوت پابلیش و اکسپوز پورت های کانتینر داکر](https://www.youtube.com/watch?v=riM5yxQJEXU)
+        - 
+        - [Django 3.0 Full Course For Beginners 2020 | Django Step By Step Tutorials](https://www.youtube.com/watch?v=6ManltU_8iU)
+        - [How To Create First Project In BeeWare | BeeWare Tutorial For Beginners](https://www.youtube.com/watch?v=PsH9E2rdwVw)
+        - [Python Core Developers Q&A - Ask a Core Dev Anything!](https://www.youtube.com/watch?v=gXMdfBTcOfQ)
+        - 
+    - https://www.learnpython.org/
+    - https://programtalk.com/python-examples/django/
+    - https://djangopackages.org/
+    - boby.cloud tutorial
+        - [۱ – توسعه سریع وب با جنگو ۲](https://boby.cloud/%d8%a8%d9%84%d8%a7%da%af-%d9%be%d8%a7%db%8c-%db%b1-%d8%aa%d9%88%d8%b3%d8%b9%d9%87-%d8%b3%d8%b1%db%8c%d8%b9-%d9%88%d8%a8-%d8%a8%d8%a7-django-2/)
+        - [۲ – شیرجه سریع به جنگو ۲](https://boby.cloud/%d8%b4%db%8c%d8%b1%d8%ac%d9%87-%d8%b3%d8%b1%db%8c%d8%b9-%d8%a8%d9%87-django-2-%d8%a8%d9%84%d8%a7%da%af-%d9%be%d8%a7%db%8c-%db%b2/)
+        - [۳ – پنل ادمین Django و اپلیکیشن وبلاگ](https://boby.cloud/%d9%be%d9%86%d9%84-%d8%a7%d8%af%d9%85%db%8c%d9%86-django-%d9%88-%d8%a7%d9%be%d9%84%db%8c%da%a9%db%8c%d8%b4%d9%86-%d9%88%d8%a8%d9%84%d8%a7%da%af-%d8%a8%d9%84%d8%a7%da%af-%d9%be%d8%a7%db%8c-%db%b3/)
+        - [۴ – راه اندازی دیتابیس PostgreSQL و اتصال به پروژه جنگو](https://boby.cloud/%d8%b1%d8%a7%d9%87-%d8%a7%d9%86%d8%af%d8%a7%d8%b2%db%8c-%d8%af%db%8c%d8%aa%d8%a7%d8%a8%db%8c%d8%b3-postgresql-%d9%88-%d8%a7%d8%aa%d8%b5%d8%a7%d9%84-%d8%a8%d9%87-%d9%be%d8%b1%d9%88%da%98%d9%87-django/)
+        - [۵ – طراحی دیتابیس و تحلیل Model ها](https://boby.cloud/%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%af%db%8c%d8%aa%d8%a7%d8%a8%db%8c%d8%b3-%d9%88-%d8%aa%d8%ad%d9%84%db%8c%d9%84-model-%d9%87%d8%a7-%d8%a8%d9%84%d8%a7%da%af-%d9%be%d8%a7%db%8c-%db%b5/)
+        - [۶ – شخصی سازی پنل ادمین و فایل Requirements.txt](https://boby.cloud/%d8%b4%d8%ae%d8%b5%db%8c-%d8%b3%d8%a7%d8%b2%db%8c-%d9%be%d9%86%d9%84-%d8%a7%d8%af%d9%85%db%8c%d9%86-%d9%88-%d9%81%d8%a7%db%8c%d9%84-requirements-txt-%d8%a8%d9%84%d8%a7%da%af-%d9%be%d8%a7%db%8c/)
+        - [۷ – راه اندازی قالب وب سایت در پروژه جنگو](https://boby.cloud/%d8%b1%d8%a7%d9%87-%d8%a7%d9%86%d8%af%d8%a7%d8%b2%db%8c-%d9%82%d8%a7%d9%84%d8%a8-%d9%88%d8%a8%d8%b3%d8%a7%db%8c%d8%aa-%d8%af%d8%b1-%d9%be%d8%b1%d9%88%da%98%d9%87-django-%d8%a8%d9%84%d8%a7%da%af/)
+        - [۸ – پویا سازی مقالات اصلی وب سایت جنگو](https://boby.cloud/%d9%be%d9%88%db%8c%d8%a7-%d8%b3%d8%a7%d8%b2%db%8c-%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa-%d8%a7%d8%b5%d9%84%db%8c-%d9%88%d8%a8-%d8%b3%d8%a7%db%8c%d8%aa-django-%d8%a8%d9%84%d8%a7%da%af-%d9%be%d8%a7/)
+        - [۹ – پویا سازی مقالات ویژه وب‌سایت جنگو](https://boby.cloud/%d9%be%d9%88%db%8c%d8%a7-%d8%b3%d8%a7%d8%b2%db%8c-%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa-%d9%88%db%8c%da%98%d9%87-%d9%88%d8%a8%e2%80%8c%d8%b3%d8%a7%db%8c%d8%aa-django-%d8%a8%d9%84%d8%a7%da%af-%d9%be/)
+        - [۱۰ – شروع کار با DRF و توسعه API مشاهده همه مقالات](https://boby.cloud/%db%b1%db%b0-%d8%b4%d8%b1%d9%88%d8%b9-%da%a9%d8%a7%d8%b1-%d8%a8%d8%a7-drf-%d9%88-%d8%aa%d9%88%d8%b3%d8%b9%d9%87-api-%d9%85%d8%b4%d8%a7%d9%87%d8%af%d9%87-%d9%87%d9%85%d9%87-%d9%85%d9%82%d8%a7%d9%84/)
+        - [۱۱ – آشنایی با Serializer و توسعه API مشاهده تک مقاله](https://boby.cloud/%DB%B1%DB%B1-%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7-serializer-%D9%88-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-api-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D9%87-%D8%AA%DA%A9-%D9%85%D9%82%D8%A7%D9%84%D9%87/)
+        - [۱۲ – طراحی و توسعه API جست و جو در مقالات](https://boby.cloud/%db%b1%db%b2-%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d9%88-%d8%aa%d9%88%d8%b3%d8%b9%d9%87-api-%d8%ac%d8%b3%d8%aa-%d9%88-%d8%ac%d9%88-%d8%af%d8%b1-%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa/)
+        - [۱۳ – طراحی و توسعه API ثبت مقاله جدید](https://boby.cloud/%db%b1%db%b3-%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d9%88-%d8%aa%d9%88%d8%b3%d8%b9%d9%87-api-%d8%ab%d8%a8%d8%aa-%d9%85%d9%82%d8%a7%d9%84%d9%87-%d8%ac%d8%af%db%8c%d8%af/)
+        - [۱۴ – طراحی و توسعه API آپدیت عکس کاور مقالات](https://boby.cloud/%db%b1%db%b4-%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d9%88-%d8%aa%d9%88%d8%b3%d8%b9%d9%87-api-%d8%a2%d9%be%d8%af%db%8c%d8%aa-%d8%b9%da%a9%d8%b3-%da%a9%d8%a7%d9%88%d8%b1-%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa/)
+        - [۱۵ – طراحی و توسعه API حذف مقاله](https://boby.cloud/%db%b1%db%b5-%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d9%88-%d8%aa%d9%88%d8%b3%d8%b9%d9%87-api-%d8%ad%d8%b0%d9%81-%d9%85%d9%82%d8%a7%d9%84%d9%87/)
+        - [۱۶ – آماده سازی Dockerize پروژه جنگو](https://boby.cloud/%db%b1%db%b6-%d8%a2%d9%85%d8%a7%d8%af%d9%87-%d8%b3%d8%a7%d8%b2%db%8c-dockerize-%d9%be%d8%b1%d9%88%da%98%d9%87-%d8%ac%d9%86%da%af%d9%88/)
+        - [۱۷ – راه اندازی NginX برای دیپلوی پروژه روی سرور عملیاتی](https://boby.cloud/%db%b1%db%b7-%d8%b1%d8%a7%d9%87-%d8%a7%d9%86%d8%af%d8%a7%d8%b2%db%8c-nginx-%d8%a8%d8%b1%d8%a7%db%8c-%d8%af%db%8c%d9%be%d9%84%d9%88%db%8c-%d9%be%d8%b1%d9%88%da%98%d9%87-%d8%b1%d9%88%db%8c-%d8%b3/)
+        - [۱۸ – پیکربندی سرور ابری از ArvanCloud و دیپلوی پروژه روی سرور](https://boby.cloud/%db%b1%db%b8-%d9%be%db%8c%da%a9%d8%b1%d8%a8%d9%86%d8%af%db%8c-%d8%b3%d8%b1%d9%88%d8%b1-%d8%a7%d8%a8%d8%b1%db%8c-%d8%a7%d8%b2-arvancloud-%d9%88-%d8%af%db%8c%d9%be%d9%84%d9%88%db%8c-%d9%be%d8%b1%d9%88/)
+        - [۱۹ – آشنایی با CI/CD و TravisCI برای دیپلوی خودکار](https://boby.cloud/%db%b1%db%b9-%d8%a2%d8%b4%d9%86%d8%a7%db%8c%db%8c-%d8%a8%d8%a7-ci-cd-%d9%88-travisci-%d8%a8%d8%b1%d8%a7%db%8c-%d8%af%db%8c%d9%be%d9%84%d9%88%db%8c-%d8%ae%d9%88%d8%af%da%a9%d8%a7%d8%b1/)
+        - [۲۰ – جمع بندی نهایی](https://boby.cloud/%db%b2%db%b0-%d8%ac%d9%85%d8%b9-%d8%a8%d9%86%d8%af%db%8c-%d9%86%d9%87%d8%a7%db%8c%db%8c/)
+    - books
+        - django two scoop
+- github
+    - https://github.com/encode/django-rest-framework
+        - https://www.django-rest-framework.org/
+    - https://github.com/pennersr/django-allauth
+        - https://django-allauth.readthedocs.io/en/latest/installation.html
+    - https://github.com/stephenmcd/mezzanine/
+    - https://github.com/wq/django-rest-pandas/
+    - https://github.com/brmc/django-octopus
+    - https://github.com/google/atheris
+    - https://github.com/un1t/django-cleanup
+    - https://github.com/matthewwithanm/django-imagekit
+    - https://github.com/vinyll/django-imagefit/
+    - https://github.com/dmpayton/django-admin-honeypot
+    - https://github.com/shahriarshm/nsfw-autofilter-telegrambot
+    - https://github.com/mehran-tarif/Django-Google-Login
+    - (WebSocket_JWT_authentication_middleware.py)[https://gist.github.com/coci/981801b1264c2c3a171f51585ebbd72d]
+    - awesome
+        - https://github.com/wsvincent/awesome-django
+        - https://github.com/vintasoftware/awesome-django-security
+        - 
+    - best practices
+        - https://gist.github.com/sloria/7001839
+    - cheatsheets
+        - https://github.com/lucrae/django-cheat-sheet
+        - https://cheatography.com/tag/django/
+    - tutorials
+        - 
+    - checklists
+        - 
+- misc
+    - [The Lumberjack Protocol](https://github.com/elastic/logstash-forwarder/blob/master/PROTOCOL.md)
+    - [How To Send Web Push Notifications from Django Applications](https://www.digitalocean.com/community/tutorials/how-to-send-web-push-notifications-from-django-applicationso)
+    - [Understanding Database Sharding](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)
+    - [Deploy multiple Keras models in Django project](https://att288.medium.com/deploy-multiple-keras-models-in-django-project-e3b34ed23cbb)
+    - [Tracking Daily User Data in Django with django-user-visit](https://www.fullstackpython.com/blog/track-daily-user-data-django-user-visit.html)
+    - [How to Make a Messaging App like WhatsApp, Telegram, Slack (Updated)](https://www.simform.com/blog/how-to-build-messaging-app-whatsapp-telegram-slack/)
+    - [Building a live video streaming website - Part 1 - Start Streaming!](https://benwilber.github.io/nginx/rtmp/live/video/streaming/2018/03/25/building-a-live-video-streaming-website-part-1-start-streaming.html)
+    - [Get Started With Django Part 2: Django User Management](https://realpython.com/django-user-management/)
+    - [Asynchronous Tasks With Django and Celery](https://realpython.com/asynchronous-tasks-with-django-and-celery/)
+    - [The Ultimate Guide to Django Redirects](https://realpython.com/django-redirects/)
+    - [PWAs and Django](https://www.jujens.eu/posts/en/2020/Feb/29/django-pwa/)
+    - [DJango Websocket with SocketIO](https://www.botreetechnologies.com/blog/django-websocket-with-socketio)
+    - [Django Channels “For example, updating the user’s online real-time status online](https://itzone.com.vn/en/article/django-channels-for-example-updating-the-users-online-real-time-status-online/)
+    - [Deploy Any Python Project to Kubernetes](https://towardsdatascience.com/deploy-any-python-project-to-kubernetes-2c6ad4d41f14)
+    - [Uber App Using Django Channels](https://testdriven.io/courses/real-time-app-with-django-channels-and-angular/part-one-intro/)
+    - [Deploying Django to AWS ECS with Terraform](https://testdriven.io/blog/deploying-django-to-ecs-with-terraform/)
+    - [Django File (and Image) Uploads Tutorial](https://learndjango.com/tutorials/django-file-and-image-uploads-tutorial)
+    - [When do you use Django CBVs or FBVs?](https://vsupalov.com/django-cbv-vs-fbv-beginner/)
+    - [Server Access Logging in Django using middleware](https://pythoncircle.com/post/439/server-access-logging-in-django-using-middleware/)
+    - [5 Different Ways to Load Data in Python](https://www.kdnuggets.com/2020/08/5-different-ways-load-data-python.html)
+    - [How to use Firebase with Django Project](https://medium.com/@canadiyaman/how-to-use-firebase-with-django-project-34578516bafe)
+    - [Django SQL Debugging with an SQL log middleware - Optimising Django: Part 1](https://levelup.gitconnected.com/django-sql-debugging-with-an-sql-log-middleware-optimising-django-part-1-ca3b5c20d892)
+    - [Speed up your Django Admin with the NoCountPaginator — Optimizing Django: Part 2](https://levelup.gitconnected.com/speed-up-your-django-admin-by-removing-sql-counts-optimizing-django-part-2-f5e09da667c)
+    - [The Binary Search Algorithm in Python](https://www.codementor.io/@info658/the-binary-search-algorithm-in-python-19jvyrt5ly)
+    - [Telegram bot from scratch: development with Python and deploying on free of costs server from Heroku service](https://medium.com/@voronov007/telegram-bot-from-scratch-development-with-python-and-deploying-on-free-of-costs-server-from-2463f2b63d83)
+    - [Part 2: Django webhook for the Telegram bot](https://medium.com/@voronov007/part-2-django-webhook-for-the-telegram-bot-a5bc7e179c75)
+    - [Part 3: Deploy Telegram bot application on Heroku](https://medium.com/@voronov007/part-3-deploy-telegram-bot-application-on-heroku-326f36e9a461)
+    - [Django 3.1 Released](https://www.djangoproject.com/weblog/2020/aug/04/django-31-released/)
+    - [How to write a Python web framework. Part I.](https://rahmonov.me/posts/write-python-framework-part-one/)
+    - [Django Tutorial on PDF Generation and Rendering with xhtml2pdf Package](https://thecodelearners.com/django-tutorial-on-pdf-generation-and-rendering-with-xhtml2pdf-package/)
+    - [Django Views – 6 Simple Steps to Create View Component for Django Project](https://data--flair-training.cdn.ampproject.org/c/s/data-flair.training/blogs/django-views/amp/)
+    - [Build a Simple Blockchain & Cryptocurrency with Python, Django Web Framework & ReactJS](https://medium.com/@MKGOfficial/build-a-simple-blockchain-cryptocurrency-with-python-django-web-framework-reactjs-f1aebd50b6c)
+    - [Pagination](https://docs.djangoproject.com/en/4.2/topics/pagination/#using-paginator-in-a-view-function)
+    - [how can we send messages using Python](https://morioh.com/a/eb5cd0de4403/send-sms-using-python-to-anyone-for-free-oror-twilio)
+    - [How to Build a RESTful API in Python with Flask](https://www.nickmccullum.com/build-restful-api-python-flask/)
+    - [Using GraphQL to Filter a JSON Data in Python](https://stackoverflow.com/questions/63981784/using-graphql-to-filter-a-json-data-in-python)
+    - [When to Use What: REST, GraphQL, Webhooks, & gRPC](https://nordicapis.com/when-to-use-what-rest-graphql-webhooks-grpc/)
+    - [Local Storage vs Session Storage vs Cookie](https://krishankantsinghal.medium.com/local-storage-vs-session-storage-vs-cookie-22655ff75a8)
+    - [PEP 593 – Flexible function and variable annotations](https://peps.python.org/pep-0593/)
+    - [50 Essential Tips for Every Developer.](https://blog.astrosaurus.me/50-essential-tips-for-every-developer)
+    - [Get Started With Django Part 3: Django View Authorization](https://realpython.com/django-view-authorization/)
+    - [Python Django Project – Learn to Build your own News Aggregator Web App](https://data-flair.training/blogs/django-project-news-aggregator-app/)
+    - [A web framework for building APIs with Django and Python](https://pythonawesome.com/a-web-framework-for-building-apis-with-django-and-python/)
+    - [Why HATEOAS is useless and what that means for REST](https://medium.com/@andreasreiser94/why-hateoas-is-useless-and-what-that-means-for-rest-a65194471bc8)
+    - [What's the purpose of Django setting ‘SECRET_KEY’?](https://stackoverflow.com/questions/7382149/whats-the-purpose-of-django-setting-secret-key)
+    - [How to Manipulate Data with Django Migrations](https://www.freecodecamp.org/news/how-to-manipulate-data-with-django-migrations/)
+    - [Python video transformations](https://cloudinary.com/documentation/django_video_manipulation)
+    - [Image SEO: 12 Actionable Tips (for More Organic Traffic)](https://ahrefs.com/blog/image-seo/)
+    - [Episode 5 - How To Use Forms](https://www.mattlayman.com/django-riffs/how-to-use-forms/)
+    - [How to use Elasticsearch with Django?](https://sunscrapers.com/blog/how-to-use-elasticsearch-with-django/)
+    - [How To Redirect www to Non-www with Nginx on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-redirect-www-to-non-www-with-nginx-on-centos-7)
+    - [Python Booleans: Use Truth Values In Your Code](https://realpython.com/python-boolean/)
+    - 
+    - [آشنایی با انواع آرایه در پایتون](https://boby.cloud/python-arrays/)
+    - [عبارت with در پایتون](https://boby.cloud/python-with-statement/)
+    - [قدرت اعجاب انگیز Decorator پایتون](https://boby.cloud/python-decorators/)
+    - [عملگر سوشی در پایتون](https://boby.cloud/python-sushi-operator/)
+    - [پایتون GIL به زبان ساده](https://devmo.in/python-gil/)
+    - 
+    - [Gunicorn چیست؟](https://virgool.io/@miladhzz/gunicorn-%DA%86%DB%8C%D8%B3%D8%AA-zq2ppza1ovrp)
+    - 
+    - [چطور به یک برنامه نویس ارشد (senior) تبدیل بشیم؟](https://devmo.in/become-senior-developer/)
+    - [پیاده سازی عبارات switch/case به کمک دیکشنری در پایتون](https://devmo.in/switch-case-using-dict-python/)
+    - [ترفندهایی برای افزایش سرعت برنامه‌های پایتون](https://devmo.in/making-python-programs-fast/)
+    - [پایتون و Functional Programming](https://devmo.in/python-functional-functions/)
+    - [چطور کد دیگران رو بررسی کنیم؟ راهنمایی برای code review](https://devmo.in/code-review-guide/)
+    - 
 
 
 ## Linux
@@ -1208,6 +1379,8 @@ Also refer to [## Data](#data)
     - https://istio.io/
     - https://dev.to/admantium/kubernetes-with-k3s-how-i-upgraded-a-production-cluster-from-v117-to-v125-2ci
     - https://medium.com/microsoftazure/testing-the-kubernetes-gateway-api-with-the-istio-based-service-mesh-add-on-for-azure-kubernetes-65308cbe62c1
+    - https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.20.md#deprecation
+    - https://kubernetes.io/blog/2020/12/02/dont-panic-kubernetes-and-docker/
 - docker
 - prometheus
     - advanced prometheus queries
@@ -1376,7 +1549,7 @@ Also refer to [## Data](#data)
     - cloudflare
         - https://blog.cloudflare.com/performance-isolation-in-a-multi-tenant-database-environment/
 - scanlibs
-- codeference.ir - finupevent.ir - uxmashhad.com
+- finupevent.ir - uxmashhad.com
 - sahab academy - socan academy - arvan academy - arvan aparat channel - divar academy - divar tech blog - tech.cafebazaar.ir - engineering.snapp.ir - alibaba - alibaba aparat channel- sotoon - bazaar - balad - javaneh - digikala - digikala exp zone - system_group - hamrah avval academy
     - https://www.aparat.com/arvancloud
     - https://aaic.aut.ac.ir/
@@ -1436,6 +1609,7 @@ Also refer to [## Data](#data)
 - https://github.com/TonnyL/Awesome_APIs
 - https://github.com/detailyang/awesome-cheatsheet
 - https://github.com/FortAwesome/Font-Awesome
+- https://github.com/mtdvio/every-programmer-should-know
 - Design
     - https://github.com/alexpate/awesome-design-systems
 - Web Performance Optimization
