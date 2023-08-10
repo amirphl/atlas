@@ -120,6 +120,7 @@ This repository contains a list of references.
     - https://github.com/openai/gpt-3
     - https://github.com/openai/openai-cookbook
     - https://github.com/easezyc/deep-transfer-learning
+    - https://github.com/RUCAIBox/LLMSurvey
     - https://github.com/hwchase17/langchain
     - https://github.com/Nutlope/roomGPT
     - https://github.com/Sentdex/ChatGPT-at-Home
@@ -139,6 +140,11 @@ This repository contains a list of references.
     - https://github.com/geekan/MetaGPT
     - https://github.com/OpenBMB/ToolBench
     - https://github.com/psychic-api/rag-stack
+    - https://github.com/labring/FastGPT
+    - https://github.com/xorbitsai/inference
+    - https://github.com/dice2o/BingGPT
+    - https://github.com/songquanpeng/one-api
+    - https://github.com/AntonOsika/gpt-engineer
 
     - https://github.com/FlowiseAI/Flowise
     - https://github.com/mindsdb/mindsdb
@@ -158,6 +164,7 @@ This repository contains a list of references.
     - https://github.com/gmpetrov/databerry
     - https://github.com/langgenius/dify
     - https://github.com/Stability-AI/generative-models
+    - https://github.com/Stability-AI/StableLM
     - https://github.com/huggingface/text-generation-inference
     - https://github.com/apple/ml-stable-diffusion
     - https://github.com/comfyanonymous/ComfyUI
@@ -167,8 +174,12 @@ This repository contains a list of references.
     - https://github.com/dmlc/xgboost
     - https://github.com/ultralytics/ultralytics
     - https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
+    - https://github.com/QwenLM/Qwen-7B
 
     - https://github.com/BloopAI/bloop
+    - https://github.com/sweepai/sweep
+    - https://github.com/domvwt/chatgpt-code-review
+    - https://github.com/jamesmurdza/awesome-ai-devtools
 
     - https://github.com/facebookresearch
     - https://github.com/facebookresearch/audiocraft
@@ -179,9 +190,17 @@ This repository contains a list of references.
     - https://github.com/intel-analytics/BigDL
     - https://github.com/yahoo/TensorFlowOnSpark
 
+    - https://github.com/burn-rs/burn
+    - https://github.com/huggingface/candle
+    - https://github.com/tinygrad/tinygrad
+
+    - https://github.com/pola-rs/polars
+    - https://github.com/pandas-dev/pandas
+
     - awesome
         - https://github.com/Renumics/awesome-open-data-centric-ai
         - https://github.com/f/awesome-chatgpt-prompts
+        - https://github.com/LiLittleCat/awesome-free-chatgpt
     - best practices
         - 
     - cheatsheets
@@ -428,6 +447,8 @@ This repository contains a list of references.
     - https://github.com/0xPugazh/One-Liners
     - https://github.com/TheHive-Project/TheHive
     - https://github.com/aquasecurity/trivy
+    - https://github.com/Lissy93/web-check
+    - https://github.com/ayadim/Nuclei-bug-hunter/tree/main
     - awesome
         - https://github.com/enaqx/awesome-pentest
         - https://github.com/rshipp/awesome-malware-analysis
@@ -469,6 +490,8 @@ This repository contains a list of references.
     - https://www.youtube.com/watch?v=JPfcYIO42aE
     - https://amn.hamed.blog/
     - [Google’s automatic bug finder already found more than 9,000 vulnerabilities](https://www.techzine.eu/news/security/37046/googles-automatic-bug-finder-already-found-more-than-9000-vulnerabilities/)
+    - https://www.microsoft.com/en-us/security/blog/2023/08/07/microsoft-ai-red-team-building-future-of-safer-ai/
+    - [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 
 
 ## Data
@@ -616,6 +639,7 @@ Also refer to [##System Design](#system-design).
 
 ## ACM
 - websites
+    - https://acm.timus.ru/
     - codeforces
     - leetcode
     - geeksforgeeks
@@ -766,6 +790,7 @@ Also refer to [## Data](#data)
         - https://github.com/nimesh-mittal/awesome-system-design
         - https://github.com/DovAmir/awesome-design-patterns
         - https://github.com/binhnguyennus/awesome-scalability
+        - https://github.com/adriannovegil/awesome-observability
         - https://github.com/heynickc/awesome-ddd
         - https://github.com/mfornos/awesome-microservices
         - https://github.com/newTendermint/awesome-bigdata
@@ -777,6 +802,7 @@ Also refer to [## Data](#data)
         - https://github.com/lauris/awesome-scala
         - https://github.com/adilkhash/Data-Engineering-HowTo
 
+        - https://github.com/jwasham/coding-interview-university
         - https://github.com/theanalyst/awesome-distributed-systems
         - https://github.com/zhenlohuang/awesome-distributed-systems
         - https://github.com/FedericoPonzi/awesome-distributed-systems
@@ -831,6 +857,7 @@ Also refer to [## Data](#data)
     - [How to best prepare for system design interviews](https://www.youtube.com/watch?v=aht20iQXfRY)
     - [5 Tips for System Design Interviews](https://www.youtube.com/watch?v=CtmBGH8MkX4)
 - github
+    - https://github.com/jwasham/coding-interview-university
     - https://github.com/Olshansk/interview
     - https://github.com/alikarimii/interview
     - awesome
@@ -1264,7 +1291,7 @@ Also refer to [## Data](#data)
     - https://github.com/dmpayton/django-admin-honeypot
     - https://github.com/shahriarshm/nsfw-autofilter-telegrambot
     - https://github.com/mehran-tarif/Django-Google-Login
-    - (WebSocket_JWT_authentication_middleware.py)[https://gist.github.com/coci/981801b1264c2c3a171f51585ebbd72d]
+    - [WebSocket_JWT_authentication_middleware.py](https://gist.github.com/coci/981801b1264c2c3a171f51585ebbd72d)
     - awesome
         - https://github.com/wsvincent/awesome-django
         - https://github.com/vintasoftware/awesome-django-security
@@ -1399,6 +1426,7 @@ Also refer to [## Data](#data)
     - https://github.com/bregman-arie/devops-exercises
     - https://github.com/HariSekhon/DevOps-Bash-tools
     - https://github.com/iam-veeramalla/aws-devops-zero-to-hero
+    - https://github.com/kuafuai/DevOpsGPT
     - awesome
         - https://github.com/dastergon/awesome-sre
     - best practices
@@ -1458,6 +1486,8 @@ Also refer to [## Data](#data)
 - formatter
 - top 100 hotkeys
 - github
+    - https://github.com/vim/vim
+    - https://github.com/neovim/neovim
     - https://github.com/neoclide/coc.nvim
         - https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions
     - https://github.com/nvim-treesitter/nvim-treesitter
@@ -1610,6 +1640,9 @@ Also refer to [## Data](#data)
 - https://github.com/detailyang/awesome-cheatsheet
 - https://github.com/FortAwesome/Font-Awesome
 - https://github.com/mtdvio/every-programmer-should-know
+- https://github.com/public-apis/public-apis
+- https://github.com/gothinkster/realworld
+- https://github.com/practical-tutorials/project-based-learning
 - Design
     - https://github.com/alexpate/awesome-design-systems
 - Web Performance Optimization
@@ -1718,6 +1751,9 @@ Also refer to [## Data](#data)
     - https://github.com/iptv-org/iptv
     - https://github.com/chartjs/Chart.js
     - https://github.com/idurar/idurar-erp-crm
+    - https://github.com/tl-open-source/tl-rtc-file
+    - https://github.com/cypress-io/cypress
+    - https://github.com/mapbox/mapbox-gl-js
     - awesome
         - 
     - best practices
@@ -1725,7 +1761,8 @@ Also refer to [## Data](#data)
     - cheatsheets
         - 
     - tutorials
-        - 
+        - https://github.com/microsoft/Web-Dev-For-Beginners
+        - https://github.com/getify/You-Dont-Know-JS
     - checklists
         - 
 
@@ -1735,6 +1772,8 @@ Also refer to [## Data](#data)
     - https://github.com/dotenv-org/dotenv-vault
     - https://github.com/owncast/owncast
     - https://github.com/nextui-org/nextui
+    - https://github.com/vercel/commerce
+    - https://github.com/shadcn-ui/ui
     - awesome
         - 
     - best practices
@@ -1742,7 +1781,7 @@ Also refer to [## Data](#data)
     - cheatsheets
         - 
     - tutorials
-        - 
+        - https://github.com/gibbok/typescript-book
     - checklists
         - 
 
@@ -1759,7 +1798,7 @@ Also refer to [## Data](#data)
     - cheatsheets
         - 
     - tutorials
-        - 
+        - https://github.com/Asabeneh/30-Days-Of-React
     - checklists
         - 
 
