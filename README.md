@@ -175,6 +175,9 @@ This repository contains a list of references.
     - https://github.com/ultralytics/ultralytics
     - https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
     - https://github.com/QwenLM/Qwen-7B
+    - https://github.com/GoogleCloudPlatform/generative-ai
+    - https://github.com/lucidrains/denoising-diffusion-pytorch
+    - https://github.com/Shaunwei/RealChar
 
     - https://github.com/BloopAI/bloop
     - https://github.com/sweepai/sweep
@@ -198,6 +201,7 @@ This repository contains a list of references.
     - https://github.com/pandas-dev/pandas
 
     - awesome
+        - https://github.com/Hannibal046/Awesome-LLM
         - https://github.com/Renumics/awesome-open-data-centric-ai
         - https://github.com/f/awesome-chatgpt-prompts
         - https://github.com/LiLittleCat/awesome-free-chatgpt
@@ -449,6 +453,8 @@ This repository contains a list of references.
     - https://github.com/aquasecurity/trivy
     - https://github.com/Lissy93/web-check
     - https://github.com/ayadim/Nuclei-bug-hunter/tree/main
+    - https://github.com/Z4nzu/hackingtool
+    - https://github.com/aquasecurity/cloudsploit
     - awesome
         - https://github.com/enaqx/awesome-pentest
         - https://github.com/rshipp/awesome-malware-analysis
@@ -543,6 +549,7 @@ Also refer to [##System Design](#system-design).
         - https://github.com/neondatabase/neon
         - https://github.com/EnterpriseDB/mysql_fdw
         - https://github.com/dimitri/pgcopydb
+        - https://github.com/pgaudit/pgaudit
         - awesome
             - 
         - best practices
@@ -612,6 +619,8 @@ Also refer to [##System Design](#system-design).
     - https://github.com/pingcap/tidb
 - dgraph
     - https://github.com/dgraph-io/dgraph
+- arangodb
+    - https://github.com/arangodb/arangodb
 - consul
     - https://github.com/hashicorp/consul
 - cockroachdb
@@ -999,6 +1008,8 @@ Also refer to [## Data](#data)
     - https://github.com/dapr/dapr
     - https://github.com/micro/micro
     - https://github.com/uber/cadence
+    - https://github.com/OpenIMSDK/Open-IM-Server
+    - https://github.com/gocolly/colly
     - XTLS + REALITY
         - https://github.com/XTLS/REALITY
         - https://github.com/SasukeFreestyle/XTLS-Iran-Reality
@@ -1136,6 +1147,7 @@ Also refer to [## Data](#data)
     - https://github.com/slick/slick
     - https://github.com/zio/zio
     - https://github.com/typelevel/cats
+    - https://github.com/monix/monix
     - https://github.com/Angel-ML/angel
     - https://github.com/apache/zeppelin
     - https://github.com/scalaz/scalaz
