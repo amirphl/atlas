@@ -145,6 +145,10 @@ This repository contains a list of references.
     - https://github.com/dice2o/BingGPT
     - https://github.com/songquanpeng/one-api
     - https://github.com/AntonOsika/gpt-engineer
+    - https://github.com/vllm-project/vllm
+    - https://github.com/THUDM/AgentBench
+    - https://github.com/huggingface/trl
+    - https://github.com/mlc-ai/mlc-llm
 
     - https://github.com/FlowiseAI/Flowise
     - https://github.com/mindsdb/mindsdb
@@ -178,6 +182,8 @@ This repository contains a list of references.
     - https://github.com/GoogleCloudPlatform/generative-ai
     - https://github.com/lucidrains/denoising-diffusion-pytorch
     - https://github.com/Shaunwei/RealChar
+    - https://github.com/joonspk-research/generative_agents
+    - https://github.com/dvlab-research/LISA
 
     - https://github.com/BloopAI/bloop
     - https://github.com/sweepai/sweep
@@ -379,6 +385,7 @@ This repository contains a list of references.
     - https://github.com/ethereum-lists/chains
     - https://github.com/oxydev/Histopia-Smart-Contracts
     - https://github.com/base-org/withdrawer
+    - https://github.com/taikoxyz/taiko-mono
     - awesome
         - https://roadmap.sh/blockchain
         - https://github.com/openblockchains/awesome-blockchains
@@ -629,6 +636,10 @@ Also refer to [##System Design](#system-design).
     - https://github.com/apache/arrow
 - elasticmq
     - https://github.com/softwaremill/elasticmq
+- spacetimedb
+    - https://github.com/clockworklabs/SpacetimeDB
+- supabase
+    - https://github.com/supabase/supabase
 
 - conferences
     - Academic conferences
@@ -931,6 +942,7 @@ Also refer to [## Data](#data)
 - github
     - https://github.com/TheLartians/ModernCppStarter
     - https://github.com/filipdutescu/modern-cpp-template
+    - https://github.com/nlohmann/json
     - awesome
         - https://github.com/fffaraz/awesome-cpp
         - https://github.com/uhub/awesome-cpp
@@ -1494,6 +1506,7 @@ Also refer to [## Data](#data)
 
 
 ## Vim
+- (TODO) 4 great books of vim
 - cpp debugger for vim
 - formatter
 - top 100 hotkeys
@@ -1720,6 +1733,7 @@ Also refer to [## Data](#data)
     - https://github.com/spacedriveapp/spacedrive
     - https://github.com/apache/arrow-datafusion
     - https://github.com/DioxusLabs/dioxus
+    - https://github.com/kognise/arpchat
     - awesome
         - 
     - best practices
@@ -1758,6 +1772,7 @@ Also refer to [## Data](#data)
 - https://frontendmasters.com/courses/javascript-hard-parts-v2/
 - https://www.udemy.com/course/the-complete-javascript-course/
 - github
+    - https://github.com/axios/axios
     - https://github.com/artilleryio/artillery
     - https://github.com/prose/prose
     - https://github.com/iptv-org/iptv
@@ -1786,6 +1801,8 @@ Also refer to [## Data](#data)
     - https://github.com/nextui-org/nextui
     - https://github.com/vercel/commerce
     - https://github.com/shadcn-ui/ui
+    - https://github.com/logto-io/logto
+        - https://logto.io/
     - awesome
         - 
     - best practices
