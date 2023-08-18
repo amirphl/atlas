@@ -120,91 +120,104 @@ This repository contains a list of references.
     - https://github.com/openai/gpt-3
     - https://github.com/openai/openai-cookbook
     - https://github.com/easezyc/deep-transfer-learning
-    - https://github.com/RUCAIBox/LLMSurvey
-    - https://github.com/hwchase17/langchain
-    - https://github.com/Nutlope/roomGPT
-    - https://github.com/Sentdex/ChatGPT-at-Home
-    - https://github.com/Torantulino/Auto-GPT
-    - https://github.com/reworkd/AgentGPT
-    - https://github.com/Significant-Gravitas/Auto-GPT
-    - https://github.com/LAION-AI/Open-Assistant
-    - https://github.com/lm-sys/FastChat
-    - https://github.com/Yidadaa/ChatGPT-Next-Web
-    - https://github.com/imartinez/privateGPT
-    - https://github.com/PromtEngineer/localGPT
-    - https://github.com/karpathy/nanoGPT
-    - https://github.com/karpathy/minGPT
-    - https://github.com/microsoft/TypeChat
-    - https://github.com/microsoft/azurechatgpt
-    - https://github.com/microsoft/chat-copilot
-    - https://github.com/geekan/MetaGPT
-    - https://github.com/OpenBMB/ToolBench
-    - https://github.com/psychic-api/rag-stack
-    - https://github.com/labring/FastGPT
-    - https://github.com/xorbitsai/inference
-    - https://github.com/dice2o/BingGPT
-    - https://github.com/songquanpeng/one-api
-    - https://github.com/AntonOsika/gpt-engineer
-    - https://github.com/vllm-project/vllm
-    - https://github.com/THUDM/AgentBench
-    - https://github.com/huggingface/trl
-    - https://github.com/mlc-ai/mlc-llm
+    - llm
+        - https://github.com/RUCAIBox/LLMSurvey
+        - https://github.com/hwchase17/langchain
+        - https://github.com/Sentdex/ChatGPT-at-Home
+        - https://github.com/Torantulino/Auto-GPT
+        - https://github.com/reworkd/AgentGPT
+        - https://github.com/Significant-Gravitas/Auto-GPT
+        - https://github.com/LAION-AI/Open-Assistant
+        - https://github.com/lm-sys/FastChat
+        - https://github.com/Yidadaa/ChatGPT-Next-Web
+        - https://github.com/imartinez/privateGPT
+        - https://github.com/PromtEngineer/localGPT
+        - https://github.com/karpathy/nanoGPT
+        - https://github.com/karpathy/minGPT
+        - https://github.com/microsoft/TypeChat
+        - https://github.com/microsoft/azurechatgpt
+        - https://github.com/microsoft/chat-copilot
+        - https://github.com/geekan/MetaGPT
+        - https://github.com/OpenBMB/ToolBench
+        - https://github.com/psychic-api/rag-stack
+        - https://github.com/labring/FastGPT
+        - https://github.com/xorbitsai/inference
+        - https://github.com/dice2o/BingGPT
+        - https://github.com/songquanpeng/one-api
+        - https://github.com/AntonOsika/gpt-engineer
+        - https://github.com/vllm-project/vllm
+        - https://github.com/THUDM/AgentBench
+        - https://github.com/huggingface/trl
+        - https://github.com/mlc-ai/mlc-llm
+        - https://github.com/FlowiseAI/Flowise
+        - https://github.com/microsoft/DeepSpeed
+        - https://github.com/ShishirPatil/gorilla
+        - https://github.com/gmpetrov/databerry
+        - https://github.com/langgenius/dify
+        - https://github.com/huggingface/text-generation-inference
+        - https://github.com/StanGirard/quivr
+        - https://github.com/QwenLM/Qwen-7B
+        - https://github.com/Shaunwei/RealChar
+        - https://github.com/nlpxucan/WizardLM
+        - https://github.com/mshumer/gpt-llm-trainer
+        - https://github.com/llSourcell/DoctorGPT
+        - https://github.com/assafelovic/gpt-researcher
+    - LLAMA
+        - https://github.com/karpathy/llama2.c
+        - https://github.com/liltom-eth/llama2-webui
+        - https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference
+        - https://github.com/jmorganca/ollama
+        - https://github.com/Alpha-VLLM/LLaMA2-Accessory
+        - https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service
+    - image
+        - https://github.com/Nutlope/roomGPT
+        - https://github.com/omerbt/TokenFlow
+        - https://github.com/invoke-ai/InvokeAI
+        - https://github.com/Stability-AI/generative-models
+        - https://github.com/Stability-AI/StableLM
+        - https://github.com/apple/ml-stable-diffusion
+        - https://github.com/comfyanonymous/ComfyUI
+        - https://github.com/ultralytics/ultralytics
+        - https://github.com/lucidrains/denoising-diffusion-pytorch
+        - https://github.com/dvlab-research/LISA
+        - https://github.com/s0md3v/roop
+        - https://github.com/NVlabs/neuralangelo
+        - https://github.com/roboflow/supervision
+        - https://github.com/lllyasviel/Fooocus
+    - text to audio
+        - https://github.com/suno-ai/bark
+    - transformers
+        - https://github.com/microsoft/torchscale
+    - code assistant
+        - https://github.com/BloopAI/bloop
+        - https://github.com/sweepai/sweep
+        - https://github.com/domvwt/chatgpt-code-review
+        - https://github.com/jamesmurdza/awesome-ai-devtools
+    - jvm
+        - https://github.com/deeplearning4j/deeplearning4j
+        - https://github.com/Angel-ML/angel
+        - https://github.com/microsoft/SynapseML
+        - https://github.com/intel-analytics/BigDL
+        - https://github.com/yahoo/TensorFlowOnSpark
+    - rust
+        - https://github.com/burn-rs/burn
+        - https://github.com/huggingface/candle
+        - https://github.com/tinygrad/tinygrad
 
-    - https://github.com/FlowiseAI/Flowise
-    - https://github.com/mindsdb/mindsdb
-    - https://github.com/microsoft/DeepSpeed
-
-    - https://github.com/karpathy/llama2.c
-    - https://github.com/liltom-eth/llama2-webui
-    - https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference
-    - https://github.com/jmorganca/ollama
-    - https://github.com/Alpha-VLLM/LLaMA2-Accessory
-
-    - https://github.com/suno-ai/bark
-    - https://github.com/omerbt/TokenFlow
-    - https://github.com/microsoft/torchscale
-    - https://github.com/invoke-ai/InvokeAI
-    - https://github.com/ShishirPatil/gorilla
-    - https://github.com/gmpetrov/databerry
-    - https://github.com/langgenius/dify
-    - https://github.com/Stability-AI/generative-models
-    - https://github.com/Stability-AI/StableLM
-    - https://github.com/huggingface/text-generation-inference
-    - https://github.com/apple/ml-stable-diffusion
-    - https://github.com/comfyanonymous/ComfyUI
-    - https://github.com/a16z-infra/companion-app
-    - https://github.com/StanGirard/quivr
-    - https://github.com/evidentlyai/evidently
+    - https://github.com/pola-rs/polars
+    - https://github.com/pandas-dev/pandas
     - https://github.com/dmlc/xgboost
-    - https://github.com/ultralytics/ultralytics
-    - https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
-    - https://github.com/QwenLM/Qwen-7B
-    - https://github.com/GoogleCloudPlatform/generative-ai
-    - https://github.com/lucidrains/denoising-diffusion-pytorch
-    - https://github.com/Shaunwei/RealChar
-    - https://github.com/joonspk-research/generative_agents
-    - https://github.com/dvlab-research/LISA
-
-    - https://github.com/BloopAI/bloop
-    - https://github.com/sweepai/sweep
-    - https://github.com/domvwt/chatgpt-code-review
-    - https://github.com/jamesmurdza/awesome-ai-devtools
 
     - https://github.com/facebookresearch
     - https://github.com/facebookresearch/audiocraft
 
-    - https://github.com/deeplearning4j/deeplearning4j
-    - https://github.com/Angel-ML/angel
-    - https://github.com/microsoft/SynapseML
-    - https://github.com/intel-analytics/BigDL
-    - https://github.com/yahoo/TensorFlowOnSpark
-
-    - https://github.com/burn-rs/burn
-    - https://github.com/huggingface/candle
-    - https://github.com/tinygrad/tinygrad
-
-    - https://github.com/pola-rs/polars
-    - https://github.com/pandas-dev/pandas
+    - https://github.com/a16z-infra/companion-app
+    - https://github.com/evidentlyai/evidently
+    - https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
+    - https://github.com/GoogleCloudPlatform/generative-ai
+    - https://github.com/joonspk-research/generative_agents
+    - https://github.com/Azure-Samples/azure-search-openai-demo
+    - https://github.com/normal-computing/outlines
 
     - awesome
         - https://github.com/Hannibal046/Awesome-LLM
@@ -514,6 +527,7 @@ Also refer to [##System Design](#system-design).
 - Build it yourself!
     - https://github.com/jepsen-io/maelstrom
     - https://github.com/pingcap/talent-plan
+    - https://github.com/codecrafters-io/build-your-own-x
 - https://jepsen.io/
     - https://jepsen.io/services#training
     - https://github.com/aphyr/distsys-class#an-introduction-to-distributed-systems
@@ -640,7 +654,8 @@ Also refer to [##System Design](#system-design).
     - https://github.com/clockworklabs/SpacetimeDB
 - supabase
     - https://github.com/supabase/supabase
-
+- mindsdb
+    - https://github.com/mindsdb/mindsdb
 - conferences
     - Academic conferences
     - [CIDR](https://www.cidrdb.org/)
@@ -719,6 +734,7 @@ Also refer to [##System Design](#system-design).
 
 ## System Design
 Also refer to [## Data](#data)
+- machine learning system design
 - concepts
     - TODO move this section to `learning` repo.
     - Query Optimization
@@ -1803,6 +1819,9 @@ Also refer to [## Data](#data)
     - https://github.com/shadcn-ui/ui
     - https://github.com/logto-io/logto
         - https://logto.io/
+    - https://github.com/apitable/apitable
+    - https://github.com/jsynowiec/node-typescript-boilerplate
+    - https://github.com/novuhq/novu
     - awesome
         - 
     - best practices
@@ -1834,6 +1853,8 @@ Also refer to [## Data](#data)
 
 ## Front-End
 - https://undraw.co/illustrations
+- https://github.com/IanLunn/Hover
+- https://github.com/h5bp/html5-boilerplate
 
 
 ## Kotlin
