@@ -123,6 +123,7 @@ This repository contains a list of references.
     - llm
         - https://github.com/RUCAIBox/LLMSurvey
         - https://github.com/hwchase17/langchain
+        - https://github.com/chatchat-space/Langchain-Chatchat
         - https://github.com/Sentdex/ChatGPT-at-Home
         - https://github.com/Torantulino/Auto-GPT
         - https://github.com/reworkd/AgentGPT
@@ -169,6 +170,7 @@ This repository contains a list of references.
         - https://github.com/jmorganca/ollama
         - https://github.com/Alpha-VLLM/LLaMA2-Accessory
         - https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service
+        - https://github.com/getumbrel/llama-gpt
     - image
         - https://github.com/Nutlope/roomGPT
         - https://github.com/omerbt/TokenFlow
@@ -184,8 +186,10 @@ This repository contains a list of references.
         - https://github.com/NVlabs/neuralangelo
         - https://github.com/roboflow/supervision
         - https://github.com/lllyasviel/Fooocus
-    - text to audio
+        - https://github.com/facebookresearch/AnimatedDrawings
+    - audio
         - https://github.com/suno-ai/bark
+        - https://github.com/openai/whisper
     - transformers
         - https://github.com/microsoft/torchscale
     - code assistant
@@ -206,6 +210,7 @@ This repository contains a list of references.
 
     - https://github.com/pola-rs/polars
     - https://github.com/pandas-dev/pandas
+    - https://github.com/google/jax
     - https://github.com/dmlc/xgboost
 
     - https://github.com/facebookresearch
@@ -218,6 +223,8 @@ This repository contains a list of references.
     - https://github.com/joonspk-research/generative_agents
     - https://github.com/Azure-Samples/azure-search-openai-demo
     - https://github.com/normal-computing/outlines
+    - https://github.com/a16z-infra/ai-town
+    - https://github.com/danswer-ai/danswer
 
     - awesome
         - https://github.com/Hannibal046/Awesome-LLM
@@ -475,6 +482,7 @@ This repository contains a list of references.
     - https://github.com/ayadim/Nuclei-bug-hunter/tree/main
     - https://github.com/Z4nzu/hackingtool
     - https://github.com/aquasecurity/cloudsploit
+    - https://github.com/digininja/DVWA
     - awesome
         - https://github.com/enaqx/awesome-pentest
         - https://github.com/rshipp/awesome-malware-analysis
@@ -959,6 +967,7 @@ Also refer to [## Data](#data)
     - https://github.com/TheLartians/ModernCppStarter
     - https://github.com/filipdutescu/modern-cpp-template
     - https://github.com/nlohmann/json
+    - https://github.com/google/googletest
     - awesome
         - https://github.com/fffaraz/awesome-cpp
         - https://github.com/uhub/awesome-cpp
@@ -1426,6 +1435,7 @@ Also refer to [## Data](#data)
 - github
     - https://github.com/yhzhang0128/egos-2000
     - https://github.com/tpm2-software
+    - https://github.com/1Panel-dev/1Panel
     - awesome
         - https://github.com/awesome-foss/awesome-sysadmin
     - best practices
@@ -1448,6 +1458,7 @@ Also refer to [## Data](#data)
     - https://medium.com/microsoftazure/testing-the-kubernetes-gateway-api-with-the-istio-based-service-mesh-add-on-for-azure-kubernetes-65308cbe62c1
     - https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.20.md#deprecation
     - https://kubernetes.io/blog/2020/12/02/dont-panic-kubernetes-and-docker/
+    - https://github.com/kubernetes-sigs/external-dns
 - docker
 - prometheus
     - advanced prometheus queries
@@ -1822,6 +1833,7 @@ Also refer to [## Data](#data)
     - https://github.com/apitable/apitable
     - https://github.com/jsynowiec/node-typescript-boilerplate
     - https://github.com/novuhq/novu
+    - https://github.com/steven-tey/novel
     - awesome
         - 
     - best practices
