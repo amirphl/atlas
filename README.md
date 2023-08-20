@@ -465,6 +465,8 @@ This repository contains a list of references.
     - [Reverse Engineering with Ghidra](https://www.youtube.com/playlist?list=PL_tws4AXg7auglkFo6ZRoWGXnWL0FHAEi)
     - [آموزش امنیت](https://www.youtube.com/@user-nt8yr9gj1b/playlists)
     - [HackTheBox Agile | Detailed Walkthrough](https://www.youtube.com/watch?v=OqcUrQnbulM)
+    - https://www.academy.attackiq.com/
+    - https://www.elastic.co/training
 - github
     - https://github.com/s0md3v/XSStrike
     - https://github.com/s0md3v/Smap
