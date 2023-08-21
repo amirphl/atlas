@@ -181,12 +181,14 @@ This repository contains a list of references.
         - https://github.com/comfyanonymous/ComfyUI
         - https://github.com/ultralytics/ultralytics
         - https://github.com/lucidrains/denoising-diffusion-pytorch
+        - https://github.com/leejet/stable-diffusion.cpp
         - https://github.com/dvlab-research/LISA
         - https://github.com/s0md3v/roop
         - https://github.com/NVlabs/neuralangelo
         - https://github.com/roboflow/supervision
         - https://github.com/lllyasviel/Fooocus
         - https://github.com/facebookresearch/AnimatedDrawings
+        - https://github.com/facefusion/facefusion
     - audio
         - https://github.com/suno-ai/bark
         - https://github.com/openai/whisper
