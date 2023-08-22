@@ -163,6 +163,7 @@ This repository contains a list of references.
         - https://github.com/mshumer/gpt-llm-trainer
         - https://github.com/llSourcell/DoctorGPT
         - https://github.com/assafelovic/gpt-researcher
+        - https://github.com/smol-ai/GodMode
     - LLAMA
         - https://github.com/karpathy/llama2.c
         - https://github.com/liltom-eth/llama2-webui
@@ -171,6 +172,8 @@ This repository contains a list of references.
         - https://github.com/Alpha-VLLM/LLaMA2-Accessory
         - https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service
         - https://github.com/getumbrel/llama-gpt
+    - nlp
+        - https://github.com/fighting41love/funNLP
     - image
         - https://github.com/Nutlope/roomGPT
         - https://github.com/omerbt/TokenFlow
@@ -189,6 +192,8 @@ This repository contains a list of references.
         - https://github.com/lllyasviel/Fooocus
         - https://github.com/facebookresearch/AnimatedDrawings
         - https://github.com/facefusion/facefusion
+        - https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life
+        - https://github.com/tencent-ailab/IP-Adapter
     - audio
         - https://github.com/suno-ai/bark
         - https://github.com/openai/whisper
@@ -432,6 +437,8 @@ This repository contains a list of references.
         - https://github.com/liuchengxu/blockchain-tutorial
     - checklists
         - 
+    - algo trading
+        - https://github.com/OpenBB-finance/OpenBBTerminal
 - misc
     - https://agah.com/
     - https://bashgah.com/edu
@@ -1217,6 +1224,9 @@ Also refer to [## Data](#data)
     - https://github.com/http4s/http4s
     - https://github.com/circe/circe
     - https://github.com/typelevel/fs2
+
+    - https://github.com/Grasscutters/Grasscutter
+
     - awesome
         - https://github.com/scala-exercises/scala-exercises
     - best practices
@@ -1765,6 +1775,7 @@ Also refer to [## Data](#data)
     - https://github.com/apache/arrow-datafusion
     - https://github.com/DioxusLabs/dioxus
     - https://github.com/kognise/arpchat
+    - https://github.com/rivet-gg/rivet
     - awesome
         - 
     - best practices
@@ -1803,6 +1814,7 @@ Also refer to [## Data](#data)
 - https://frontendmasters.com/courses/javascript-hard-parts-v2/
 - https://www.udemy.com/course/the-complete-javascript-course/
 - github
+    - https://github.com/trekhleb/javascript-algorithms
     - https://github.com/axios/axios
     - https://github.com/artilleryio/artillery
     - https://github.com/prose/prose
@@ -1838,6 +1850,8 @@ Also refer to [## Data](#data)
     - https://github.com/jsynowiec/node-typescript-boilerplate
     - https://github.com/novuhq/novu
     - https://github.com/steven-tey/novel
+    - https://github.com/documenso/documenso
+    - https://github.com/calcom/cal.com
     - awesome
         - 
     - best practices
