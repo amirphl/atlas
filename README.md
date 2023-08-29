@@ -108,6 +108,7 @@ This repository contains a list of references.
     - https://academy.neuromatch.io/about
     - https://ocw.mit.edu/courses/18-821-project-laboratory-in-mathematics-spring-2013/
     - https://ocw.mit.edu/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/
+    - https://cs.brown.edu/courses/cs053/current/lectures.htm
 - projects
     - [138 Data Science Projects You Can Try with Python](https://python.plainenglish.io/85-data-science-projects-c03c8750599e)
 - kaggle
@@ -164,7 +165,9 @@ This repository contains a list of references.
         - https://github.com/llSourcell/DoctorGPT
         - https://github.com/assafelovic/gpt-researcher
         - https://github.com/smol-ai/GodMode
+        - https://github.com/oobabooga/text-generation-webui
     - LLAMA
+        - https://github.com/facebookresearch/llama
         - https://github.com/karpathy/llama2.c
         - https://github.com/liltom-eth/llama2-webui
         - https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference
@@ -172,6 +175,8 @@ This repository contains a list of references.
         - https://github.com/Alpha-VLLM/LLaMA2-Accessory
         - https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service
         - https://github.com/getumbrel/llama-gpt
+        - https://github.com/facebookresearch/codellama
+        - https://github.com/ggerganov/llama.cpp
     - nlp
         - https://github.com/fighting41love/funNLP
     - image
@@ -194,9 +199,12 @@ This repository contains a list of references.
         - https://github.com/facefusion/facefusion
         - https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life
         - https://github.com/tencent-ailab/IP-Adapter
+        - https://github.com/QwenLM/Qwen-VL
+        - https://github.com/rese1f/StableVideo
     - audio
         - https://github.com/suno-ai/bark
         - https://github.com/openai/whisper
+        - https://github.com/Plachtaa/VALL-E-X
     - transformers
         - https://github.com/microsoft/torchscale
     - code assistant
@@ -204,6 +212,8 @@ This repository contains a list of references.
         - https://github.com/sweepai/sweep
         - https://github.com/domvwt/chatgpt-code-review
         - https://github.com/jamesmurdza/awesome-ai-devtools
+        - https://github.com/Pythagora-io/gpt-pilot
+        - https://github.com/continuedev/continue
     - jvm
         - https://github.com/deeplearning4j/deeplearning4j
         - https://github.com/Angel-ML/angel
@@ -232,6 +242,8 @@ This repository contains a list of references.
     - https://github.com/normal-computing/outlines
     - https://github.com/a16z-infra/ai-town
     - https://github.com/danswer-ai/danswer
+    - https://github.com/spcl/graph-of-thoughts
+    - https://github.com/neulab/prompt2model
 
     - awesome
         - https://github.com/Hannibal046/Awesome-LLM
@@ -402,6 +414,7 @@ This repository contains a list of references.
     - ETH classic vs ETH vs ETH2
     - How to reduce exchange fee?
 - github
+    - https://github.com/bitcoin/bitcoin
     - https://github.com/ethereum/go-ethereum
     - https://github.com/hyperledger/fabric
     - https://github.com/sei-protocol/sei-chain
@@ -413,6 +426,9 @@ This repository contains a list of references.
     - https://github.com/oxydev/Histopia-Smart-Contracts
     - https://github.com/base-org/withdrawer
     - https://github.com/taikoxyz/taiko-mono
+    - https://github.com/paritytech/polkadot-sdk
+    - finance
+        - https://github.com/firmai/financial-machine-learning
     - awesome
         - https://roadmap.sh/blockchain
         - https://github.com/openblockchains/awesome-blockchains
@@ -611,6 +627,7 @@ Also refer to [##System Design](#system-design).
         - https://www.thatguyfromdelhi.com/2020/12/what-postgres-sql-causes-table-rewrite.html
         - https://pg-auto-failover.readthedocs.io/en/latest/tutorial.html
 - redis
+    - https://github.com/redis/go-redis
 - cassandra
 - hadoop
     - https://hadoop.apache.org/
@@ -675,6 +692,8 @@ Also refer to [##System Design](#system-design).
     - https://github.com/supabase/supabase
 - mindsdb
     - https://github.com/mindsdb/mindsdb
+- superset
+    - https://github.com/apache/superset
 - conferences
     - Academic conferences
     - [CIDR](https://www.cidrdb.org/)
@@ -713,6 +732,7 @@ Also refer to [##System Design](#system-design).
     - https://www.educative.io/courses/coderust-hacking-the-coding-interview
     - https://leetcode.com/list/xoqag3yj/
     - [MIT course on YouTube](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+        - https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
     - [Stanford courses on Coursera](https://www.coursera.org/specializations/algorithms)
     - [The Algorithm Design Manual by Skiena (book)](https://www.amazon.com/gp/product/1849967202/)
     - [The Google course on Udacity](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
@@ -728,6 +748,7 @@ Also refer to [##System Design](#system-design).
     - https://www.cs.purdue.edu/homes/ninghui/courses/cp_resources.html
     - https://web.stanford.edu/class/cs97si/
     - https://ucsd-cse100-s20.github.io/
+    - https://en.wikipedia.org/wiki/Fenwick_tree
 - github
     - https://github.com/tmwilliamlin168/CompetitiveProgramming
     - awesome
@@ -791,9 +812,34 @@ Also refer to [## Data](#data)
         - https://proto.actor/docs/what-is-protoactor/
     - CQRS, event sourcing, circuit breaker, ambassador, leader election, pub/sub, sharding, strangler facade
 - design patterns(gof, ...), tdd, design principles(solid, dry, yagni, ...), oop, testing
-    - apply in [cpp](#cpp), [java, scala](#java-scala), [golang](#golang), [python](#python), [rust](#rust), and [erlang](#erlang-elixir)
+    - apply in [cpp](#cpp), [java, scala](#java-scala), [golang](#golang), [python](#python), [kotlin](#kotlin), [typescript](#typescript), [rust](#rust), and [erlang](#erlang-elixir)
     - MVC vs MVT vs MVVM vs MVP
 - resouces
+    - youtube
+        - https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
+        - [System Design Interview](https://www.youtube.com/@SystemDesignInterview/)
+        - [Tech Dummies Playlist](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV)
+        - [Grokking the System Design Interviews Playlist](https://www.youtube.com/playlist?list=PLK8IOvtbwVsuYW8KovGg9o6dlhspym8O_)
+        - [System Design Playlist](https://www.youtube.com/playlist?list=PLrQdb6IAZ9eVy6DFKcEr3C4TgQVleFXfj)
+        - [Gaurav Sen](https://www.youtube.com/@gkcs)
+        - [ByteByteGo](https://www.youtube.com/@ByteByteGo)
+        - [interviewing.io](https://www.youtube.com/@interviewingio)
+        - [Think Software](https://www.youtube.com/channel/UCVa66dAkbs60_A0P52Yjj7Q)
+        - [The Tech Granth](https://www.youtube.com/channel/UCQSU2g8XU-ZSs26_4HGuCWg)
+        - [System Design Fight Club](https://www.youtube.com/@SDFC)
+        - [Cloud with Raj](https://www.youtube.com/@cloudwithraj)
+        - [System Design Beginner's Course 2022 Playlist](https://www.youtube.com/playlist?list=PL8hP5HjAnJ3_mT7IHXjlbpYX_xiz4v_kP)
+        - [sudoCODE](https://www.youtube.com/@sudocode)
+        - [codeKarle](https://www.youtube.com/channel/UCZEfiXy7PmtVTezYUvc4zZw)
+        - [Code with Irtiza](https://www.youtube.com/channel/UCDankIVMXJEkhtjv5yLSN4g)
+        - [System-Design](https://www.youtube.com/channel/UCGr0PIOsKpmZNmrR4Ov1jcg)
+        - [ML Tech Track](https://www.youtube.com/channel/UCtFLVt962URukoT-K4L-0ug)
+        - [IGotAnOffer: Engineering](https://www.youtube.com/channel/UCWlbj3trSoIU3SHrJCSiAuA)
+        - [System Design for Beginners Course](https://www.youtube.com/watch?v=m8Icp_Cid5o)
+        - https://www.reddit.com/r/leetcode/comments/q034y1/youtube_channels_to_learn_basics_of_system_design/
+        - https://www.teamblind.com/post/Best-system-design-YouTube-channels-duRgQaOv
+        - https://leetcode.com/discuss/interview-question/system-design/607632/System-Design-resources/553093
+    - https://interestedvideos.com/system-design-youtube-channels/
     - https://refactoring.guru/
     - https://microservices.io/
         - https://microservices.io/patterns/data/saga.html
@@ -828,6 +874,10 @@ Also refer to [## Data](#data)
     - https://igotanoffer.com/blogs/tech/system-design-interview-prep
     - https://www.freecodecamp.org/news/systems-design-for-interviews/
     - https://www.evidentlyai.com/ml-system-design
+    - https://www.enjoyalgorithms.com/blog/design-youtube-system-design-interview-question
+    - https://bytebytego.com/courses/system-design-interview/design-youtube
+    - https://medium.com/double-pointer/system-design-interview-video-streaming-service-e-g-netflix-or-youtube-design-adc2402e54a1
+    - https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers/system-design-youtube
     - search "system design interview preparation" in google then you see a list of books!
     - [Generic programming](https://en.wikipedia.org/wiki/Generic_programming)
     - [Don't repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
@@ -836,6 +886,7 @@ Also refer to [## Data](#data)
 - github
     - https://github.com/Vonng/ddia
     - awesome
+        - https://github.com/kamranahmedse/developer-roadmap
         - https://github.com/donnemartin/interactive-coding-challenges
         - https://github.com/donnemartin/system-design-primer
         - https://github.com/madd86/awesome-system-design
@@ -979,6 +1030,8 @@ Also refer to [## Data](#data)
     - https://github.com/filipdutescu/modern-cpp-template
     - https://github.com/nlohmann/json
     - https://github.com/google/googletest
+    - https://github.com/facebook/folly
+    - https://github.com/catchorg/Catch2
     - awesome
         - https://github.com/fffaraz/awesome-cpp
         - https://github.com/uhub/awesome-cpp
@@ -1058,6 +1111,7 @@ Also refer to [## Data](#data)
     - https://github.com/uber/cadence
     - https://github.com/OpenIMSDK/Open-IM-Server
     - https://github.com/gocolly/colly
+    - https://github.com/netbirdio/netbird
     - XTLS + REALITY
         - https://github.com/XTLS/REALITY
         - https://github.com/SasukeFreestyle/XTLS-Iran-Reality
@@ -1226,6 +1280,8 @@ Also refer to [## Data](#data)
     - https://github.com/typelevel/fs2
 
     - https://github.com/Grasscutters/Grasscutter
+    - https://github.com/platypusguy/jacobin
+    - https://github.com/quarkusio/quarkus
 
     - awesome
         - https://github.com/scala-exercises/scala-exercises
@@ -1248,6 +1304,10 @@ Also refer to [## Data](#data)
 - 10000 libs, frameworks, books
     - ML libs and frameworks
 - ipython
+- fater cpython
+- pypy
+- https://peps.python.org/
+- https://peps.python.org/pep-0008/
 - static method, static class, class attribute, instance attribute, class method, instance method, methods and runtime complexity: \[list, reversed, set, unordered_set, stack, queue, deque, slot, namedtuple, tuple, dict, unordered_dict], set: \[&, |], &, |, ^, !, yield, generator, decorator, mixin, defaultdict, lambda functions, functional programming, object-oriented programming concept of encapsulation, abstraction, multi inheritance, doctype, PEP 8 coding style, python2 vs 3, numpy, datetime, seeking and scanning a file, os, sys, set_printoptions, python deprecation warnings, call by ref, call by value, is vs ===, compare by ref or value, np.array_equal(a,b), linalg.eig() and .matmul(), linalg.inv() and .dot(), linalg.det() and .dot(), linalg.inv() and .eye(), Series and DataFrames, string is immutable?, zip, enumerate, python data types, double and long data types, (256).bit_length(), remove vs pop, itertools, pathlib, decorators, map, filter, zip, lambda, breakpoint
 - github
     - https://github.com/tiangolo/fastapi
@@ -1260,6 +1320,7 @@ Also refer to [## Data](#data)
     - https://github.com/python-poetry/poetry
     - https://github.com/mahmoud/boltons
     - https://github.com/mahmoud/glom
+    - https://github.com/satwikkansal/wtfpython
     - 
     - awesome
         - https://github.com/vinta/awesome-python
@@ -1478,6 +1539,7 @@ Also refer to [## Data](#data)
     - advanced prometheus queries
 - grafana
 - git
+    - https://docs.github.com/en
     - https://github.com/tiimgreen/github-cheat-sheet
     - gitlab api and doc
 - cicd
@@ -1512,6 +1574,7 @@ Also refer to [## Data](#data)
     - coursera certificates
     - amazon lambda and step functions, ECS, ECS2
     - https://towardsaws.com/aws-tech-blog-exploring-the-modern-data-stack-universe-with-active-metadata-management-eb1af98b9e3a
+    - https://github.com/terraform-aws-modules/terraform-aws-eks
 - azure
 - google cloud platform (gcp)
 - github
@@ -1709,6 +1772,7 @@ Also refer to [## Data](#data)
 - https://github.com/public-apis/public-apis
 - https://github.com/gothinkster/realworld
 - https://github.com/practical-tutorials/project-based-learning
+- https://github.com/Developer-Y/cs-video-courses
 - Design
     - https://github.com/alexpate/awesome-design-systems
 - Web Performance Optimization
@@ -1776,6 +1840,7 @@ Also refer to [## Data](#data)
     - https://github.com/DioxusLabs/dioxus
     - https://github.com/kognise/arpchat
     - https://github.com/rivet-gg/rivet
+    - https://github.com/lapce/lapce
     - awesome
         - 
     - best practices
@@ -1852,6 +1917,7 @@ Also refer to [## Data](#data)
     - https://github.com/steven-tey/novel
     - https://github.com/documenso/documenso
     - https://github.com/calcom/cal.com
+    - https://github.com/RocketChat/Rocket.Chat
     - awesome
         - 
     - best practices
