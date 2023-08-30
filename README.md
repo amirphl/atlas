@@ -166,6 +166,7 @@ This repository contains a list of references.
         - https://github.com/assafelovic/gpt-researcher
         - https://github.com/smol-ai/GodMode
         - https://github.com/oobabooga/text-generation-webui
+        - https://github.com/embedchain/embedchain
     - LLAMA
         - https://github.com/facebookresearch/llama
         - https://github.com/karpathy/llama2.c
@@ -179,7 +180,7 @@ This repository contains a list of references.
         - https://github.com/ggerganov/llama.cpp
     - nlp
         - https://github.com/fighting41love/funNLP
-    - image
+    - vision
         - https://github.com/Nutlope/roomGPT
         - https://github.com/omerbt/TokenFlow
         - https://github.com/invoke-ai/InvokeAI
@@ -201,12 +202,14 @@ This repository contains a list of references.
         - https://github.com/tencent-ailab/IP-Adapter
         - https://github.com/QwenLM/Qwen-VL
         - https://github.com/rese1f/StableVideo
+        - https://github.com/roboflow/notebooks
     - audio
         - https://github.com/suno-ai/bark
         - https://github.com/openai/whisper
         - https://github.com/Plachtaa/VALL-E-X
     - transformers
         - https://github.com/microsoft/torchscale
+        - https://github.com/microsoft/unilm
     - code assistant
         - https://github.com/BloopAI/bloop
         - https://github.com/sweepai/sweep
@@ -429,6 +432,7 @@ This repository contains a list of references.
     - https://github.com/paritytech/polkadot-sdk
     - finance
         - https://github.com/firmai/financial-machine-learning
+        - https://github.com/edarchimbaud/awesome-systematic-trading
     - awesome
         - https://roadmap.sh/blockchain
         - https://github.com/openblockchains/awesome-blockchains
@@ -1112,6 +1116,7 @@ Also refer to [## Data](#data)
     - https://github.com/OpenIMSDK/Open-IM-Server
     - https://github.com/gocolly/colly
     - https://github.com/netbirdio/netbird
+    - https://github.com/klauspost/compress
     - XTLS + REALITY
         - https://github.com/XTLS/REALITY
         - https://github.com/SasukeFreestyle/XTLS-Iran-Reality
@@ -1549,6 +1554,8 @@ Also refer to [## Data](#data)
     - https://github.com/denji/nginx-tuning
     - nginx architecture
     - https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/
+- terraform
+    - https://github.com/hashicorp/terraform
 - github
     - https://github.com/bregman-arie/devops-exercises
     - https://github.com/HariSekhon/DevOps-Bash-tools
@@ -1918,6 +1925,9 @@ Also refer to [## Data](#data)
     - https://github.com/documenso/documenso
     - https://github.com/calcom/cal.com
     - https://github.com/RocketChat/Rocket.Chat
+    - https://github.com/ant-design/ant-design
+    - https://github.com/withfig/autocomplete
+    - https://github.com/sequelize/sequelize
     - awesome
         - 
     - best practices
