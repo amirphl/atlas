@@ -96,9 +96,12 @@ This repository contains a list of references.
     - MATHEMATICS FOR MACHINE LEARNING, Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong
     - https://github.com/dair-ai/Mathematics-for-ML
     - https://github.com/PacktPublishing/Hands-On-Gradient-Boosting-with-XGBoost-and-Scikit-learn
+    - elements of statistical learning
 - courses
     - [Introduction to Data-Centric AI](https://dcai.csail.mit.edu/)
     - [MultiModal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2022/)
+    - https://www.coursera.org/specializations/machine-learning-introduction
+    - https://www.coursera.org/specializations/deep-learning
     - https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science
         - https://github.com/LoyumM/Mathematics-for-Machine-Learning-and-Data-Science-Specialization
     - https://www.coursera.org/specializations/mathematics-machine-learning
@@ -217,6 +220,8 @@ This repository contains a list of references.
         - https://github.com/jamesmurdza/awesome-ai-devtools
         - https://github.com/Pythagora-io/gpt-pilot
         - https://github.com/continuedev/continue
+        - https://github.com/Nutlope/aicommits
+        - https://github.com/brexhq/prompt-engineering
     - jvm
         - https://github.com/deeplearning4j/deeplearning4j
         - https://github.com/Angel-ML/angel
@@ -307,6 +312,7 @@ This repository contains a list of references.
     - web scraping
     - power bi, metabase
     - fraud detection, customer loyalty prediction, churn rate prediction
+    - recommendation systems, advertisement systems, 
 
 
 ## Blockchain
@@ -395,6 +401,18 @@ This repository contains a list of references.
         - https://github.com/topics/matching-engine
         - https://github.com/topics/order-matching-system
         - https://github.com/shojaeix/go-orderlist
+    - xerexchain
+        - [Evolution of Financial Exchange Architectures](https://www.youtube.com/watch?v=qDhTjE0XmkE)
+        - [LMAX Disruptor and the Concepts of Mechanical Sympathy](https://www.youtube.com/watch?v=Qho1QNbXBso)
+        - ["How to Think about Parallel Programming: Not!" - Guy L. Steele Jr. (Strange Loop 2010)](https://www.youtube.com/watch?v=dPK6t7echuA)
+        - [Event Log Architectures: when quality matters - Martin Thompson - DDD Europe 2020](https://www.youtube.com/watch?v=RlwO6CJbJjQ)
+        - [Lessons Learned from Scaling Up Octopus • Mike Noonan • YOW! 2021](https://www.youtube.com/watch?v=Eie_kxwzyfQ)
+        - [Architecting a Modern Financial Institution](https://www.youtube.com/watch?v=VYuToviSx5Q)
+        - [Garrett Smith - Why The Cool Kids Don't Use Erlang](https://www.youtube.com/watch?v=3MvKLOecT1I)
+        - https://lmax-exchange.github.io/disruptor/javadoc/com.lmax.disruptor/com/lmax/disruptor/SequenceBarrier.html
+        - https://bitcoin-s.org/docs/contributing
+        - https://bitcoin-s.org/docs/core/core-intro
+        - https://www.base58.info/
 - metaverse
     - Sand token, Land token, Goverance token, soft fork voting, alpha mega events, sandbox integration opensource projects, game maker, apolyx.com
     - ar/vr + blockchain
@@ -416,9 +434,12 @@ This repository contains a list of references.
     - trading libraries: implement wallex API in ccxt
     - ETH classic vs ETH vs ETH2
     - How to reduce exchange fee?
+    - https://twitter.com/SuiNetwork
 - github
     - https://github.com/bitcoin/bitcoin
     - https://github.com/ethereum/go-ethereum
+    - https://github.com/OpenZeppelin/openzeppelin-contracts
+        - https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC20
     - https://github.com/hyperledger/fabric
     - https://github.com/sei-protocol/sei-chain
     - https://github.com/BlockstreamResearch
@@ -430,6 +451,7 @@ This repository contains a list of references.
     - https://github.com/base-org/withdrawer
     - https://github.com/taikoxyz/taiko-mono
     - https://github.com/paritytech/polkadot-sdk
+    - https://github.com/ton-blockchain
     - finance
         - https://github.com/firmai/financial-machine-learning
         - https://github.com/edarchimbaud/awesome-systematic-trading
@@ -470,6 +492,8 @@ This repository contains a list of references.
     - https://alirezamehrabi.com
     - https://mahdirajabi.com/
     - chainova blockchain
+    - https://www.stormrake.com/blogs/post/arbitrum-airdrop-inbound
+    - https://valiantresearch.substack.com/p/aaa-arbitrum-airdrop-alpha
 
 
 ## Security
@@ -480,6 +504,7 @@ This repository contains a list of references.
         - [Adversarial Thinking](https://clark.center/details/shamman/25802ff5-301f-49a8-9ca8-83c287fd8a4e)
         - [Machine Learning for Cybersecurity](https://clark.center/details/rcalix1/e8938245-f6c3-4b41-b9ae-d2fa9b5a5065)
     - voorivex
+        - https://z.voorivex.academy/
         - https://memoryleaks.ir/class/
         - [telegram channel](https://web.telegram.org/z/#-1179721901)
         - [twitch channel](https://www.twitch.tv/voorivex)
@@ -577,14 +602,19 @@ Also refer to [##System Design](#system-design).
 - https://pdos.csail.mit.edu/6.824/schedule.html
 - https://www.cs.cornell.edu/ken/
 - spark
+    - also refer to ## AI
     - https://github.com/apache/spark
     - https://github.com/yahoo/TensorFlowOnSpark
     - https://github.com/spark-notebook/spark-notebook
     - https://github.com/awslabs/deequ
     - https://github.com/spark-jobserver/spark-jobserver
     - https://github.com/oap-project/gluten
-    - 
+    - https://github.com/locationtech/geotrellis
+    - https://github.com/LuckyZXL2016/Movie_Recommend
 - akka
+    - https://github.com/akka/akka
+    - initialization, lifetime management, fault handling, escalation, destroy, async, queue, stateful, diagnosis
+    - virtual actor
 - flink
     - https://github.com/apache/flink
 - postgres
@@ -646,6 +676,7 @@ Also refer to [##System Design](#system-design).
 - dubbo
     - https://github.com/apache/dubbo
 - kafka
+    - https://kafka.apache.org/
     - https://github.com/apache/kafka
     - https://github.com/yahoo/CMAK
     - https://medium.com/@stephane.maarek/how-to-use-apache-kafka-to-transform-a-batch-pipeline-into-a-real-time-one-831b48a6ad85
@@ -698,6 +729,8 @@ Also refer to [##System Design](#system-design).
     - https://github.com/mindsdb/mindsdb
 - superset
     - https://github.com/apache/superset
+- paimon
+    - https://github.com/apache/incubator-paimon
 - conferences
     - Academic conferences
     - [CIDR](https://www.cidrdb.org/)
@@ -726,6 +759,7 @@ Also refer to [##System Design](#system-design).
     - careercup
     - interviewbit
     - interviewcake
+    - https://opedia.ir/
 - resources
     - https://www.geeksforgeeks.org/string-data-structure/
     - https://www.geeksforgeeks.org/array-subarray-subsequence-and-subset/
@@ -779,6 +813,7 @@ Also refer to [##System Design](#system-design).
 ## System Design
 Also refer to [## Data](#data)
 - machine learning system design
+    - logistic regression vs svm, facebook ranking system design (stages, ...)
 - concepts
     - TODO move this section to `learning` repo.
     - Query Optimization
@@ -890,6 +925,7 @@ Also refer to [## Data](#data)
 - github
     - https://github.com/Vonng/ddia
     - awesome
+        - https://github.com/topics/distributed-systems
         - https://github.com/kamranahmedse/developer-roadmap
         - https://github.com/donnemartin/interactive-coding-challenges
         - https://github.com/donnemartin/system-design-primer
@@ -1006,6 +1042,7 @@ Also refer to [## Data](#data)
     - https://ind.nl/en/documents/06-2022/publicregisterregularlabourandhighlyskilledmigrants.pdf
     - https://www.gov.uk/skilled-worker-visa
     - https://en.life-in-germany.de/job-guide/
+    - https://devitjobs.nl/en
     - relocate.me
     - nomad visa
 
@@ -1015,6 +1052,7 @@ Also refer to [## Data](#data)
 - .lib, .dll, .so, cygiwn, mingw, gcc, clang, llvm, cmake, mvc++, microsoft visual c++ redist, qt, pipes, posix
     - https://en.wikipedia.org/wiki/POSIX
     - https://en.wikipedia.org/wiki/Microsoft_Visual_C%2B%2B
+    - https://mlir.llvm.org/
     - visual studio
     - cuda c++
     - windows subsystem for linux
@@ -1191,105 +1229,150 @@ Also refer to [## Data](#data)
 ## Java, Scala
 - 10000 libs, frameworks, books
 - class loading, why String is immutable?, java string pool, array vs arrayList, key features of java 8 (lambda expressions, optional class, default method, method reference, lambdas, parallel collection, streams, ...),
-- scala actors, scala joins, scala futures, flowpools, scala async, scala laCasa, spark, 
+- scala actors, scala joins, scala futures, flowpools, scala async, scala laCasa
 - What is effect checking scala?
 - resources
-    - https://docs.oracle.com/en/java/javase/
-    - https://docs.oracle.com/en/java/javase/20/language/
-    - https://docs.oracle.com/javaee/7/index.html
-    - https://docs.oracle.com/javase/7/docs/api/overview-summary.html
-    - https://docs.oracle.com/javase/8/docs/
-    - https://docs.oracle.com/javase/specs/jls/se8/html/jls-17.html
-    - https://docs.oracle.com/javase/specs/jls/se8/html/index.html
-    - https://docs.oracle.com/javase/specs/index.html
-    - https://docs.oracle.com/javase/tutorial/index.html
-    - https://docs.oracle.com/en/java/java-components/index.html
-    - https://docs.oracle.com/solutions/
-    - https://docs.oracle.com/en/database/index.html
-    - https://www.oracle.com/java/technologies/javase-documentation.html
-    - https://blogs.oracle.com/oracle-help-center/
-    - https://developer.oracle.com/
-    - https://en.wikipedia.org/wiki/Double-checked_locking
-    - https://en.wikipedia.org/wiki/Mutual_exclusion
-    - https://en.wikipedia.org/wiki/Semaphore_(programming)
-    - https://en.wikipedia.org/wiki/Lock-free_and_wait-free_algorithms
-    - https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability)
-    - https://rockthejvm.com/
-    - [Rock the JVM](https://www.youtube.com/c/RocktheJVM/videos)
-    - [Java Concurrency in Practice](https://jcip.net/)
-    - [The JSR-133 Cookbook for Compiler Writers](https://gee.cs.oswego.edu/dl/jmm/cookbook.html)
-    - http://bad-concurrency.blogspot.com/
-    - https://mechanical-sympathy.blogspot.com/
+    - java
+        - https://docs.oracle.com/en/java/javase/
+        - https://docs.oracle.com/en/java/javase/20/language/
+        - https://docs.oracle.com/javaee/7/index.html
+        - https://docs.oracle.com/javase/7/docs/api/overview-summary.html
+        - https://docs.oracle.com/javase/8/docs/
+        - https://docs.oracle.com/javase/specs/jls/se8/html/jls-17.html
+        - https://docs.oracle.com/javase/specs/jls/se8/html/index.html
+        - https://docs.oracle.com/javase/specs/index.html
+        - https://docs.oracle.com/javase/tutorial/index.html
+        - https://docs.oracle.com/en/java/java-components/index.html
+        - https://docs.oracle.com/solutions/
+        - https://docs.oracle.com/en/database/index.html
+        - https://www.oracle.com/java/technologies/javase-documentation.html
+        - https://blogs.oracle.com/oracle-help-center/
+        - https://developer.oracle.com/
+        - https://en.wikipedia.org/wiki/Double-checked_locking
+        - https://en.wikipedia.org/wiki/Mutual_exclusion
+        - https://en.wikipedia.org/wiki/Semaphore_(programming)
+        - https://en.wikipedia.org/wiki/Lock-free_and_wait-free_algorithms
+        - https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability)
+        - https://rockthejvm.com/
+            - https://www.youtube.com/c/RocktheJVM/
+        - [Java Concurrency in Practice](https://jcip.net/)
+        - [The JSR-133 Cookbook for Compiler Writers](https://gee.cs.oswego.edu/dl/jmm/cookbook.html)
+        - http://bad-concurrency.blogspot.com/
+        - https://mechanical-sympathy.blogspot.com/
+        - https://adoptium.net/
+    - scala
+        - http://www.scala-sbt.org/documentation.html
+            - https://scastie.scala-lang.org/
+        - https://scalameta.org/metals/docs/
+        - https://github.com/scalacenter/scalafix
 
-    - http://www.scala-sbt.org/documentation.html
-    - https://docs.scala-lang.org/
-        - https://docs.scala-lang.org/tour/tour-of-scala.html
-        - https://docs.scala-lang.org/learn.html
-        - https://docs.scala-lang.org/books.html
-            - https://docs.scala-lang.org/overviews/scala-book/introduction.html
-            - https://docs.scala-lang.org/scala3/book/introduction.html
-        - https://scastie.scala-lang.org/
-        - https://docs.scala-lang.org/online-courses.html
-    - https://www.scala-sbt.org/
-        - https://www.scala-sbt.org/1.x/docs/index.html
-    - https://www.scalatest.org/
-    - https://scalameta.org/metals/docs/
-    - https://github.com/scalacenter/scalafix
-    - https://index.scala-lang.org
-    - https://docs.scala-lang.org/overviews/
-    - https://docs.scala-lang.org/scala3/guides/migration/compatibility-intro.html
-    - https://docs.scala-lang.org/tutorials/scala-for-java-programmers.html
+        - https://docs.scala-lang.org/overviews/index.html
+        - https://www.scala-lang.org/blog/
+        - https://www.scala-lang.org/community/
+        - https://index.scala-lang.org/
         - https://docs.scala-lang.org/api/all.html
+            - https://www.scala-lang.org/api/current/index.html
+        - https://docs.scala-lang.org/overviews/jdk-compatibility/overview.html
+        - https://docs.scala-lang.org/scala3/guides/migration/compatibility-intro.html
+        - https://www.nbshare.io/blog/best-scala-tutorials-on-youtube/
+        - https://docs.scala-lang.org/books.html
+        - https://docs.scala-lang.org/scala3/book/introduction.html
+        - https://docs.scala-lang.org/overviews/scala-book/introduction.html
+        - https://docs.scala-lang.org/learn.html
+        - https://docs.scala-lang.org/online-courses.html
+        - https://docs.scala-lang.org/tour/tour-of-scala.html
+        - https://tourofscala.com/
+        - https://docs.scala-lang.org/toolkit/introduction.html
+        - https://docs.scala-lang.org/tutorials/FAQ/index.html
+        - https://docs.scala-lang.org/tutorials.html
+            - https://docs.scala-lang.org/getting-started/intellij-track/getting-started-with-scala-in-intellij.html
+            - https://docs.scala-lang.org/getting-started/sbt-track/getting-started-with-scala-and-sbt-on-the-command-line.html
+            - https://docs.scala-lang.org/tutorials/scala-for-java-programmers.html
+            - https://docs.scala-lang.org/tutorials/scala-on-android.html
+            - https://docs.scala-lang.org/tutorials/scala-with-maven.html
+        - https://docs.scala-lang.org/style/index.html
+        - https://docs.scala-lang.org/cheatsheets/index.html
         - https://scala-lang.org/files/archive/spec/2.13/
-        - https://www.scala-lang.org/api/current/index.html
-- akka
-    - initialization, lifetime management, fault handling, escalation, destroy, async, queue, stateful, diagnosis
-    - virtual actor
+        - https://docs.scala-lang.org/scala3/reference/
+        - https://docs.scala-lang.org/scala3/new-in-scala3.html
+        - https://docs.scala-lang.org/scala3/scaladoc.html
+        - https://docs.scala-lang.org/scala3/talks.html
+        - https://docs.scala-lang.org/sips/index.html
+        - https://docs.scala-lang.org/contribute/
+        - https://docs.scala-lang.org/glossary/index.html
+        - https://www.scala-exercises.org/
+        - https://www.youtube.com/@MarkLewis/playlists
+        - https://www.youtube.com/devinsideyou
+        - https://rockthejvm.com/
+            - https://www.youtube.com/rockthejvm
+            - https://blog.rockthejvm.com/
+            - https://github.com/rockthejvm
+- scalatest
+    - https://www.scalatest.org/
+    - https://www.scalatest.org/user_guide
+- scalamock
+    - https://scalamock.org/
+- sbt
+    - https://www.scala-sbt.org/
+    - https://www.scala-sbt.org/1.x/docs/index.html
+- scalafmt
+    - https://scalameta.org/scalafmt/
+- play
+- slick
+    - https://scala-slick.org/
+    - https://scala-slick.org/docs/
+- coursier
+    - https://get-coursier.io/docs/overview
+- for spark, akka, and flink, refer to [Data](#data)
 - github
     - https://github.com/scala/scala
     - https://github.com/lampepfl/dotty
     - https://github.com/sbt/sbt
-    - https://github.com/akka/akka
     - https://github.com/playframework/playframework
     - https://github.com/slick/slick
-    - https://github.com/zio/zio
-    - https://github.com/typelevel/cats
-    - https://github.com/monix/monix
-    - https://github.com/Angel-ML/angel
-    - https://github.com/apache/zeppelin
-    - https://github.com/scalaz/scalaz
-    - https://github.com/scala-js/scala-js
-    - https://github.com/scala-native/scala-native
-    - https://github.com/milessabin/shapeless
-    - https://github.com/gatling/gatling
-    - https://github.com/real-logic/aeron
-    - https://github.com/spockframework/spock
-    - https://github.com/javalin/javalin
-    - https://github.com/sdkman
-    - https://github.com/uzh/signal-collect
-    - https://github.com/locationtech/geotrellis
-    - https://github.com/phaller/lacasa
-    - https://github.com/quarkusio/quarkus
+    - https://github.com/typelevel/fs2
+    - fp
+        - https://github.com/zio/zio
+        - https://github.com/typelevel/cats
+        - https://github.com/monix/monix
+        - https://github.com/scalaz/scalaz
+    - ml
+        - https://github.com/Angel-ML/angel
+            - Do you want to contribute to this project to replace Java with Scala?
+        - https://github.com/apache/zeppelin
+        - https://github.com/uzh/signal-collect
+    - cross platform
+        - https://github.com/scala-js/scala-js
+        - https://github.com/scala-native/scala-native
+    - http
+        - https://github.com/softwaremill/sttp
+        - https://github.com/http4s/http4s
+    - json, xml
+        - https://github.com/circe/circe
+        - https://github.com/scala/scala-xml
+    - generic programming
+        - https://github.com/milessabin/shapeless
+    - load testing
+        - https://github.com/gatling/gatling
+    - testing
+        - https://github.com/spockframework/spock
+    - webframework
+        - https://github.com/scalatra/scalatra
+        - https://github.com/javalin/javalin
+        - https://github.com/quarkusio/quarkus
     - https://github.com/twitter/the-algorithm
     - https://github.com/twitter/util
     - https://github.com/twitter/finagle
     - https://github.com/twitter/finatra
-    - https://github.com/apache/incubator-paimon
+    - https://github.com/real-logic/aeron
+    - https://github.com/sdkman
     - https://github.com/languagetool-org/languagetool
     - https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
-    - https://github.com/scalatra/scalatra
-    - https://github.com/LuckyZXL2016/Movie_Recommend
     - https://github.com/spotify/scio
-    - https://github.com/http4s/http4s
-    - https://github.com/circe/circe
-    - https://github.com/typelevel/fs2
-
     - https://github.com/Grasscutters/Grasscutter
     - https://github.com/platypusguy/jacobin
-    - https://github.com/quarkusio/quarkus
-
     - awesome
-        - https://github.com/scala-exercises/scala-exercises
+        - 
     - best practices
         - 
     - cheatsheets
@@ -1326,7 +1409,7 @@ Also refer to [## Data](#data)
     - https://github.com/mahmoud/boltons
     - https://github.com/mahmoud/glom
     - https://github.com/satwikkansal/wtfpython
-    - 
+    - https://github.com/secdev/scapy
     - awesome
         - https://github.com/vinta/awesome-python
         - https://github.com/mahmoud/awesome-python-applications
@@ -1603,6 +1686,7 @@ Also refer to [## Data](#data)
 - thrift
 - graphql
 - rest
+- parquet
 - github
     - awesome
         - 
@@ -1911,6 +1995,7 @@ Also refer to [## Data](#data)
 
 ## TypeScript
 - github
+    - https://github.com/nestjs/nest
     - https://github.com/dotenv-org/dotenv-vault
     - https://github.com/owncast/owncast
     - https://github.com/nextui-org/nextui
