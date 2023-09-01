@@ -228,6 +228,7 @@ This repository contains a list of references.
         - https://github.com/microsoft/SynapseML
         - https://github.com/intel-analytics/BigDL
         - https://github.com/yahoo/TensorFlowOnSpark
+        - [scala-cnn-training-on-gpus-with-tensorflow.ipynb](https://gist.github.com/shadaj/29d77180aeefc41a749273026f7d1fd9)
     - rust
         - https://github.com/burn-rs/burn
         - https://github.com/huggingface/candle
@@ -1297,6 +1298,9 @@ Also refer to [## Data](#data)
         - https://docs.scala-lang.org/scala3/new-in-scala3.html
         - https://docs.scala-lang.org/scala3/scaladoc.html
         - https://docs.scala-lang.org/scala3/talks.html
+        - https://docs.scala-lang.org/scala3/guides/macros/index.html
+        - https://docs.scala-lang.org/scala3/guides/macros/faq.html
+        - https://docs.scala-lang.org/scala3/guides/macros/best-practices.html
         - https://docs.scala-lang.org/sips/index.html
         - https://docs.scala-lang.org/contribute/
         - https://docs.scala-lang.org/glossary/index.html
@@ -1307,20 +1311,43 @@ Also refer to [## Data](#data)
             - https://www.youtube.com/rockthejvm
             - https://blog.rockthejvm.com/
             - https://github.com/rockthejvm
+        - https://index.scala-lang.org/awesome
+        - https://github.com/trending?l=scala&since=monthly
+        - https://index.scala-lang.org/search?q=&contributingSearch=true
+        - https://github.com/search?q=type%3Aissue+label%3A%22good+first+issue%22+language%3AScala+state%3Aopen&type=Issues
+        - https://pavelfatin.com/design-patterns-in-scala/
+        - https://blog.knoldus.com/solid-principle-in-scala/
+        - https://blog.knoldus.com/coding-best-practices-to-follow-with-scala/
+        - https://dzone.com/articles/coding-best-practices-in-scala
+        - https://www.rocky.dev/blog/scala-best-practices
+        - https://medium.com/knoldus/scala-best-practices-4081bff7791e
+        - https://softwaremill.com/new-scala-project-checklist/
+        - [Constraints Liberate, Liberties Constrain — Runar Bjarnason](https://www.youtube.com/watch?v=GqmsQeSzMdw)
+        - https://typelevel.org/
 - scalatest
     - https://www.scalatest.org/
     - https://www.scalatest.org/user_guide
 - scalamock
     - https://scalamock.org/
+- mockito
+    - https://site.mockito.org/
 - sbt
     - https://www.scala-sbt.org/
     - https://www.scala-sbt.org/1.x/docs/index.html
 - scalafmt
     - https://scalameta.org/scalafmt/
 - play
+    - https://www.playframework.com/
+    - https://github.com/playframework/play-samples
 - slick
     - https://scala-slick.org/
     - https://scala-slick.org/docs/
+- cats
+    - https://typelevel.org/cats-effect/
+- zio
+    - 
+- tapir
+    - https://tapir.softwaremill.com/en/latest/
 - coursier
     - https://get-coursier.io/docs/overview
 - for spark, akka, and flink, refer to [Data](#data)
@@ -1347,6 +1374,7 @@ Also refer to [## Data](#data)
     - http
         - https://github.com/softwaremill/sttp
         - https://github.com/http4s/http4s
+        - https://github.com/softwaremill/tapir
     - json, xml
         - https://github.com/circe/circe
         - https://github.com/scala/scala-xml
@@ -1372,15 +1400,35 @@ Also refer to [## Data](#data)
     - https://github.com/Grasscutters/Grasscutter
     - https://github.com/platypusguy/jacobin
     - awesome
-        - 
+        - https://github.com/DovAmir/awesome-design-patterns
+        - https://github.com/akullpp/awesome-java
+        - https://github.com/uhub/awesome-java
+        - https://github.com/pditommaso/awesome-java
+        - https://github.com/iluwatar/java-design-patterns
+            - https://java-design-patterns.com/patterns/
+
+        - https://github.com/uhub/awesome-scala
+        - https://github.com/stkeky/best-of-scala
+
+        - https://github.com/josephguan/scala-design-patterns
+        - https://github.com/nikolovivan/scala-design-patterns-v2
     - best practices
-        - 
+        - https://github.com/alexandru/scala-best-practices
+        - https://nrinaudo.github.io/scala-best-practices/
+        - https://nrinaudo.github.io/talk-scala-best-practices/#1
+        - https://github.com/zeenea/scala-best-practices
+        - https://github.com/databricks/scala-style-guide
+        - https://yoshiyoshifujii.github.io/slides/2019/06/28/clean-architecture-in-practice-at-scalamatsuri2019.html#39
     - cheatsheets
         - 
     - tutorials
         - https://github.com/scala-exercises/scala-exercises
+        - https://github.com/dehun/learn-fp
+        - https://github.com/TrainingByPackt/Professional-Scala
+        - https://gist.github.com/BeachBird/b9bc92651ce011b78bc8
+        - https://github.com/SaeidDadkhah/clean-arch-example
     - checklists
-        - 
+        - https://github.com/code-review-checklists/java-concurrency
 - misc
     - https://stackoverflow.com/questions/24469063/behavior-of-memory-barrier-in-java
     - https://stackoverflow.com/questions/38414829/
@@ -1687,6 +1735,9 @@ Also refer to [## Data](#data)
 - graphql
 - rest
 - parquet
+- avro
+- kyro
+- protobuf
 - github
     - awesome
         - 
@@ -1859,6 +1910,7 @@ Also refer to [## Data](#data)
 - https://github.com/TonnyL/Awesome_APIs
 - https://github.com/detailyang/awesome-cheatsheet
 - https://github.com/FortAwesome/Font-Awesome
+- https://github.com/icopy-site/awesome-cn
 - https://github.com/mtdvio/every-programmer-should-know
 - https://github.com/public-apis/public-apis
 - https://github.com/gothinkster/realworld
@@ -1932,6 +1984,7 @@ Also refer to [## Data](#data)
     - https://github.com/kognise/arpchat
     - https://github.com/rivet-gg/rivet
     - https://github.com/lapce/lapce
+    - https://github.com/rust-lang/miri
     - awesome
         - 
     - best practices
