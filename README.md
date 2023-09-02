@@ -170,6 +170,8 @@ This repository contains a list of references.
         - https://github.com/smol-ai/GodMode
         - https://github.com/oobabooga/text-generation-webui
         - https://github.com/embedchain/embedchain
+        - https://github.com/OpenBMB/ChatDev
+        - https://github.com/microsoft/semantic-kernel
     - LLAMA
         - https://github.com/facebookresearch/llama
         - https://github.com/karpathy/llama2.c
@@ -190,6 +192,7 @@ This repository contains a list of references.
         - https://github.com/Stability-AI/generative-models
         - https://github.com/Stability-AI/StableLM
         - https://github.com/apple/ml-stable-diffusion
+        - https://github.com/AUTOMATIC1111/stable-diffusion-webui
         - https://github.com/comfyanonymous/ComfyUI
         - https://github.com/ultralytics/ultralytics
         - https://github.com/lucidrains/denoising-diffusion-pytorch
@@ -206,6 +209,7 @@ This repository contains a list of references.
         - https://github.com/QwenLM/Qwen-VL
         - https://github.com/rese1f/StableVideo
         - https://github.com/roboflow/notebooks
+        - https://github.com/magic-research/magic-edit
     - audio
         - https://github.com/suno-ai/bark
         - https://github.com/openai/whisper
@@ -253,6 +257,8 @@ This repository contains a list of references.
     - https://github.com/danswer-ai/danswer
     - https://github.com/spcl/graph-of-thoughts
     - https://github.com/neulab/prompt2model
+    - https://github.com/facebookresearch/nougat
+    - https://github.com/facebookresearch/dinov2
 
     - awesome
         - https://github.com/Hannibal046/Awesome-LLM
@@ -456,6 +462,7 @@ This repository contains a list of references.
     - finance
         - https://github.com/firmai/financial-machine-learning
         - https://github.com/edarchimbaud/awesome-systematic-trading
+        - https://github.com/ghostfolio/ghostfolio
     - awesome
         - https://roadmap.sh/blockchain
         - https://github.com/openblockchains/awesome-blockchains
@@ -946,8 +953,9 @@ Also refer to [## Data](#data)
         - https://github.com/karanpratapsingh/system-design
         - https://github.com/heibaiying/BigData-Notes
         - https://github.com/lk-geimfari/awesomo
-        - https://github.com/lauris/awesome-scala
         - https://github.com/adilkhash/Data-Engineering-HowTo
+        - https://github.com/mehdihadeli/awesome-software-architecture
+        - https://github.com/simskij/awesome-software-architecture
 
         - https://github.com/jwasham/coding-interview-university
         - https://github.com/theanalyst/awesome-distributed-systems
@@ -956,7 +964,6 @@ Also refer to [## Data](#data)
         - https://github.com/rShetty/awesome-distributed-systems
         - https://github.com/gojek/awesome-distributed-systems
         - https://github.com/roma-glushko/awesome-distributed-system-projects
-        - https://github.com/doocs/advanced-java
         - https://github.com/ty4z2008/Qix
     - best practices
         - https://github.com/Sairyss/domain-driven-hexagon
@@ -1020,6 +1027,7 @@ Also refer to [## Data](#data)
 
 
 ## Linkedin
+- https://github.com/posquit0/Awesome-CV
 - courses
     - https://www.linkedin.com/learning/subscription/career-guidance-hub
     - https://upjourney.com/how-to-ask-for-feedback-after-a-job-rejection
@@ -1046,6 +1054,7 @@ Also refer to [## Data](#data)
     - https://devitjobs.nl/en
     - relocate.me
     - nomad visa
+    - https://www.levels.fyi/?compare=Google,Facebook,Microsoft&track=Software%20Engineer
 
 
 ## CPP
@@ -1156,6 +1165,8 @@ Also refer to [## Data](#data)
     - https://github.com/gocolly/colly
     - https://github.com/netbirdio/netbird
     - https://github.com/klauspost/compress
+    - https://github.com/binwiederhier/ntfy
+    - https://github.com/IceWhaleTech/CasaOS
     - XTLS + REALITY
         - https://github.com/XTLS/REALITY
         - https://github.com/SasukeFreestyle/XTLS-Iran-Reality
@@ -1399,17 +1410,18 @@ Also refer to [## Data](#data)
     - https://github.com/spotify/scio
     - https://github.com/Grasscutters/Grasscutter
     - https://github.com/platypusguy/jacobin
+    - https://github.com/NationalSecurityAgency/ghidra
     - awesome
-        - https://github.com/DovAmir/awesome-design-patterns
+        - also refer to ## Data
+        - https://github.com/doocs/advanced-java
         - https://github.com/akullpp/awesome-java
         - https://github.com/uhub/awesome-java
         - https://github.com/pditommaso/awesome-java
         - https://github.com/iluwatar/java-design-patterns
             - https://java-design-patterns.com/patterns/
-
         - https://github.com/uhub/awesome-scala
         - https://github.com/stkeky/best-of-scala
-
+        - https://github.com/lauris/awesome-scala
         - https://github.com/josephguan/scala-design-patterns
         - https://github.com/nikolovivan/scala-design-patterns-v2
     - best practices
@@ -1434,6 +1446,7 @@ Also refer to [## Data](#data)
     - https://stackoverflow.com/questions/38414829/
     - https://medium.com/javarevisited/10-spring-boot-features-that-make-java-development-easier-6bbee204c867
     - https://medium.com/javarevisited/10-spring-cloud-features-which-makes-microservice-development-easier-in-java-e061885422fe
+    - https://towardsdatascience.com/10-excellent-github-repositories-for-every-java-developer-41084a91ade9
 
 
 ## Python
@@ -1458,6 +1471,8 @@ Also refer to [## Data](#data)
     - https://github.com/mahmoud/glom
     - https://github.com/satwikkansal/wtfpython
     - https://github.com/secdev/scapy
+    - https://github.com/plasma-umass/scalene
+    - https://github.com/dgtlmoon/changedetection.io
     - awesome
         - https://github.com/vinta/awesome-python
         - https://github.com/mahmoud/awesome-python-applications
@@ -1639,6 +1654,8 @@ Also refer to [## Data](#data)
 - resources
     - LPIC
     - bash scripting books
+- curl
+    - [https://www.youtube.com/watch?v=V5vZWHP-RqU](https://www.youtube.com/watch?v=V5vZWHP-RqU)
 - Misc
     - [Some commands](https://twitter.com/javarevisited/status/1576089457870061568)
     - [Linux vs Unix](https://twitter.com/BendikMatej/status/1575796900401278976)
@@ -1738,6 +1755,7 @@ Also refer to [## Data](#data)
 - avro
 - kyro
 - protobuf
+    - https://github.com/protocolbuffers/protobuf
 - github
     - awesome
         - 
@@ -1916,13 +1934,11 @@ Also refer to [## Data](#data)
 - https://github.com/gothinkster/realworld
 - https://github.com/practical-tutorials/project-based-learning
 - https://github.com/Developer-Y/cs-video-courses
-- Design
-    - https://github.com/alexpate/awesome-design-systems
-- Web Performance Optimization
-    - https://github.com/davidsonfellipe/awesome-wpo
-- CV
-    - https://github.com/posquit0/Awesome-CV
-
+- https://github.com/521xueweihan/HelloGitHub
+- https://github.com/trimstray/the-book-of-secret-knowledge
+- https://github.com/30-seconds/30-seconds-of-code
+- https://github.com/alexpate/awesome-design-systems
+- https://github.com/davidsonfellipe/awesome-wpo
 
 
 ## Github Best Practices
@@ -1992,7 +2008,7 @@ Also refer to [## Data](#data)
     - cheatsheets
         - 
     - tutorials
-        - 
+        - https://github.com/sunface/rust-course
     - checklists
         - 
 
@@ -2066,6 +2082,8 @@ Also refer to [## Data](#data)
     - https://github.com/ant-design/ant-design
     - https://github.com/withfig/autocomplete
     - https://github.com/sequelize/sequelize
+    - https://github.com/nrwl/nx
+    - https://github.com/withastro/astro
     - awesome
         - 
     - best practices
