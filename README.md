@@ -547,6 +547,8 @@ This repository contains a list of references.
     - https://github.com/Z4nzu/hackingtool
     - https://github.com/aquasecurity/cloudsploit
     - https://github.com/digininja/DVWA
+    - https://github.com/jthack/PIPE
+    - https://github.com/utkusen/promptmap
     - awesome
         - https://github.com/enaqx/awesome-pentest
         - https://github.com/rshipp/awesome-malware-analysis
@@ -2094,6 +2096,9 @@ Also refer to [## Data](#data)
         - https://github.com/gibbok/typescript-book
     - checklists
         - 
+- misc
+    - https://moxio.com/blog/advanced-type-inference-with-generics-in-typescript/
+    - https://maxtsh.medium.com/the-magic-of-generic-functions-and-inference-in-typescript-1f943d759b7e
 
 
 ## React
