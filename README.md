@@ -172,6 +172,7 @@ This repository contains a list of references.
         - https://github.com/embedchain/embedchain
         - https://github.com/OpenBMB/ChatDev
         - https://github.com/microsoft/semantic-kernel
+        - https://github.com/KillianLucas/open-interpreter
     - LLAMA
         - https://github.com/facebookresearch/llama
         - https://github.com/karpathy/llama2.c
@@ -271,6 +272,7 @@ This repository contains a list of references.
         - 
     - tutorials
         - https://github.com/Avik-Jain/100-Days-Of-ML-Code
+        - https://github.com/luban-agi/Awesome-AIGC-Tutorials
     - checklists
         - 
 - tools
@@ -463,6 +465,7 @@ This repository contains a list of references.
         - https://github.com/firmai/financial-machine-learning
         - https://github.com/edarchimbaud/awesome-systematic-trading
         - https://github.com/ghostfolio/ghostfolio
+        - https://github.com/microsoft/qlib
     - awesome
         - https://roadmap.sh/blockchain
         - https://github.com/openblockchains/awesome-blockchains
@@ -1086,6 +1089,7 @@ Also refer to [## Data](#data)
     - https://github.com/google/googletest
     - https://github.com/facebook/folly
     - https://github.com/catchorg/Catch2
+    - https://github.com/organicmaps/organicmaps
     - awesome
         - https://github.com/fffaraz/awesome-cpp
         - https://github.com/uhub/awesome-cpp
@@ -1111,6 +1115,7 @@ Also refer to [## Data](#data)
     - c++ move semantics
     - https://alibabatech.medium.com/gcc-vs-clang-llvm-an-in-depth-comparison-of-c-c-compilers-899ede2be378
     - https://stackoverflow.com/questions/3187414/clang-vs-gcc-which-produces-faster-binaries
+    - https://www.thecodedmessage.com/posts/c++-papercuts/
 
 
 ## Golang
@@ -1462,6 +1467,7 @@ Also refer to [## Data](#data)
 - static method, static class, class attribute, instance attribute, class method, instance method, methods and runtime complexity: \[list, reversed, set, unordered_set, stack, queue, deque, slot, namedtuple, tuple, dict, unordered_dict], set: \[&, |], &, |, ^, !, yield, generator, decorator, mixin, defaultdict, lambda functions, functional programming, object-oriented programming concept of encapsulation, abstraction, multi inheritance, doctype, PEP 8 coding style, python2 vs 3, numpy, datetime, seeking and scanning a file, os, sys, set_printoptions, python deprecation warnings, call by ref, call by value, is vs ===, compare by ref or value, np.array_equal(a,b), linalg.eig() and .matmul(), linalg.inv() and .dot(), linalg.det() and .dot(), linalg.inv() and .eye(), Series and DataFrames, string is immutable?, zip, enumerate, python data types, double and long data types, (256).bit_length(), remove vs pop, itertools, pathlib, decorators, map, filter, zip, lambda, breakpoint
 - github
     - https://github.com/tiangolo/fastapi
+        - https://github.com/tiangolo
     - https://github.com/python-mode/python-mode
     - https://github.com/TheAlgorithms/Python
     - https://github.com/sanic-org/sanic
@@ -1475,6 +1481,7 @@ Also refer to [## Data](#data)
     - https://github.com/secdev/scapy
     - https://github.com/plasma-umass/scalene
     - https://github.com/dgtlmoon/changedetection.io
+    - https://github.com/astral-sh/ruff
     - awesome
         - https://github.com/vinta/awesome-python
         - https://github.com/mahmoud/awesome-python-applications
@@ -1876,6 +1883,7 @@ Also refer to [## Data](#data)
     - https://aaic.aut.ac.ir/
     - https://hamed.blog/
 - https://github.com/ruanyf/weekly
+- https://www.thecodedmessage.com/
 
 
 ## Books
