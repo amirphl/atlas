@@ -55,7 +55,7 @@ This repository contains a list of references.
 
 
 ## AI
-- youtube channels
+- youtube
     - [Introduction to Data-Centric AI, MIT IAP 2023](https://youtube.com/playlist?list=PLnSYPjg2dHQKdig0vVbN-ZnEU0yNJ1mo5)
     - [CMU Multimodal Machine Learning course](https://www.youtube.com/playlist?list=PL-Fhd_vrvisNM7pbbevXKAbT_Xmub37fA)
     - [Deep Learning Crash Course 2021](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQsDaBNtcFwMQuJw_djFnbd)
@@ -66,6 +66,8 @@ This repository contains a list of references.
     - [MIT RES.LL-005 Mathematics of Big Data and Machine Learning](https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V)
     - [MIT: Machine Learning 6.036](https://www.youtube.com/watch?v=0xaLT4Svzgo)
     - [MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
+    - [MIT 18.650 Statistics for Applications, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
+    - [Statistics and Probability Full Course || Statistics For Data Science](https://www.youtube.com/watch?v=sbbYntt5CJk)
 - papers (TODO sort by date)
     - [Large Language Models as Tool Makers](https://arxiv.org/abs/2305.17126)
     - [BiomedGPT: A Unified and Generalist Biomedical Generative Pre-trained Transformer for Vision, Language, and Multimodal Tasks](https://arxiv.org/abs/2305.17100)
@@ -218,7 +220,14 @@ This repository contains a list of references.
     - transformers
         - https://github.com/microsoft/torchscale
         - https://github.com/microsoft/unilm
+    - recommendation systems
+        - https://github.com/recommenders-team/recommenders
     - code assistant
+        - github copilot
+            - https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/
+        - amazon codewhisperer
+        - codium
+        - chatwithgit plugin
         - https://github.com/BloopAI/bloop
         - https://github.com/sweepai/sweep
         - https://github.com/domvwt/chatgpt-code-review
@@ -226,6 +235,9 @@ This repository contains a list of references.
         - https://github.com/Pythagora-io/gpt-pilot
         - https://github.com/continuedev/continue
         - https://github.com/Nutlope/aicommits
+        - https://github.com/graykode/commit-autosuggestions
+        - https://github.com/imartinez/privateGPT
+        - https://github.com/StanGirard/quivr
         - https://github.com/brexhq/prompt-engineering
     - jvm
         - https://github.com/deeplearning4j/deeplearning4j
@@ -533,6 +545,7 @@ This repository contains a list of references.
     - https://www.academy.attackiq.com/
     - https://www.elastic.co/training
 - github
+    - https://github.com/shieldfy/API-Security-Checklist
     - https://github.com/s0md3v/XSStrike
     - https://github.com/s0md3v/Smap
     - https://github.com/s0md3v/Photon
@@ -744,6 +757,14 @@ Also refer to [##System Design](#system-design).
     - https://github.com/apache/superset
 - paimon
     - https://github.com/apache/incubator-paimon
+- kong
+    - https://github.com/Kong/kong
+- tyk
+    - https://github.com/TykTechnologies/tyk
+- apisix
+    - https://github.com/apache/apisix
+- traefix
+    - https://github.com/traefik/traefik
 - conferences
     - Academic conferences
     - [CIDR](https://www.cidrdb.org/)
@@ -961,6 +982,8 @@ Also refer to [## Data](#data)
         - https://github.com/adilkhash/Data-Engineering-HowTo
         - https://github.com/mehdihadeli/awesome-software-architecture
         - https://github.com/simskij/awesome-software-architecture
+        - https://github.com/yahwang/Awesome-Data-Engineering
+        - https://github.com/leandromoreira/cdn-up-and-running
 
         - https://github.com/jwasham/coding-interview-university
         - https://github.com/theanalyst/awesome-distributed-systems
@@ -970,6 +993,10 @@ Also refer to [## Data](#data)
         - https://github.com/gojek/awesome-distributed-systems
         - https://github.com/roma-glushko/awesome-distributed-system-projects
         - https://github.com/ty4z2008/Qix
+
+        - https://github.com/prasadgujar/low-level-design-primer
+        - 
+        - https://github.com/dotnet/docs/blob/main/docs/architecture/microservices/architect-microservice-container-applications/direct-client-to-microservice-communication-versus-the-api-gateway-pattern.md
     - best practices
         - https://github.com/Sairyss/domain-driven-hexagon
         - https://github.com/futurice/backend-best-practices
@@ -1174,6 +1201,7 @@ Also refer to [## Data](#data)
     - https://github.com/klauspost/compress
     - https://github.com/binwiederhier/ntfy
     - https://github.com/IceWhaleTech/CasaOS
+    - https://github.com/buraksezer/consistent
     - XTLS + REALITY
         - https://github.com/XTLS/REALITY
         - https://github.com/SasukeFreestyle/XTLS-Iran-Reality
@@ -1420,12 +1448,16 @@ Also refer to [## Data](#data)
     - https://github.com/NationalSecurityAgency/ghidra
     - awesome
         - also refer to ## Data
+        - https://github.com/webpro/programming-principles
         - https://github.com/doocs/advanced-java
         - https://github.com/akullpp/awesome-java
         - https://github.com/uhub/awesome-java
         - https://github.com/pditommaso/awesome-java
+        - https://github.com/Suryakant-Bharti/Important-Java-Concepts
         - https://github.com/iluwatar/java-design-patterns
             - https://java-design-patterns.com/patterns/
+        - https://github.com/RameshMF/object-oriented-design
+        - https://github.com/iluwatar/30-seconds-of-java
         - https://github.com/uhub/awesome-scala
         - https://github.com/stkeky/best-of-scala
         - https://github.com/lauris/awesome-scala
@@ -1465,6 +1497,7 @@ Also refer to [## Data](#data)
 - https://peps.python.org/
 - https://peps.python.org/pep-0008/
 - static method, static class, class attribute, instance attribute, class method, instance method, methods and runtime complexity: \[list, reversed, set, unordered_set, stack, queue, deque, slot, namedtuple, tuple, dict, unordered_dict], set: \[&, |], &, |, ^, !, yield, generator, decorator, mixin, defaultdict, lambda functions, functional programming, object-oriented programming concept of encapsulation, abstraction, multi inheritance, doctype, PEP 8 coding style, python2 vs 3, numpy, datetime, seeking and scanning a file, os, sys, set_printoptions, python deprecation warnings, call by ref, call by value, is vs ===, compare by ref or value, np.array_equal(a,b), linalg.eig() and .matmul(), linalg.inv() and .dot(), linalg.det() and .dot(), linalg.inv() and .eye(), Series and DataFrames, string is immutable?, zip, enumerate, python data types, double and long data types, (256).bit_length(), remove vs pop, itertools, pathlib, decorators, map, filter, zip, lambda, breakpoint
+- None|T vs Option[T]
 - github
     - https://github.com/tiangolo/fastapi
         - https://github.com/tiangolo
@@ -1482,9 +1515,11 @@ Also refer to [## Data](#data)
     - https://github.com/plasma-umass/scalene
     - https://github.com/dgtlmoon/changedetection.io
     - https://github.com/astral-sh/ruff
+    - https://github.com/python-attrs/attrs
     - awesome
         - https://github.com/vinta/awesome-python
         - https://github.com/mahmoud/awesome-python-applications
+        - https://github.com/OmkarPathak/Python-Programs
     - best practices
         - 
     - cheatsheets
@@ -1739,6 +1774,8 @@ Also refer to [## Data](#data)
     - amazon lambda and step functions, ECS, ECS2
     - https://towardsaws.com/aws-tech-blog-exploring-the-modern-data-stack-universe-with-active-metadata-management-eb1af98b9e3a
     - https://github.com/terraform-aws-modules/terraform-aws-eks
+    - https://github.com/apex/up
+    - https://github.com/aws/aws-sam-cli
 - azure
 - google cloud platform (gcp)
 - github
@@ -1884,6 +1921,7 @@ Also refer to [## Data](#data)
     - https://hamed.blog/
 - https://github.com/ruanyf/weekly
 - https://www.thecodedmessage.com/
+- podcasts
 
 
 ## Books
@@ -1974,6 +2012,7 @@ Also refer to [## Data](#data)
         - https://www.gnu.org/software/hello/
         - https://git.savannah.gnu.org/cgit/hello.git/tree/contrib/evolution.txt
         - https://git.savannah.gnu.org/cgit/hello.git/tree/src/hello.c
+    - https://github.com/github/glb-director
     - awesome
         - 
     - best practices
@@ -1991,8 +2030,32 @@ Also refer to [## Data](#data)
     - https://doc.rust-lang.org/book/
     - https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html
     - https://this-week-in-rust.org/blog/2023/04/05/this-week-in-rust-489/
-    - [Rust Crash Course](https://www.youtube.com/playlist?list=PL6yRaaP0WPkWRsXJgdnw9lj1vchAaKwfS)
-    - https://www.youtube.com/watch?v=EF3Z4jdD1EQ
+    - youtube
+        - https://www.youtube.com/@RustVideos/
+        - https://www.youtube.com/@jonhoo/playlists
+        - https://www.youtube.com/@codetothemoon/playlistshttps://www.youtube.com/@codetothemoon/playlists
+        - [Rust Crash Course](https://www.youtube.com/playlist?list=PL6yRaaP0WPkWRsXJgdnw9lj1vchAaKwfS)
+        - [Rust (425 videos)](https://www.youtube.com/playlist?list=PLCBgOdIWNKg_c53ye5Zn8QHyhhhYlTF5W)
+        - [rust (134 videos)](https://www.youtube.com/playlist?list=PLb1lQ_9sVTea3MySWnV5ZQGga1hEovkQI)
+        - [Rust Programming Language](https://www.youtube.com/playlist?list=PL7Y5Yox90r8M9yVblJ2ey_2RHo0frcUsX)
+        - [Learn Rust Programming](https://www.youtube.com/playlist?list=PLwtLEJr-BkXZ9PmoAlqaFdoj47o61TWrS)
+        - [Rust Programming Language Tutorials](https://www.youtube.com/playlist?list=PLth-myov8uSUxdEuLVTFX6tpGvQvtC-9s)
+        - [Rust Tutorial](https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5)
+        - [The Rust Programming Language](https://www.youtube.com/playlist?list=PL_wNAZj-2WOx_0szXIMAsIk0t66wkP6af)
+        - [Rust Journey](https://www.youtube.com/playlist?list=PLVhhUNGAUIQSEHbj3hl0cco4UrgqlP7vQ)
+        - [Rust Programming Recipes tutorial](https://www.youtube.com/playlist?list=PLTgRMOcmRb3NDiVs0AkQsQa65G40e8vIz)
+        - [Rust Projects tutorial](https://www.youtube.com/playlist?list=PLTgRMOcmRb3Mees8OLSowzzjAsN14TBM9)
+        - [Rust for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x)
+        - [RUST PROGRAMMING TUTORIALS](https://www.youtube.com/playlist?list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL)
+        - [Rust Programming Tutorial](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqjHYQ)
+        - [Rust Programming](https://www.youtube.com/playlist?list=PLKMOdY6Bhga7Knk8nsqmKUF9NXXgDLVbB)
+        - [Rust Programming Language | Crash Course](https://www.youtube.com/playlist?list=PLUT7aj8Ct-LWvNUqhsRgg1x7b5sHCiLSr)
+        - [Rust Crash Course | Rustlang](https://www.youtube.com/watch?v=zF34dRivLOw)
+        - [Rust Tutorial](https://www.youtube.com/watch?v=U1EFgCNLDB8)
+        - [Learning Rust: Intro](https://www.youtube.com/watch?v=DWNyZXUC1u4)
+        - [Live Coding: Learning Rust from scratch](https://www.youtube.com/watch?v=WLBfhMKoBAg)
+        - [A Gentle Introduction To Rustlang](https://www.youtube.com/watch?v=WDkv2cKOxx0&t=106s)
+        - https://www.youtube.com/watch?v=EF3Z4jdD1EQ
     - https://google.github.io/comprehensive-rust/
 - misc
     - https://twitter.com/RyanCarniato/status/1580347110611816448
@@ -2151,8 +2214,9 @@ Also refer to [## Data](#data)
     - https://www.youtube.com/@wasmio
     - https://virgool.io/GNULand/everything-about-wasm-qciuv9gq72pl
 - github
+    - https://github.com/ffmpegwasm/ffmpeg.wasm
     - awesome
-        - 
+        - https://github.com/appcypher/awesome-wasm-langs
     - best practices
         - 
     - cheatsheets
