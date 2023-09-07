@@ -175,6 +175,7 @@ This repository contains a list of references.
         - https://github.com/OpenBMB/ChatDev
         - https://github.com/microsoft/semantic-kernel
         - https://github.com/KillianLucas/open-interpreter
+        - https://github.com/hpcaitech/ColossalAI
     - LLAMA
         - https://github.com/facebookresearch/llama
         - https://github.com/karpathy/llama2.c
@@ -186,6 +187,7 @@ This repository contains a list of references.
         - https://github.com/getumbrel/llama-gpt
         - https://github.com/facebookresearch/codellama
         - https://github.com/ggerganov/llama.cpp
+        - https://github.com/jzhang38/TinyLlama
     - nlp
         - https://github.com/fighting41love/funNLP
     - vision
@@ -213,6 +215,8 @@ This repository contains a list of references.
         - https://github.com/rese1f/StableVideo
         - https://github.com/roboflow/notebooks
         - https://github.com/magic-research/magic-edit
+        - https://github.com/CMU-Perceptual-Computing-Lab/openpose
+        - https://github.com/aigc-apps/sd-webui-EasyPhoto
     - audio
         - https://github.com/suno-ai/bark
         - https://github.com/openai/whisper
@@ -239,6 +243,8 @@ This repository contains a list of references.
         - https://github.com/imartinez/privateGPT
         - https://github.com/StanGirard/quivr
         - https://github.com/brexhq/prompt-engineering
+        - https://github.com/e2b-dev/awesome-ai-agents
+        - https://github.com/pengzhile/cocopilot
     - jvm
         - https://github.com/deeplearning4j/deeplearning4j
         - https://github.com/Angel-ML/angel
@@ -249,7 +255,8 @@ This repository contains a list of references.
     - rust
         - https://github.com/burn-rs/burn
         - https://github.com/huggingface/candle
-        - https://github.com/tinygrad/tinygrad
+        - https://github.com/jondot/awesome-rust-llm
+        - https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning
 
     - https://github.com/pola-rs/polars
     - https://github.com/pandas-dev/pandas
@@ -272,12 +279,15 @@ This repository contains a list of references.
     - https://github.com/neulab/prompt2model
     - https://github.com/facebookresearch/nougat
     - https://github.com/facebookresearch/dinov2
+    - https://github.com/tinygrad/tinygrad
+    - https://github.com/Unstructured-IO/unstructured
 
     - awesome
         - https://github.com/Hannibal046/Awesome-LLM
         - https://github.com/Renumics/awesome-open-data-centric-ai
         - https://github.com/f/awesome-chatgpt-prompts
         - https://github.com/LiLittleCat/awesome-free-chatgpt
+        - https://github.com/e2b-dev/awesome-ai-agents
     - best practices
         - 
     - cheatsheets
@@ -581,6 +591,7 @@ This repository contains a list of references.
         - https://github.com/OWASP/CheatSheetSeries
     - tutorials
         - https://github.com/jassics/security-study-plan
+        - https://github.com/rodolfomarianocy/OSCP-Tricks-2023
     - checklists
         - https://github.com/Lissy93/personal-security-checklist
 - twitter
@@ -1095,6 +1106,7 @@ Also refer to [## Data](#data)
     - https://en.wikipedia.org/wiki/POSIX
     - https://en.wikipedia.org/wiki/Microsoft_Visual_C%2B%2B
     - https://mlir.llvm.org/
+    - https://github.com/llvm/llvm-project
     - visual studio
     - cuda c++
     - windows subsystem for linux
@@ -1208,6 +1220,7 @@ Also refer to [## Data](#data)
         - https://github.com/chika0801/Xray-examples/
         - https://github.com/aleskxyz/reality-ezpz/
         - https://blog.azardata.net/how-to-install-vless-xtls-xray-core/
+    - https://github.com/apernet/hysteria
     - https://github.com/gothinkster/golang-gin-realworld-example-app
     - awesome
         - https://github.com/avelino/awesome-go
@@ -1731,6 +1744,7 @@ Also refer to [## Data](#data)
     - https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.20.md#deprecation
     - https://kubernetes.io/blog/2020/12/02/dont-panic-kubernetes-and-docker/
     - https://github.com/kubernetes-sigs/external-dns
+    - https://github.com/rook/rook
 - docker
 - prometheus
     - advanced prometheus queries
@@ -1748,6 +1762,7 @@ Also refer to [## Data](#data)
     - https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/
 - terraform
     - https://github.com/hashicorp/terraform
+    - https://github.com/iam-veeramalla/terraform-zero-to-hero
 - github
     - https://github.com/bregman-arie/devops-exercises
     - https://github.com/HariSekhon/DevOps-Bash-tools
@@ -1780,7 +1795,7 @@ Also refer to [## Data](#data)
 - google cloud platform (gcp)
 - github
     - awesome
-        - 
+        - https://github.com/cloudcommunity/Free-Certifications
     - best practices
         - 
     - cheatsheets
@@ -2028,15 +2043,28 @@ Also refer to [## Data](#data)
 ## Rust
 - resources
     - https://doc.rust-lang.org/book/
-    - https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html
     - https://this-week-in-rust.org/blog/2023/04/05/this-week-in-rust-489/
     - youtube
+        - https://medium.com/codex/best-youtube-channels-to-learn-rust-4bdfd6c17fad
         - https://www.youtube.com/@RustVideos/
         - https://www.youtube.com/@jonhoo/playlists
-        - https://www.youtube.com/@codetothemoon/playlistshttps://www.youtube.com/@codetothemoon/playlists
+        - https://www.youtube.com/@codetothemoon/playlists
+        - https://www.youtube.com/@letsgetrusty/playlists
         - [Rust Crash Course](https://www.youtube.com/playlist?list=PL6yRaaP0WPkWRsXJgdnw9lj1vchAaKwfS)
         - [Rust (425 videos)](https://www.youtube.com/playlist?list=PLCBgOdIWNKg_c53ye5Zn8QHyhhhYlTF5W)
         - [rust (134 videos)](https://www.youtube.com/playlist?list=PLb1lQ_9sVTea3MySWnV5ZQGga1hEovkQI)
+        - [Intro to Rust](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW)
+        - [Everything Rust Programming - Tutorials, Courses, Tips, Examples](https://www.youtube.com/playlist?list=PL7r-PXl6ZPcCIOFaL7nVHXZvBmHNhrh_Q)
+        - [Rust Projects](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDD5vy2BuSHvFZU0a6RDmgb)
+        - [Easy Rust / Rust in a Month of Lunches: bite-sized Rust tutorials](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
+        - [Web development with rust](https://www.youtube.com/playlist?list=PLECOtlti4Psr4hXVX5GuSvLKp0-RZjz93)
+        - [Advanced Systems Programming in C/Rust](https://www.youtube.com/playlist?list=PLfKm1-FQibbB3U8jBJ5-mF3jmH0aCiQ7V)
+        - [Advanced topics in Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFgMPqz5irpWbBInR6hxDbYi)
+        - [50 Rust Projects - New Playlist Announcement](https://www.youtube.com/watch?v=qru3L4BvrOU&list=PL5dTjWUk_cPYuhHm9_QImW7_u4lr5d6zO)
+
+        - [Learning Rust! Going through the Rust Language book live.](https://www.youtube.com/playlist?list=PLSbgTZYkscaoV8me47mKqSM6BBSZ73El6)
+        - [The Rust Lang Book](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
+        - [Learn Rust Programming - Complete Course](https://www.youtube.com/watch?v=BpPEoZW5IiY)
         - [Rust Programming Language](https://www.youtube.com/playlist?list=PL7Y5Yox90r8M9yVblJ2ey_2RHo0frcUsX)
         - [Learn Rust Programming](https://www.youtube.com/playlist?list=PLwtLEJr-BkXZ9PmoAlqaFdoj47o61TWrS)
         - [Rust Programming Language Tutorials](https://www.youtube.com/playlist?list=PLth-myov8uSUxdEuLVTFX6tpGvQvtC-9s)
@@ -2055,6 +2083,7 @@ Also refer to [## Data](#data)
         - [Learning Rust: Intro](https://www.youtube.com/watch?v=DWNyZXUC1u4)
         - [Live Coding: Learning Rust from scratch](https://www.youtube.com/watch?v=WLBfhMKoBAg)
         - [A Gentle Introduction To Rustlang](https://www.youtube.com/watch?v=WDkv2cKOxx0&t=106s)
+        - [Rust Programming Course for Beginners - Tutorial](https://www.youtube.com/watch?v=MsocPEZBd-M)
         - https://www.youtube.com/watch?v=EF3Z4jdD1EQ
     - https://google.github.io/comprehensive-rust/
 - misc
@@ -2074,8 +2103,13 @@ Also refer to [## Data](#data)
     - https://github.com/rivet-gg/rivet
     - https://github.com/lapce/lapce
     - https://github.com/rust-lang/miri
+    - https://github.com/shadowsocks/shadowsocks-rust
     - awesome
-        - 
+        - https://github.com/rust-unofficial/awesome-rust
+        - https://github.com/rustlang-cn/rusty-book
+        - https://github.com/awesome-rust-cloud-native/awesome-rust-cloud-native
+        - https://github.com/unpluggedcoder/awesome-rust-tools
+        - https://github.com/katopz/awesome-rust
     - best practices
         - 
     - cheatsheets
@@ -2111,6 +2145,7 @@ Also refer to [## Data](#data)
 - https://frontendmasters.com/courses/service-workers/
 - https://frontendmasters.com/courses/javascript-hard-parts-v2/
 - https://www.udemy.com/course/the-complete-javascript-course/
+- https://krausest.github.io/js-framework-benchmark/current.html
 - github
     - https://github.com/trekhleb/javascript-algorithms
     - https://github.com/axios/axios
@@ -2176,6 +2211,7 @@ Also refer to [## Data](#data)
 - [React.js: The Documentary](https://www.youtube.com/watch?v=8pDqJVdNa44)
 - https://atomicdesign.bradfrost.com/chapter-2/
 - react-query
+- https://virtuoso.dev/
 - github
     - awesome
         - 
