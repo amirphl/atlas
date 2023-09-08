@@ -176,6 +176,7 @@ This repository contains a list of references.
         - https://github.com/microsoft/semantic-kernel
         - https://github.com/KillianLucas/open-interpreter
         - https://github.com/hpcaitech/ColossalAI
+        - https://github.com/microsoft/promptflow
     - LLAMA
         - https://github.com/facebookresearch/llama
         - https://github.com/karpathy/llama2.c
@@ -188,6 +189,8 @@ This repository contains a list of references.
         - https://github.com/facebookresearch/codellama
         - https://github.com/ggerganov/llama.cpp
         - https://github.com/jzhang38/TinyLlama
+        - https://github.com/baichuan-inc/Baichuan2
+        - https://github.com/run-llama/sec-insights
     - nlp
         - https://github.com/fighting41love/funNLP
     - vision
@@ -217,6 +220,7 @@ This repository contains a list of references.
         - https://github.com/magic-research/magic-edit
         - https://github.com/CMU-Perceptual-Computing-Lab/openpose
         - https://github.com/aigc-apps/sd-webui-EasyPhoto
+        - https://github.com/XPixelGroup/DiffBIR
     - audio
         - https://github.com/suno-ai/bark
         - https://github.com/openai/whisper
@@ -469,6 +473,7 @@ This repository contains a list of references.
 - github
     - https://github.com/bitcoin/bitcoin
     - https://github.com/ethereum/go-ethereum
+    - https://github.com/eth-infinitism/account-abstraction
     - https://github.com/OpenZeppelin/openzeppelin-contracts
         - https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC20
     - https://github.com/hyperledger/fabric
@@ -575,6 +580,7 @@ This repository contains a list of references.
     - https://github.com/digininja/DVWA
     - https://github.com/jthack/PIPE
     - https://github.com/utkusen/promptmap
+    - https://github.com/raminfp/fuzzer-development-with-rust
     - awesome
         - https://github.com/enaqx/awesome-pentest
         - https://github.com/rshipp/awesome-malware-analysis
@@ -834,6 +840,7 @@ Also refer to [##System Design](#system-design).
     - https://en.wikipedia.org/wiki/Fenwick_tree
 - github
     - https://github.com/tmwilliamlin168/CompetitiveProgramming
+    - https://github.com/labuladong/fucking-algorithm
     - awesome
         - https://github.com/lnishan/awesome-competitive-programming
     - best practices
@@ -1025,6 +1032,7 @@ Also refer to [## Data](#data)
 - keywords
     - system design youtube
 - misc
+    - [How does Booking.com guarantee consistency of reservations on scale?](https://news.ycombinator.com/item?id=37444740)
     - https://opensource.com/article/23/4/distributed-database-load-balancing-architecture-shardingsphere
     - https://medium.com/javarevisited/10-microservices-design-principles-every-developer-should-know-44f2f69e960f
     - https://medium.com/javarevisited/11-microservice-best-practices-for-building-scalable-and-resilient-applications-1a19feb46f0
@@ -1071,6 +1079,7 @@ Also refer to [## Data](#data)
 
 ## Linkedin
 - https://github.com/posquit0/Awesome-CV
+- https://github.com/srbhr/Resume-Matcher
 - courses
     - https://www.linkedin.com/learning/subscription/career-guidance-hub
     - https://upjourney.com/how-to-ask-for-feedback-after-a-job-rejection
@@ -1186,6 +1195,7 @@ Also refer to [## Data](#data)
     - [Design patterns for microservices in Go (Part 1)](https://www.youtube.com/watch?v=s-HXwLqC45c)
     - [Go Design Patterns - The Decorator Pattern - Part One](https://www.youtube.com/watch?v=F365lY5ECGY)
 - github
+    - https://github.com/golang/go/issues/56165
     - https://github.com/search?q=org%3AOpenHFT+golang&type=topics
     - https://github.com/pion/webrtc
     - https://github.com/ionorg/ion
@@ -1221,6 +1231,8 @@ Also refer to [## Data](#data)
         - https://github.com/aleskxyz/reality-ezpz/
         - https://blog.azardata.net/how-to-install-vless-xtls-xray-core/
     - https://github.com/apernet/hysteria
+    - https://github.com/uber-go/automaxprocs
+    - https://github.com/grpc/grpc-go
     - https://github.com/gothinkster/golang-gin-realworld-example-app
     - awesome
         - https://github.com/avelino/awesome-go
@@ -2092,6 +2104,7 @@ Also refer to [## Data](#data)
     - https://twitter.com/mr_pouriya/status/1648925173310009344
     - https://idursun.com/posts/rust_zero_cost_abstractions_in_action/
     - [Rust-based platform for the Web](https://swc.rs/)
+    - [Exploring the top Rust web frameworks](https://blog.logrocket.com/top-rust-web-frameworks/)
 - github
     - https://github.com/rust-lang/rustlings
     - https://github.com/charliermarsh/ruff
@@ -2142,6 +2155,9 @@ Also refer to [## Data](#data)
 
 
 ## JavaScript
+- https://bun.sh/blog/bun-v1.0
+    - https://github.com/oven-sh/bun
+- https://medium.com/deno-the-complete-reference/bun-vs-rust-hello-world-performance-9ce23efcb0e7
 - https://frontendmasters.com/courses/service-workers/
 - https://frontendmasters.com/courses/javascript-hard-parts-v2/
 - https://www.udemy.com/course/the-complete-javascript-course/
