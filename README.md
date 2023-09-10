@@ -56,6 +56,7 @@ This repository contains a list of references.
 
 ## AI
 - youtube
+    - [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
     - [Introduction to Data-Centric AI, MIT IAP 2023](https://youtube.com/playlist?list=PLnSYPjg2dHQKdig0vVbN-ZnEU0yNJ1mo5)
     - [CMU Multimodal Machine Learning course](https://www.youtube.com/playlist?list=PL-Fhd_vrvisNM7pbbevXKAbT_Xmub37fA)
     - [Deep Learning Crash Course 2021](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQsDaBNtcFwMQuJw_djFnbd)
@@ -177,6 +178,8 @@ This repository contains a list of references.
         - https://github.com/KillianLucas/open-interpreter
         - https://github.com/hpcaitech/ColossalAI
         - https://github.com/microsoft/promptflow
+        - https://github.com/iryna-kondr/scikit-llm
+        - https://github.com/go-skynet/LocalAI
     - LLAMA
         - https://github.com/facebookresearch/llama
         - https://github.com/karpathy/llama2.c
@@ -194,6 +197,7 @@ This repository contains a list of references.
     - nlp
         - https://github.com/fighting41love/funNLP
     - vision
+        - https://mediapipe-studio.webapps.google.com/home
         - https://github.com/Nutlope/roomGPT
         - https://github.com/omerbt/TokenFlow
         - https://github.com/invoke-ai/InvokeAI
@@ -1116,6 +1120,7 @@ Also refer to [## Data](#data)
     - https://en.wikipedia.org/wiki/Microsoft_Visual_C%2B%2B
     - https://mlir.llvm.org/
     - https://github.com/llvm/llvm-project
+    - [Chris Lattner: Compilers, LLVM, Swift, TPU, and ML Accelerators | Lex Fridman Podcast #21](https://www.youtube.com/watch?v=yCd3CzGSte8)
     - visual studio
     - cuda c++
     - windows subsystem for linux
@@ -1296,6 +1301,7 @@ Also refer to [## Data](#data)
     - https://stackoverflow.com/questions/6963078/how-to-convert-int-to-uint8
     - https://research.swtch.com/2009/12/go-data-structures-interfaces.html
     - EOF character
+    - https://dormoshe.io/trending-news/golang-project-structuring-ben-johnson-way-45824
 
 
 ## Java, Scala
@@ -1765,6 +1771,8 @@ Also refer to [## Data](#data)
     - https://docs.github.com/en
     - https://github.com/tiimgreen/github-cheat-sheet
     - gitlab api and doc
+    - https://docs.github.com/en/rest?apiVersion=2022-11-28
+
 - cicd
 - ansible
 - nginx
@@ -1780,6 +1788,7 @@ Also refer to [## Data](#data)
     - https://github.com/HariSekhon/DevOps-Bash-tools
     - https://github.com/iam-veeramalla/aws-devops-zero-to-hero
     - https://github.com/kuafuai/DevOpsGPT
+    - https://github.com/devopshobbies/devops-roadmap
     - awesome
         - https://github.com/dastergon/awesome-sre
     - best practices
