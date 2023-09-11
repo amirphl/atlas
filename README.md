@@ -70,6 +70,7 @@ This repository contains a list of references.
     - [MIT 18.650 Statistics for Applications, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
     - [Statistics and Probability Full Course || Statistics For Data Science](https://www.youtube.com/watch?v=sbbYntt5CJk)
 - papers (TODO sort by date)
+    - https://github.com/dair-ai/ML-Papers-Explained
     - [Large Language Models as Tool Makers](https://arxiv.org/abs/2305.17126)
     - [BiomedGPT: A Unified and Generalist Biomedical Generative Pre-trained Transformer for Vision, Language, and Multimodal Tasks](https://arxiv.org/abs/2305.17100)
     - [AdaPlanner: Adaptive Planning from Feedback with Language Models](https://arxiv.org/abs/2305.16653)
@@ -1006,6 +1007,7 @@ Also refer to [## Data](#data)
         - https://github.com/simskij/awesome-software-architecture
         - https://github.com/yahwang/Awesome-Data-Engineering
         - https://github.com/leandromoreira/cdn-up-and-running
+        - https://github.com/kousiknath/LowLevelDesign
 
         - https://github.com/jwasham/coding-interview-university
         - https://github.com/theanalyst/awesome-distributed-systems
@@ -1143,6 +1145,8 @@ Also refer to [## Data](#data)
     - https://github.com/facebook/folly
     - https://github.com/catchorg/Catch2
     - https://github.com/organicmaps/organicmaps
+    - https://github.com/scottbez1/smartknob
+    - https://github.com/hrydgard/ppsspp
     - awesome
         - https://github.com/fffaraz/awesome-cpp
         - https://github.com/uhub/awesome-cpp
@@ -1739,6 +1743,7 @@ Also refer to [## Data](#data)
     - https://github.com/yhzhang0128/egos-2000
     - https://github.com/tpm2-software
     - https://github.com/1Panel-dev/1Panel
+    - https://github.com/tiann/KernelSU
     - awesome
         - https://github.com/awesome-foss/awesome-sysadmin
     - best practices
