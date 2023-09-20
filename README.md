@@ -67,6 +67,7 @@ This repository contains a list of references.
     - [MIT RES.LL-005 Mathematics of Big Data and Machine Learning](https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V)
     - [MIT: Machine Learning 6.036](https://www.youtube.com/watch?v=0xaLT4Svzgo)
     - [MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
+    - [Gilbert Strang lectures on Linear Algebra (MIT)](https://www.youtube.com/playlist?app=desktop&list=PL49CF3715CB9EF31D)
     - [MIT 18.650 Statistics for Applications, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
     - [Statistics and Probability Full Course || Statistics For Data Science](https://www.youtube.com/watch?v=sbbYntt5CJk)
 - papers (TODO sort by date)
@@ -101,6 +102,7 @@ This repository contains a list of references.
     - https://github.com/dair-ai/Mathematics-for-ML
     - https://github.com/PacktPublishing/Hands-On-Gradient-Boosting-with-XGBoost-and-Scikit-learn
     - elements of statistical learning
+    - linear algebra hoffman
 - courses
     - [Introduction to Data-Centric AI](https://dcai.csail.mit.edu/)
     - [MultiModal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2022/)
@@ -122,7 +124,7 @@ This repository contains a list of references.
     - https://kaggle.com/
     - https://farid.one/kaggle-solutions/
     - https://colab.research.google.com/
-- github
+- github TODO organize
     - https://github.com/openai/
     - https://github.com/openai/gym
     - https://github.com/openai/gpt-3
@@ -131,6 +133,7 @@ This repository contains a list of references.
     - llm
         - https://github.com/RUCAIBox/LLMSurvey
         - https://github.com/hwchase17/langchain
+        - [langchain - Building applications with LLMs through composability](https://github.com/langchain-ai/langchain)
         - https://github.com/chatchat-space/Langchain-Chatchat
         - https://github.com/Sentdex/ChatGPT-at-Home
         - https://github.com/Torantulino/Auto-GPT
@@ -181,6 +184,9 @@ This repository contains a list of references.
         - https://github.com/microsoft/promptflow
         - https://github.com/iryna-kondr/scikit-llm
         - https://github.com/go-skynet/LocalAI
+        - https://github.com/NExT-GPT/NExT-GPT
+        - https://github.com/AntonioErdeljac/next13-lms-platform
+        - [The paper list of the 86-page paper "The Rise and Potential of Large Language Model Based Agents: A Survey"](https://github.com/WooooDyy/LLM-Agent-Paper-List)
     - LLAMA
         - https://github.com/facebookresearch/llama
         - https://github.com/karpathy/llama2.c
@@ -226,10 +232,14 @@ This repository contains a list of references.
         - https://github.com/CMU-Perceptual-Computing-Lab/openpose
         - https://github.com/aigc-apps/sd-webui-EasyPhoto
         - https://github.com/XPixelGroup/DiffBIR
+        - https://github.com/williamyang1991/Rerender_A_Video
+        - [ProPainter: Improving Propagation and Transformer for Video Inpainting](https://github.com/sczhou/ProPainter)
     - audio
         - https://github.com/suno-ai/bark
         - https://github.com/openai/whisper
         - https://github.com/Plachtaa/VALL-E-X
+        - https://github.com/CorentinJ/Real-Time-Voice-Cloning
+        - [TTS - a deep learning toolkit for Text-to-Speech, battle-tested in research and production](https://github.com/coqui-ai/TTS)
     - transformers
         - https://github.com/microsoft/torchscale
         - https://github.com/microsoft/unilm
@@ -254,6 +264,7 @@ This repository contains a list of references.
         - https://github.com/brexhq/prompt-engineering
         - https://github.com/e2b-dev/awesome-ai-agents
         - https://github.com/pengzhile/cocopilot
+        - https://github.com/TabbyML/tabby
     - jvm
         - https://github.com/deeplearning4j/deeplearning4j
         - https://github.com/Angel-ML/angel
@@ -290,6 +301,7 @@ This repository contains a list of references.
     - https://github.com/facebookresearch/dinov2
     - https://github.com/tinygrad/tinygrad
     - https://github.com/Unstructured-IO/unstructured
+    - https://github.com/aiwaves-cn/agents
 
     - awesome
         - https://github.com/Hannibal046/Awesome-LLM
@@ -359,6 +371,7 @@ This repository contains a list of references.
 - courses
     - OCW blockchain engineering and design
     - two local videos downloaded from youtube: 32h, 16h
+    - [Learn Solidity, Blockchain Development, & Smart Contracts | Powered By AI - Full Course (7 - 11)](https://www.youtube.com/watch?v=sas02qSFZ74)
     - https://www.freecodecamp.org/news/tag/blockchain/
     - https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/
     - https://www.freecodecamp.org/news/learn-solidity-blockchain-and-smart-contracts-in-a-free/
@@ -493,11 +506,12 @@ This repository contains a list of references.
     - https://github.com/taikoxyz/taiko-mono
     - https://github.com/paritytech/polkadot-sdk
     - https://github.com/ton-blockchain
-    - finance
+    - finance and algo trading
         - https://github.com/firmai/financial-machine-learning
         - https://github.com/edarchimbaud/awesome-systematic-trading
         - https://github.com/ghostfolio/ghostfolio
         - https://github.com/microsoft/qlib
+        - https://github.com/OpenBB-finance/OpenBBTerminal
     - awesome
         - https://roadmap.sh/blockchain
         - https://github.com/openblockchains/awesome-blockchains
@@ -522,8 +536,6 @@ This repository contains a list of references.
         - https://github.com/liuchengxu/blockchain-tutorial
     - checklists
         - 
-    - algo trading
-        - https://github.com/OpenBB-finance/OpenBBTerminal
 - misc
     - https://agah.com/
     - https://bashgah.com/edu
@@ -565,7 +577,6 @@ This repository contains a list of references.
     - https://www.academy.attackiq.com/
     - https://www.elastic.co/training
 - github
-    - https://github.com/shieldfy/API-Security-Checklist
     - https://github.com/s0md3v/XSStrike
     - https://github.com/s0md3v/Smap
     - https://github.com/s0md3v/Photon
@@ -604,6 +615,7 @@ This repository contains a list of references.
         - https://github.com/jassics/security-study-plan
         - https://github.com/rodolfomarianocy/OSCP-Tricks-2023
     - checklists
+        - https://github.com/shieldfy/API-Security-Checklist
         - https://github.com/Lissy93/personal-security-checklist
 - twitter
     - https://twitter.com/M0UNTAIN_HUNTER/status/1641838750584979456
@@ -646,7 +658,6 @@ Also refer to [##System Design](#system-design).
 - Udi Dahan videos
     - https://gist.github.com/craigtp/05a82b51557adc278acd71b5a2b88905
 - https://dancres.github.io/Pages/
-- 
 - https://pdos.csail.mit.edu/6.824/schedule.html
 - https://www.cs.cornell.edu/ken/
 - spark
@@ -682,6 +693,7 @@ Also refer to [##System Design](#system-design).
         - https://www.interdb.jp/pg/
         - https://theartofpostgresql.com/
     - github
+        - TODO search for awesome sql, sql optimization github
         - https://github.com/citusdata
             - https://github.com/citusdata/citus
         - https://github.com/neondatabase/neon
@@ -689,7 +701,11 @@ Also refer to [##System Design](#system-design).
         - https://github.com/dimitri/pgcopydb
         - https://github.com/pgaudit/pgaudit
         - awesome
-            - 
+            - https://github.com/dhamaniasad/awesome-postgres
+            - https://github.com/pg-tr/awesome-postgres
+            - https://github.com/devton/awesome-postgresql
+            - https://github.com/maahl/awesome-postgres-resources
+            - https://github.com/vinnix/awesome-pg
         - best practices
             - 
         - cheatsheets
@@ -728,6 +744,10 @@ Also refer to [##System Design](#system-design).
     - https://github.com/apache/kafka
     - https://github.com/yahoo/CMAK
     - https://medium.com/@stephane.maarek/how-to-use-apache-kafka-to-transform-a-batch-pipeline-into-a-real-time-one-831b48a6ad85
+    - https://github.com/infoslack/awesome-kafka
+    - https://github.com/semantalytics/awesome-kafka
+    - https://github.com/monksy/awesome-kafka
+    - https://github.com/dharmeshkakadia/awesome-kafka
 - rabbitmq
 - nsq
     - https://github.com/nsqio/nsq
@@ -1019,6 +1039,8 @@ Also refer to [## Data](#data)
         - https://github.com/ty4z2008/Qix
 
         - https://github.com/prasadgujar/low-level-design-primer
+        - https://github.com/ripienaar/free-for-dev
+        - [A list of awesome beginners-friendly projects.](https://github.com/MunGell/awesome-for-beginners)
         - 
         - https://github.com/dotnet/docs/blob/main/docs/architecture/microservices/architect-microservice-container-applications/direct-client-to-microservice-communication-versus-the-api-gateway-pattern.md
     - best practices
@@ -1110,6 +1132,7 @@ Also refer to [## Data](#data)
     - https://www.gov.uk/skilled-worker-visa
     - https://en.life-in-germany.de/job-guide/
     - https://devitjobs.nl/en
+    - https://4dayweek.io/
     - relocate.me
     - nomad visa
     - https://www.levels.fyi/?compare=Google,Facebook,Microsoft&track=Software%20Engineer
@@ -1147,6 +1170,8 @@ Also refer to [## Data](#data)
     - https://github.com/organicmaps/organicmaps
     - https://github.com/scottbez1/smartknob
     - https://github.com/hrydgard/ppsspp
+    - https://github.com/godotengine/godot
+    - [fmt - A modern formatting library](https://github.com/fmtlib/fmt)
     - awesome
         - https://github.com/fffaraz/awesome-cpp
         - https://github.com/uhub/awesome-cpp
@@ -1242,6 +1267,7 @@ Also refer to [## Data](#data)
     - https://github.com/apernet/hysteria
     - https://github.com/uber-go/automaxprocs
     - https://github.com/grpc/grpc-go
+    - [Meshery, the cloud native manager](https://github.com/meshery/meshery)
     - https://github.com/gothinkster/golang-gin-realworld-example-app
     - awesome
         - https://github.com/avelino/awesome-go
@@ -1483,6 +1509,7 @@ Also refer to [## Data](#data)
     - https://github.com/NationalSecurityAgency/ghidra
     - awesome
         - also refer to ## Data
+        - ["Java Learning + Interview Guide" covers the core knowledge that most Java programmers need to master. To prepare for Java interviews, JavaGuide is your first choice!](https://github.com/Snailclimb/JavaGuide)
         - https://github.com/webpro/programming-principles
         - https://github.com/doocs/advanced-java
         - https://github.com/akullpp/awesome-java
@@ -1527,7 +1554,7 @@ Also refer to [## Data](#data)
 - 10000 libs, frameworks, books
     - ML libs and frameworks
 - ipython
-- fater cpython
+- faster cpython
 - pypy
 - https://peps.python.org/
 - https://peps.python.org/pep-0008/
@@ -1903,7 +1930,9 @@ Also refer to [## Data](#data)
 
 
 ## Video Conferencing Stack
-- webrtc, sdp, rtp, rsvp
+- xmpp, webrtc, nat, stun, turn, ice, sdp, rtp, rsvp, srtp, rmtp, etc
+- media formats like m3u8, vp8, h264, etc
+- port forwarding
 - github
     - awesome
         - 
@@ -2054,6 +2083,7 @@ Also refer to [## Data](#data)
         - https://git.savannah.gnu.org/cgit/hello.git/tree/contrib/evolution.txt
         - https://git.savannah.gnu.org/cgit/hello.git/tree/src/hello.c
     - https://github.com/github/glb-director
+    - https://github.com/grafana/beyla
     - awesome
         - 
     - best practices
@@ -2177,6 +2207,7 @@ Also refer to [## Data](#data)
 - https://www.udemy.com/course/the-complete-javascript-course/
 - https://krausest.github.io/js-framework-benchmark/current.html
 - github
+    - https://github.com/vercel/next.js
     - https://github.com/trekhleb/javascript-algorithms
     - https://github.com/axios/axios
     - https://github.com/artilleryio/artillery
