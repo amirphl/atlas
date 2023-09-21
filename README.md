@@ -52,6 +52,7 @@ This repository contains a list of references.
 - https://github.com/whitead/paper-qa
 - [Discover the latest tools and trends in AI](https://gpte.ai/)
 - [Find & Save the best AI tools Everyday](https://topai.tools/)
+- [Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
 
 
 ## AI
@@ -68,6 +69,8 @@ This repository contains a list of references.
     - [MIT: Machine Learning 6.036](https://www.youtube.com/watch?v=0xaLT4Svzgo)
     - [MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
     - [Gilbert Strang lectures on Linear Algebra (MIT)](https://www.youtube.com/playlist?app=desktop&list=PL49CF3715CB9EF31D)
+    - [Linear Algebra for Machine Learning](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a)
+    - [3Blue1Brown: Linear Alg](https://www.youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B)
     - [MIT 18.650 Statistics for Applications, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
     - [Statistics and Probability Full Course || Statistics For Data Science](https://www.youtube.com/watch?v=sbbYntt5CJk)
 - papers (TODO sort by date)
@@ -301,7 +304,7 @@ This repository contains a list of references.
     - https://github.com/facebookresearch/dinov2
     - https://github.com/tinygrad/tinygrad
     - https://github.com/Unstructured-IO/unstructured
-    - https://github.com/aiwaves-cn/agents
+    - [agents - An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents)
 
     - awesome
         - https://github.com/Hannibal046/Awesome-LLM
@@ -316,6 +319,7 @@ This repository contains a list of references.
     - tutorials
         - https://github.com/Avik-Jain/100-Days-Of-ML-Code
         - https://github.com/luban-agi/Awesome-AIGC-Tutorials
+        - [Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
     - checklists
         - 
 - tools
@@ -1268,6 +1272,7 @@ Also refer to [## Data](#data)
     - https://github.com/uber-go/automaxprocs
     - https://github.com/grpc/grpc-go
     - [Meshery, the cloud native manager](https://github.com/meshery/meshery)
+    - [OpenTofu lets you declaratively manage your cloud infrastructure.](https://github.com/opentofu/opentofu)
     - https://github.com/gothinkster/golang-gin-realworld-example-app
     - awesome
         - https://github.com/avelino/awesome-go
@@ -1795,6 +1800,7 @@ Also refer to [## Data](#data)
     - https://kubernetes.io/blog/2020/12/02/dont-panic-kubernetes-and-docker/
     - https://github.com/kubernetes-sigs/external-dns
     - https://github.com/rook/rook
+    - [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
 - docker
 - prometheus
     - advanced prometheus queries
@@ -1844,6 +1850,7 @@ Also refer to [## Data](#data)
     - https://github.com/terraform-aws-modules/terraform-aws-eks
     - https://github.com/apex/up
     - https://github.com/aws/aws-sam-cli
+    - [در ایران AWS ده روش یادگیری](https://www.youtube.com/watch?v=WXwZ33Ntss8)
 - azure
 - google cloud platform (gcp)
 - github
@@ -2017,6 +2024,8 @@ Also refer to [## Data](#data)
 - refactoring: improving the design of existing code
 - the mythical man-month: fredrick brooks
 - cracking the coding interview
+    - two versions by alex xu
+- cracking the machine learning engineer interview
 - thanks for the feedback, i think
 - Crucial Conversations: Tools for Talking When Stakes are High
 - No Hard Feelings: The Secret Power of Embracing Emotions
@@ -2057,6 +2066,7 @@ Also refer to [## Data](#data)
 - https://github.com/30-seconds/30-seconds-of-code
 - https://github.com/alexpate/awesome-design-systems
 - https://github.com/davidsonfellipe/awesome-wpo
+- https://github.com/coder2gwy/coder2gwy
 
 
 ## Github Best Practices
@@ -2207,7 +2217,7 @@ Also refer to [## Data](#data)
 - https://www.udemy.com/course/the-complete-javascript-course/
 - https://krausest.github.io/js-framework-benchmark/current.html
 - github
-    - https://github.com/vercel/next.js
+    - [next.js - The React Framework](https://github.com/vercel/next.js)
     - https://github.com/trekhleb/javascript-algorithms
     - https://github.com/axios/axios
     - https://github.com/artilleryio/artillery
@@ -2218,6 +2228,7 @@ Also refer to [## Data](#data)
     - https://github.com/tl-open-source/tl-rtc-file
     - https://github.com/cypress-io/cypress
     - https://github.com/mapbox/mapbox-gl-js
+    - [swiper - Most modern mobile touch slider with hardware accelerated transitions](https://github.com/nolimits4web/swiper)
     - awesome
         - 
     - best practices
@@ -2236,13 +2247,13 @@ Also refer to [## Data](#data)
     - https://github.com/nestjs/nest
     - https://github.com/dotenv-org/dotenv-vault
     - https://github.com/owncast/owncast
-    - https://github.com/nextui-org/nextui
+    - [nextui - Beautiful, fast and modern React UI library.](https://github.com/nextui-org/nextui)
     - https://github.com/vercel/commerce
     - https://github.com/shadcn-ui/ui
     - https://github.com/logto-io/logto
         - https://logto.io/
     - https://github.com/apitable/apitable
-    - https://github.com/jsynowiec/node-typescript-boilerplate
+    - [Minimalistic project template to jump start a Node.js back-end application in TypeScript. ESLint, Jest and type definitions included.](https://github.com/jsynowiec/node-typescript-boilerplate)
     - https://github.com/novuhq/novu
     - https://github.com/steven-tey/novel
     - https://github.com/documenso/documenso
@@ -2253,6 +2264,11 @@ Also refer to [## Data](#data)
     - https://github.com/sequelize/sequelize
     - https://github.com/nrwl/nx
     - https://github.com/withastro/astro
+    - [Trigger.dev is an open-source platform to create long-running jobs directly in your Next.js project, with features like API integrations, webhooks, scheduling and delays.](https://github.com/triggerdotdev/trigger.dev)
+    - [amplication - Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.](https://github.com/amplication/amplication)
+    - [wasp - The fastest way to develop full-stack web apps with React & Node.js.](https://github.com/wasp-lang/wasp)
+    - [beautiful react hooks - A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development](https://github.com/antonioru/beautiful-react-hooks)
+    - [hyperdx - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors.](https://github.com/hyperdxio/hyperdx)
     - awesome
         - 
     - best practices
