@@ -132,6 +132,7 @@ This repository contains a list of references.
     - https://github.com/openai/gym
     - https://github.com/openai/gpt-3
     - https://github.com/openai/openai-cookbook
+    - [Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.](https://github.com/openai/evals)
     - https://github.com/easezyc/deep-transfer-learning
     - llm
         - https://github.com/RUCAIBox/LLMSurvey
@@ -238,6 +239,7 @@ This repository contains a list of references.
         - https://github.com/williamyang1991/Rerender_A_Video
         - [ProPainter: Improving Propagation and Transformer for Video Inpainting](https://github.com/sczhou/ProPainter)
         - [FreeU: Free Lunch in Diffusion U-Net](https://github.com/ChenyangSi/FreeU)
+        - [Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.](https://github.com/facebookresearch/detectron2)
     - audio
         - https://github.com/suno-ai/bark
         - https://github.com/openai/whisper
@@ -307,6 +309,7 @@ This repository contains a list of references.
     - https://github.com/Unstructured-IO/unstructured
     - [agents - An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents)
     - [DI-engine - OpenDILab Decision AI Engine](https://github.com/opendilab/DI-engine)
+    - [metabase - The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋](https://github.com/metabase/metabase)
 
     - awesome
         - https://github.com/Hannibal046/Awesome-LLM
@@ -606,6 +609,7 @@ This repository contains a list of references.
     - https://github.com/jthack/PIPE
     - https://github.com/utkusen/promptmap
     - https://github.com/raminfp/fuzzer-development-with-rust
+    - [Hackers' Guide to Language Models](https://github.com/fastai/lm-hackers)
     - awesome
         - https://github.com/enaqx/awesome-pentest
         - https://github.com/rshipp/awesome-malware-analysis
@@ -1013,6 +1017,8 @@ Also refer to [## Data](#data)
     - [Don't repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
     - [KISS principle](https://en.wikipedia.org/wiki/KISS_principle)
     - [SOLID](https://en.wikipedia.org/wiki/SOLID)
+    - [Conflict-free Replicated Data Type](https://crdt.tech/)
+        - https://linear.app/
 - github
     - https://github.com/Vonng/ddia
     - awesome
@@ -1147,6 +1153,7 @@ Also refer to [## Data](#data)
 ## Linkedin
 - https://github.com/posquit0/Awesome-CV
 - https://github.com/srbhr/Resume-Matcher
+- [github-readme-stats - ⚡ Dynamically generated stats for your github readmes](https://github.com/anuraghazra/github-readme-stats)
 - courses
     - https://www.linkedin.com/learning/subscription/career-guidance-hub
     - https://upjourney.com/how-to-ask-for-feedback-after-a-job-rejection
@@ -1212,6 +1219,7 @@ Also refer to [## Data](#data)
     - https://github.com/godotengine/godot
     - [fmt - A modern formatting library](https://github.com/fmtlib/fmt)
     - [memo - The memo elastic and resilient key-value store.](https://github.com/infinit/memo)
+    - [valhalla - Open Source Routing Engine for OpenStreetMap](https://github.com/valhalla/valhalla)
     - awesome
         - https://github.com/fffaraz/awesome-cpp
         - https://github.com/uhub/awesome-cpp
@@ -1316,6 +1324,7 @@ Also refer to [## Data](#data)
     - [goakt - Distributed Actor framework using protocol buffers as message for Golang](https://github.com/Tochemey/goakt)
     - [go-bug - Distributed, offline-first bug tracker embedded in git, with bridges](https://github.com/MichaelMure/git-bug)
     - [Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.](https://github.com/harness/gitness)
+    - [wails - Create beautiful applications using Go](https://github.com/wailsapp/wails)
     - https://github.com/gothinkster/golang-gin-realworld-example-app
     - awesome
         - https://github.com/avelino/awesome-go
@@ -1584,6 +1593,7 @@ Also refer to [## Data](#data)
     - [lingua-franca - Intuitive concurrent programming in any language](https://github.com/lf-lang/lingua-franca)
     - [RxJava2 integration with JDBC including Non-blocking Connection Pools](https://github.com/davidmoten/rxjava2-jdbc)
     - [Utilities for use with RxJava 2](https://github.com/davidmoten/rxjava2-extras)
+    - [bindiff - Quickly find differences and similarities in disassembled code](https://github.com/google/bindiff)
     - awesome
         - also refer to ## Data
         - java
@@ -1831,6 +1841,7 @@ Also refer to [## Data](#data)
     - https://github.com/shahriarshm/nsfw-autofilter-telegrambot
     - https://github.com/mehran-tarif/Django-Google-Login
     - [WebSocket_JWT_authentication_middleware.py](https://gist.github.com/coci/981801b1264c2c3a171f51585ebbd72d)
+    - [wagtail - A Django content management system focused on flexibility and user experience](https://github.com/wagtail/wagtail)
     - awesome
         - https://github.com/wsvincent/awesome-django
         - https://github.com/vintasoftware/awesome-django-security
@@ -2329,6 +2340,7 @@ Also refer to [## Data](#data)
     - [flume - A safe and fast multi-producer, multi-consumer channel.](https://github.com/zesterer/flume)
     - [FunnelKVS - Rust implementation of autonomous distributed key-value store which has REST interfaces](https://github.com/ryogrid/FunnelKVS)
     - [gosub-browser - A html5 tokenizer / parser that hopefully grow up to be a browser](https://github.com/jaytaph/gosub-browser)
+    - [turbo - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.](https://github.com/vercel/turbo)
     - awesome
         - https://github.com/rust-unofficial/awesome-rust
         - https://github.com/rustlang-cn/rusty-book
