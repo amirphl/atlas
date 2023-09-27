@@ -237,6 +237,7 @@ This repository contains a list of references.
         - https://github.com/XPixelGroup/DiffBIR
         - https://github.com/williamyang1991/Rerender_A_Video
         - [ProPainter: Improving Propagation and Transformer for Video Inpainting](https://github.com/sczhou/ProPainter)
+        - [FreeU: Free Lunch in Diffusion U-Net](https://github.com/ChenyangSi/FreeU)
     - audio
         - https://github.com/suno-ai/bark
         - https://github.com/openai/whisper
@@ -305,6 +306,7 @@ This repository contains a list of references.
     - https://github.com/tinygrad/tinygrad
     - https://github.com/Unstructured-IO/unstructured
     - [agents - An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents)
+    - [DI-engine - OpenDILab Decision AI Engine](https://github.com/opendilab/DI-engine)
 
     - awesome
         - https://github.com/Hannibal046/Awesome-LLM
@@ -312,6 +314,9 @@ This repository contains a list of references.
         - https://github.com/f/awesome-chatgpt-prompts
         - https://github.com/LiLittleCat/awesome-free-chatgpt
         - https://github.com/e2b-dev/awesome-ai-agents
+        - [The-Grand-Complete-Data-Science-Materials](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials)
+        - [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
+        - [tuning_playbook - A playbook for systematically maximizing the performance of deep learning models.](https://github.com/google-research/tuning_playbook)
     - best practices
         - 
     - cheatsheets
@@ -363,7 +368,7 @@ This repository contains a list of references.
     - courses: linear algebra, statistics and probability
     - libs: tensorflow, keras, pytorch, sklearn, scipy, numpy, pandas, matplotlib, seaborn, plotly, opencv, excel
     - regression, svm, decision tree, ensemble learning, classification, clustering, sequential models
-    - deep learning, machine learning, data mining, data science, reinforcement learning, pattern recogntion, natural language processing (NLP), computer vision, image processing, statistical modeling, recommender systems 
+    - deep learning, machine learning, data mining, data science, reinforcement learning, representation learning, disentanglement, pattern recogntion, large language models (llm), natural language processing (nlp), computer vision, image processing, statistical modeling, recommender systems, variational/adversarial/autoregressive models,  
     - data preparation and feature engineering, dimensionality reduction, learning and generalization, visualization
     - web scraping
     - power bi, metabase
@@ -713,7 +718,7 @@ Also refer to [##System Design](#system-design).
         - best practices
             - 
         - cheatsheets
-            - 
+            - https://github.com/jsjtzyy/LeetCode/blob/master/DB%20SQL%20cheat%20sheet%20for%20interview
         - tutorials
             - 
         - checklists
@@ -728,6 +733,8 @@ Also refer to [##System Design](#system-design).
         - https://www.enterprisedb.com/blog/postgresql-tproc-c-benchmarks-postgresql-12-vs-postgresql-13-performance
         - https://www.thatguyfromdelhi.com/2020/12/what-postgres-sql-causes-table-rewrite.html
         - https://pg-auto-failover.readthedocs.io/en/latest/tutorial.html
+- mysql
+- mssql
 - redis
     - https://github.com/redis/go-redis
 - cassandra
@@ -739,6 +746,7 @@ Also refer to [##System Design](#system-design).
     - https://www.apache.org/
     - https://github.com/tomwhite/hadoop-book/tree/master/appc/src/main/sh
 - zookeeper
+    - https://github.com/apache/zookeeper
 - etcd
     - https://github.com/etcd-io/etcd
 - dubbo
@@ -755,23 +763,25 @@ Also refer to [##System Design](#system-design).
 - rabbitmq
 - nsq
     - https://github.com/nsqio/nsq
+- nats-server
+    - https://github.com/nats-io/nats-server
+- mongodb
+    - https://github.com/mongodb/mongo-java-driver
 - elastic search
     - ELK stack for logging and monitoring
 - manticoresearch
     - https://github.com/manticoresoftware/manticoresearch
 - leveldb
     - https://github.com/google/leveldb
-- mongodb
-    - https://github.com/mongodb/mongo-java-driver
 - dynamodb
 - cosmosdb
 - dynamodb indexing vs cosmosdb indexing
 - influxdb
 - apache airflow
 - apache ranger
-- mysql
-- mssql
 - neo4j
+- nebula
+    - https://github.com/vesoft-inc/nebula
 - data warehouse
 - go-micro
     - https://github.com/go-micro/go-micro
@@ -1007,6 +1017,7 @@ Also refer to [## Data](#data)
     - https://github.com/Vonng/ddia
     - awesome
         - https://github.com/topics/distributed-systems
+        - https://github.com/topics/concurrency
         - https://github.com/kamranahmedse/developer-roadmap
         - https://github.com/donnemartin/interactive-coding-challenges
         - https://github.com/donnemartin/system-design-primer
@@ -1031,8 +1042,6 @@ Also refer to [## Data](#data)
         - https://github.com/simskij/awesome-software-architecture
         - https://github.com/yahwang/Awesome-Data-Engineering
         - https://github.com/leandromoreira/cdn-up-and-running
-        - https://github.com/kousiknath/LowLevelDesign
-
         - https://github.com/jwasham/coding-interview-university
         - https://github.com/theanalyst/awesome-distributed-systems
         - https://github.com/zhenlohuang/awesome-distributed-systems
@@ -1041,11 +1050,35 @@ Also refer to [## Data](#data)
         - https://github.com/gojek/awesome-distributed-systems
         - https://github.com/roma-glushko/awesome-distributed-system-projects
         - https://github.com/ty4z2008/Qix
-
-        - https://github.com/prasadgujar/low-level-design-primer
         - https://github.com/ripienaar/free-for-dev
+        - https://github.com/pingcap/talent-plan
+        - https://github.com/dereknguyen269/programing-best-practices-2023
+        - https://github.com/wx-chevalier/Awesome-CheatSheets-and-MindMaps
+        - https://github.com/LeCoupa/awesome-cheatsheets
+        - https://github.com/EbookFoundation/free-programming-books/blob/main/more/free-programming-cheatsheets.md
+        - https://github.com/mgreiler/awesome-code-review-checklists
+        - https://github.com/GDGAhmedabad/Awesome-Learning-Resources
+        - https://github.com/guanpengchn/awesome-books
+        - [Categorized overview of programming principles & design patterns](https://github.com/webpro/programming-principles)
+        - [OOP Design Patterns Code Examples](https://github.com/kiat/OOP-Design-Patterns)
+        - low level
+            - https://github.com/kousiknath/LowLevelDesign
+            - https://github.com/prasadgujar/low-level-design-primer
+            - [Curated Collection of all Low level design Questions and implementation asked in major Tech companies , Get yourself prepared for the LLD round and ace the interview.](https://github.com/kumaransg/LLD)
+            - [Low level deisgn for cache system](https://github.com/anomaly2104/cache-low-level-system-design)
+            - [Low Level System Design - Cab booking like Uber/Ola/Grab](https://github.com/anomaly2104/lld-cab-booking-ola-uber-grab-lyft)
+            - [Low level design solution of parking lot](https://github.com/anomaly2104/lld-parking-lot)
+            - [Low level system design of Chess.](https://github.com/anomaly2104/chess-low-level-system-design)
+            - [We have to design a message queue supporting publisher-subscriber model.](https://github.com/anomaly2104/low-level-design-messaging-queue-pub-sub)
+            - [Low Level System Design - Multi-level Cache System](https://github.com/anomaly2104/multi-level-cache-low-level-system-design)
+        - [Distributed Systems Labs and Framework](https://github.com/emichael/dslabs)
+        - [joice - Java distributed development platform: Spring, Spring MVC, MyBatis, Dubbo, Redis, Shiro permission management, Quartz distributed scheduling, RocketMQ communication, local cache, Redis cache, distributed cache, distributed transactions](https://github.com/huhuics/joice)
         - [A list of awesome beginners-friendly projects.](https://github.com/MunGell/awesome-for-beginners)
-        - 
+        - [MapReduce, Spark, Java, and Scala for Data Algorithms Book](https://github.com/mahmoudparsian/data-algorithms-book)
+            - https://github.com/mahmoudparsian
+        - [Example codes for my Distributed Computing course at Hefei University.](https://github.com/thomasWeise/distributedComputingExamples)
+        - [Algorithms for implementation of Clock Synchronization, Consistency, Mutual Exclusion, Leader Election](https://github.com/shwetayakkali/Distributed-System-Algorithms-Implementation)
+        - [Distributed Systems Project](https://github.com/KeithWilliamsGMIT/Distributed-Systems-Project)
         - https://github.com/dotnet/docs/blob/main/docs/architecture/microservices/architect-microservice-container-applications/direct-client-to-microservice-communication-versus-the-api-gateway-pattern.md
     - best practices
         - https://github.com/Sairyss/domain-driven-hexagon
@@ -1061,6 +1094,8 @@ Also refer to [## Data](#data)
     - count youtube view
     - count instagram likes
     - exchanges like Binance, Coinbase, Kucoin
+    - API-based time-based key value store
+    - handle load at peak: black friday
 - keywords
     - system design youtube
 - misc
@@ -1176,6 +1211,7 @@ Also refer to [## Data](#data)
     - https://github.com/hrydgard/ppsspp
     - https://github.com/godotengine/godot
     - [fmt - A modern formatting library](https://github.com/fmtlib/fmt)
+    - [memo - The memo elastic and resilient key-value store.](https://github.com/infinit/memo)
     - awesome
         - https://github.com/fffaraz/awesome-cpp
         - https://github.com/uhub/awesome-cpp
@@ -1196,7 +1232,7 @@ Also refer to [## Data](#data)
     - tutorials
         - 
     - checklists
-        - 
+        - https://github.com/jsjtzyy/LeetCode/blob/master/C%2B%2B%20cheat%20sheet%20for%20interview
 - misc
     - c++ move semantics
     - https://alibabatech.medium.com/gcc-vs-clang-llvm-an-in-depth-comparison-of-c-c-compilers-899ede2be378
@@ -1273,6 +1309,13 @@ Also refer to [## Data](#data)
     - https://github.com/grpc/grpc-go
     - [Meshery, the cloud native manager](https://github.com/meshery/meshery)
     - [OpenTofu lets you declaratively manage your cloud infrastructure.](https://github.com/opentofu/opentofu)
+    - [JuiceFS is a distributed POSIX file system built on top of Redis and S3.](https://github.com/juicedata/juicefs)
+    - [Temporal service](https://github.com/temporalio/temporal)
+    - [iWF is an API orchestration platform offering an orchestration coding framework and service for building resilient, fault-tolerant, scalable long-running applications](https://github.com/indeedeng/iwf)
+    - [the Clymene is time-series data and Logs collection platform for distributed systems.](https://github.com/Clymene-project/Clymene)
+    - [goakt - Distributed Actor framework using protocol buffers as message for Golang](https://github.com/Tochemey/goakt)
+    - [go-bug - Distributed, offline-first bug tracker embedded in git, with bridges](https://github.com/MichaelMure/git-bug)
+    - [Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.](https://github.com/harness/gitness)
     - https://github.com/gothinkster/golang-gin-realworld-example-app
     - awesome
         - https://github.com/avelino/awesome-go
@@ -1283,6 +1326,10 @@ Also refer to [## Data](#data)
         - https://github.com/sensorario/go-design-patterns
         - https://github.com/yksz/go-design-patterns
         - https://github.com/bvwells/go-patterns
+        - [Implementation of design patterns in Golang](https://github.com/ismanf/golang-design-patterns)
+        - [Go concurrency patterns from Rob Pike's 2012 Google I/O talk](https://github.com/kevinniechen/go-concurrency-patterns)
+        - [This repository aims to provide developers with a deep understanding of concurrent programming in Go and offers practical solutions to common challenges in building highly concurrent systems](https://github.com/iamuditg/go-concurrency-patterns)
+        - [🔥 go back-end programmer's guide: go basic syntax, go underlying principles, go runtime implementation principles, go concurrency mode, go language project experience](https://github.com/shgopher/GOFamily)
     - best practices
         - https://github.com/uber-go/guide
         - https://github.com/smallnest/go-best-practices
@@ -1303,6 +1350,7 @@ Also refer to [## Data](#data)
     - tutorials
         - https://github.com/GoesToEleven/GolangTraining/
         - https://github.com/inancgumus/learngo
+        - [Concurrency in Go video course with in depth explanations & examples](https://github.com/golang-basics/concurrency)
     - checklists
         - 
 - editor
@@ -1463,17 +1511,20 @@ Also refer to [## Data](#data)
 - coursier
     - https://get-coursier.io/docs/overview
 - for spark, akka, and flink, refer to [Data](#data)
+- maven
+    - [maven youtube playlist](https://www.youtube.com/playlist?list=PL92E89440B7BFD0F6)
+    - https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-java-with-maven
 - github
-    - https://github.com/scala/scala
-    - https://github.com/lampepfl/dotty
-    - https://github.com/sbt/sbt
-    - https://github.com/playframework/playframework
-    - https://github.com/slick/slick
-    - https://github.com/typelevel/fs2
+    - [scala](https://github.com/scala/scala)
+    - [dotty](https://github.com/lampepfl/dotty)
+    - [sbt](https://github.com/sbt/sbt)
+    - [play](https://github.com/playframework/playframework)
+    - [slick](https://github.com/slick/slick)
+    - [fs2](https://github.com/typelevel/fs2)
     - fp
-        - https://github.com/zio/zio
-        - https://github.com/typelevel/cats
-        - https://github.com/monix/monix
+        - [zio](https://github.com/zio/zio)
+        - [cats](https://github.com/typelevel/cats)
+        - [monix](https://github.com/monix/monix)
         - https://github.com/scalaz/scalaz
     - ml
         - https://github.com/Angel-ML/angel
@@ -1512,41 +1563,143 @@ Also refer to [## Data](#data)
     - https://github.com/Grasscutters/Grasscutter
     - https://github.com/platypusguy/jacobin
     - https://github.com/NationalSecurityAgency/ghidra
+    - collections
+        - [Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.](https://github.com/eclipse/eclipse-collections)
+        - [Java Collections till the last breadcrumb of memory and performance](https://github.com/leventov/Koloboke)
+        - [Apache Commons Collections](https://github.com/apache/commons-collections)
+        - [ConcurrencyFreaks - A library of concurrent data structures and synchronization mechanisms.](https://github.com/pramalhe/ConcurrencyFreaks)
+    - [Conductor is a microservices orchestration engine.](https://github.com/Netflix/conductor)
+    - [genie - Distributed Big Data Orchestration Service](https://github.com/Netflix/genie)
+    - [Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL](https://github.com/trinodb/trino)
+    - [Jupiter is a lightweight distributed service framework with very good performance.](https://github.com/fengjiachun/Jupiter)
+    - [brooklin - An extensible distributed system for reliable nearline data streaming at scale](https://github.com/linkedin/brooklin)
+    - [Hazelcast is a unified real-time data platform combining stream processing with a fast data store, allowing customers to act instantly on data-in-motion for real-time insights.](https://github.com/hazelcast/hazelcast)
+    - [disruptor - High Performance Inter-Thread Messaging Library](https://github.com/LMAX-Exchange/disruptor)
+    - [Vert.x is a tool-kit for building reactive applications on the JVM](https://github.com/eclipse-vertx/vert.x)
+    - [quasar - Fibers, Channels and Actors for the JVM](https://github.com/puniverse/quasar)
+    - [JCTools - Java Concurrency Tools for the JVM.](https://github.com/JCTools/JCTools)
+    - [EA Async implements async-await methods in the JVM.](https://github.com/electronicarts/ea-async)
+    - [jdonframework - Domain-Driven-Design Pub/Sub Domain-Events framework](https://github.com/banq/jdonframework)
+    - [stormpot - A fast object pool for the JVM](https://github.com/chrisvest/stormpot)
+    - [lingua-franca - Intuitive concurrent programming in any language](https://github.com/lf-lang/lingua-franca)
+    - [RxJava2 integration with JDBC including Non-blocking Connection Pools](https://github.com/davidmoten/rxjava2-jdbc)
+    - [Utilities for use with RxJava 2](https://github.com/davidmoten/rxjava2-extras)
     - awesome
         - also refer to ## Data
-        - ["Java Learning + Interview Guide" covers the core knowledge that most Java programmers need to master. To prepare for Java interviews, JavaGuide is your first choice!](https://github.com/Snailclimb/JavaGuide)
-        - https://github.com/webpro/programming-principles
-        - https://github.com/doocs/advanced-java
-        - https://github.com/akullpp/awesome-java
-        - https://github.com/uhub/awesome-java
-        - https://github.com/pditommaso/awesome-java
-        - https://github.com/Suryakant-Bharti/Important-Java-Concepts
-        - https://github.com/iluwatar/java-design-patterns
-            - https://java-design-patterns.com/patterns/
-        - https://github.com/RameshMF/object-oriented-design
-        - https://github.com/iluwatar/30-seconds-of-java
-        - https://github.com/uhub/awesome-scala
-        - https://github.com/stkeky/best-of-scala
-        - https://github.com/lauris/awesome-scala
-        - https://github.com/josephguan/scala-design-patterns
-        - https://github.com/nikolovivan/scala-design-patterns-v2
+        - java
+            - ["Java Learning + Interview Guide" covers the core knowledge that most Java programmers need to master. To prepare for Java interviews, JavaGuide is your first choice!](https://github.com/Snailclimb/JavaGuide)
+            - [😮 Core Interview Questions & Answers For Experienced Java (Backend) Developers](https://github.com/doocs/advanced-java)
+            - [🚀 Complete Java - A to Z ║ 📚 Notes and Programs of all Important Concepts of Java - OOPS, Data Structures, Algorithms, Design Patterns & Development + Kotlin + Android 🔥](https://github.com/Suryakant-Bharti/Important-Java-Concepts)
+            - [Curated list of useful, if not amazing, resources that take advantage of Java 8 and "Modern Java" thinking.](https://github.com/tedyoung/awesome-java8)
+            - [A curated list of awesome loosely performance related JVM stuff.](https://github.com/deephacks/awesome-jvm)
+            - [At the beginning, it was the repository with questions from Java interviews. Currently, it's more like knowledge base with useful links.](https://github.com/anton-liauchuk/java-interview)
+            - [java studies](https://github.com/Augusto11CB/Java-Studies)
+            - [a one-stop repo to lookup for code snippets of core java concepts, sql, data structures as well as big data. It also consists of interview questions asked in real-life.](https://github.com/amarkum/interview-refresher-java-bigdata)
+            - [A curated list of awesome frameworks, libraries and software for the Java programming language.](https://github.com/akullpp/awesome-java)
+            - [A curated list of awesome Java frameworks, libraries and software.](https://github.com/uhub/awesome-java)
+            - [A curated list of awesome Java libraries](https://github.com/pditommaso/awesome-java)
+            - [A curated list of awesome Java frameworks, libraries, software and books](https://github.com/wtsxDev/Amazing-Java-List)
+            - concurrency
+                - [Checklist for code reviews](https://github.com/code-review-checklists/java-concurrency)
+                - [Concurrency Patterns and features found in Java, through multithreaded programming. Threads, Locks, Atomics and more.](https://github.com/LeonardoZ/java-concurrency-patterns)
+                - [Simple showcases of java concurrency problems](https://github.com/oldratlee/fucking-java-concurrency)
+                - [Java concurrent programming knowledge and common processing patterns features and patterns](https://github.com/Fadezed/concurrency)
+                - [📓 "Practical Java High Concurrency Programming" notes and source code compilation](https://github.com/guanpengchn/java-concurrent-programming)
+                - [Java Concurrency/Multithreading Tutorial with Examples for Dummies](https://github.com/callicoder/java-concurrency-examples)
+                - [Java Concurrency & Multithreading in Practice, published by Packt](https://github.com/PacktPublishing/Java-Concurrency-Multithreading-in-Practice)
+                - [All source code(maybe) that used in <Java Concurrency in Practice>](https://github.com/yjfox/-Java-Concurrency-in-Practice-Source-Code)
+                - [Demo app and JUnit tests illustrating the most useful concurrency mechanisms in Java](https://github.com/piomin/sample-java-concurrency)
+                - [This project has examples of Java Concurrency API.](https://github.com/marcusvieira88/java-concurrency)
+                - [Java Concurrency Progamming Tutorial](https://github.com/Java-Edge/Java-Concurrency-Progamming-Tutorial)
+                - [🌵"Practical Java High Concurrency Programming" source code compilation](https://github.com/ZHENFENG13/concurrent-programming)
+            - collections
+                - [In-depth understanding of Java collection framework](https://github.com/CarpenterLee/JCFInternals)
+                - [A Complete Reference to Java Collections Framework through simple examples](https://github.com/callicoder/java-collections-examples)
+                - [📖 Java Generics and Collections](https://github.com/hellojavaio/Java-Generics-and-Collections-2)
+                - [This is a small cheat sheet and rules of thumb for using Java Collections Framework](https://github.com/nlharri/JavaCollectionsFrameworkCheatSheet)
+                - [collection java tutorial](https://gist.github.com/nijjwal/36764923f9652ddfa24d)
+                - [java collections cheatsheet](https://gist.github.com/rubienr/b3286c596e18868300b8dc64c5eda382)
+                - [DSA-Bootcamp-Java - This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
+            - io
+                - [Guide to java IO (Input and Output stream) in Java](https://github.com/RameshMF/java-io-guide)
+                - [Demos for writing and reading files with FileChannel and ByteArray. Tests for write speed with RandomAccessFile, FileChannel, heap buffer, native buffer, memory-mapped buffer, and FileOutputStream.](https://github.com/SvenWoltmann/filechannel-bytebuffer-memory-mapped-io-locks)
+            - [Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
+                - https://java-design-patterns.com/patterns/
+            - [Oops concepts and principles in Java.](https://github.com/RameshMF/object-oriented-design)
+            - [Collection of reusable tested Java 17 compatible code snippets that you can understand in 30 seconds or less.](https://github.com/iluwatar/30-seconds-of-java)
+            - [Code, subjects and checklists for Java Piscine, school 21, june 2021](https://github.com/Preposterone/java_piscine_21)
+        - scala
+            - https://github.com/uhub/awesome-scala
+            - https://github.com/stkeky/best-of-scala
+            - https://github.com/lauris/awesome-scala
+            - https://github.com/josephguan/scala-design-patterns
+            - https://github.com/nikolovivan/scala-design-patterns-v2
+        - maven
+            - [awesome maven](https://github.com/CloudsDocker/awesome-maven)
+            - [Apache Maven Archetype Bundles](https://github.com/apache/maven-archetypes)
+        - android
+            - [awesome android complete reference](https://github.com/amitshekhariitbhu/awesome-android-complete-reference)
     - best practices
-        - https://github.com/alexandru/scala-best-practices
-        - https://nrinaudo.github.io/scala-best-practices/
-        - https://nrinaudo.github.io/talk-scala-best-practices/#1
-        - https://github.com/zeenea/scala-best-practices
-        - https://github.com/databricks/scala-style-guide
-        - https://yoshiyoshifujii.github.io/slides/2019/06/28/clean-architecture-in-practice-at-scalamatsuri2019.html#39
+        - java
+            - [Best practices in Coding, Designing and Architecting Java Applications](https://github.com/in28minutes/java-best-practices)
+            - [Best practices for things you should and should not do using Java](https://github.com/jph98/java-best-practices)
+            - [The official Java style guide for raywenderlich.com](https://github.com/kodecocodes/java-style-guide)
+            - https://howtodoinjava.com/java-best-practices/
+            - https://www.javacodegeeks.com/2015/06/java-programming-tips-best-practices-beginners.html
+        - scala
+            - https://github.com/alexandru/scala-best-practices
+            - https://nrinaudo.github.io/scala-best-practices/
+            - https://nrinaudo.github.io/talk-scala-best-practices/#1
+            - https://github.com/zeenea/scala-best-practices
+            - https://github.com/databricks/scala-style-guide
+            - https://yoshiyoshifujii.github.io/slides/2019/06/28/clean-architecture-in-practice-at-scalamatsuri2019.html#39
+        - spring
+            - [spring-jpa best practices](https://github.com/cheese10yun/spring-jpa-best-practices)
+            - [Java REST API best practices, a working example with Spring Boot](https://github.com/melphi/java-api-best-practices)
+        - android
+            - [This repo is to add best practices that developers can apply to write clean, short and testable code in android.](https://github.com/balsikandar/Best-Coding-practices-in-android)
+        - selenium
+            - [For writing maintainable and scalable E2E Test.](https://github.com/previousdeveloper/Selenium-best-practices)
     - cheatsheets
-        - 
+        - java
+            - [Java Tutorial For Beginners - Companion Reference](https://github.com/in28minutes/java-cheat-sheet)
+            - [Java notes cheatsheet, focusing on fundamentals and useful interview tips](https://github.com/yungnickyoung/Java-Cheatsheet)
+            - [The ultimate cheat sheet that will refresh (or teach you) everything you need to know about data structures and algorithms in Java.](https://github.com/bionascu/the-ultimate-java-cheat-sheet)
+            - [java cheatsheet](https://github.com/fletchy95/Java-Cheat-Sheet)
+            - [Java Versions Cheat Sheet](https://andbin.github.io/java-versions-cheat-sheet/)
+            - https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/java.md
+            - https://github.com/jsjtzyy/LeetCode/blob/master/Java%20cheat%20sheet%20for%20interview
+            - https://github.com/jsjtzyy/LeetCode/blob/master/Java%20Concurrency
+            - https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/
+            - https://www.codewithharry.com/blogpost/java-cheatsheet/
+            - https://introcs.cs.princeton.edu/java/11cheatsheet/
+        - scala
+            - https://warisradji.com/Scala-CheatSheet/
+            - https://alvinalexander.com/downloads/scala/Scala-Cheat-Sheet-devdaily.pdf
+        - android
+            - [Your Cheat Sheet For Android Interview - Android Interview Questions](https://github.com/amitshekhariitbhu/android-interview-questions)
+            - [Tips and tricks for Android Development](https://github.com/nisrulz/android-tips-tricks)
     - tutorials
         - https://github.com/scala-exercises/scala-exercises
         - https://github.com/dehun/learn-fp
         - https://github.com/TrainingByPackt/Professional-Scala
         - https://gist.github.com/BeachBird/b9bc92651ce011b78bc8
         - https://github.com/SaeidDadkhah/clean-arch-example
+        - [Learning RxJava for Android by example](https://github.com/kaushikgopal/RxJava-Android-Samples)
+        - [Spring Reactor hands-on training (3 days)](https://github.com/nurkiewicz/reactor-workshop)
     - checklists
-        - https://github.com/code-review-checklists/java-concurrency
+        - [Java Fundamentals Checklist](https://github.com/LawrenceB5477/Java-Fundamentals-Checklist)
+        - [A checklist for building Java + Angular/React web applications in the correct way](https://github.com/shekhargulati/building-java-web-apps-checklist)
+        - [This is a checklist that allow an easy onboarding in a new Java project for the employee and team leader](https://github.com/marco76/java-project-checklist)
+        - code review
+            - [java code review checklist](https://github.com/andreimladin/java-code-review-checklist)
+            - [A code review guide and checklist when working with Java, Spring and related technologies](https://github.com/kdsingharneja/the-java-code-review-checklist)
+            - [Code review checklist with examples](https://github.com/knonm/code-review-checklist)
+            - [code review checklist](https://gist.github.com/kashifrazzaqui/44b868a59e99c2da7b14)
+            - https://www.java-success.com/30-java-code-review-checklist-items/
+            - https://dzone.com/articles/java-code-review-checklist
+        - spring
+            - [java spring api checklist](https://github.com/johnazre/java-spring-api-checklist)
 - misc
     - https://stackoverflow.com/questions/24469063/behavior-of-memory-barrier-in-java
     - https://stackoverflow.com/questions/38414829/
@@ -1783,7 +1936,7 @@ Also refer to [## Data](#data)
     - cheatsheets
         - 
     - tutorials
-        - 
+        - [Complementary Concurrency Programs for course "Linux Kernel Internals"](https://github.com/sysprog21/concurrent-programs)
     - checklists
         - 
 
@@ -1998,6 +2151,7 @@ Also refer to [## Data](#data)
     - https://hamed.blog/
 - https://github.com/ruanyf/weekly
 - https://www.thecodedmessage.com/
+- https://medium.com/@hnasr
 - podcasts
 
 
@@ -2152,6 +2306,7 @@ Also refer to [## Data](#data)
         - [Rust Programming Course for Beginners - Tutorial](https://www.youtube.com/watch?v=MsocPEZBd-M)
         - https://www.youtube.com/watch?v=EF3Z4jdD1EQ
     - https://google.github.io/comprehensive-rust/
+    - https://security.googleblog.com/2023/09/scaling-rust-adoption-through-training.html
 - misc
     - https://twitter.com/RyanCarniato/status/1580347110611816448
     - https://twitter.com/ahrzb/status/1647901909603287041
@@ -2171,6 +2326,9 @@ Also refer to [## Data](#data)
     - https://github.com/lapce/lapce
     - https://github.com/rust-lang/miri
     - https://github.com/shadowsocks/shadowsocks-rust
+    - [flume - A safe and fast multi-producer, multi-consumer channel.](https://github.com/zesterer/flume)
+    - [FunnelKVS - Rust implementation of autonomous distributed key-value store which has REST interfaces](https://github.com/ryogrid/FunnelKVS)
+    - [gosub-browser - A html5 tokenizer / parser that hopefully grow up to be a browser](https://github.com/jaytaph/gosub-browser)
     - awesome
         - https://github.com/rust-unofficial/awesome-rust
         - https://github.com/rustlang-cn/rusty-book
@@ -2311,7 +2469,7 @@ Also refer to [## Data](#data)
 ## Kotlin
 - github
     - awesome
-        - 
+        - [An awesome list that curates the best Kotlin Multiplatform libraries, tools and more.](https://github.com/terrakok/kmp-awesome)
     - best practices
         - 
     - cheatsheets
