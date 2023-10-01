@@ -191,6 +191,8 @@ This repository contains a list of references.
         - https://github.com/NExT-GPT/NExT-GPT
         - https://github.com/AntonioErdeljac/next13-lms-platform
         - [The paper list of the 86-page paper "The Rise and Potential of Large Language Model Based Agents: A Survey"](https://github.com/WooooDyy/LLM-Agent-Paper-List)
+        - [autogen - Enable Next-Gen Large Language Model Applications.](https://github.com/microsoft/autogen)
+        - [Reference implementation of Mistral AI 7B v0.1 model.](https://github.com/mistralai/mistral-src)
     - LLAMA
         - https://github.com/facebookresearch/llama
         - https://github.com/karpathy/llama2.c
@@ -240,6 +242,7 @@ This repository contains a list of references.
         - [ProPainter: Improving Propagation and Transformer for Video Inpainting](https://github.com/sczhou/ProPainter)
         - [FreeU: Free Lunch in Diffusion U-Net](https://github.com/ChenyangSi/FreeU)
         - [Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.](https://github.com/facebookresearch/detectron2)
+        - [Generative Gaussian Splatting for Efficient 3D Content Creation](https://github.com/dreamgaussian/dreamgaussian)
     - audio
         - https://github.com/suno-ai/bark
         - https://github.com/openai/whisper
@@ -310,6 +313,8 @@ This repository contains a list of references.
     - [agents - An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents)
     - [DI-engine - OpenDILab Decision AI Engine](https://github.com/opendilab/DI-engine)
     - [metabase - The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋](https://github.com/metabase/metabase)
+    - [datalens - A modern, scalable analytics system](https://github.com/datalens-tech/datalens)
+    - [mlflow - Open source platform for the machine learning lifecycle](https://github.com/mlflow/mlflow)
 
     - awesome
         - https://github.com/Hannibal046/Awesome-LLM
@@ -610,6 +615,7 @@ This repository contains a list of references.
     - https://github.com/utkusen/promptmap
     - https://github.com/raminfp/fuzzer-development-with-rust
     - [Hackers' Guide to Language Models](https://github.com/fastai/lm-hackers)
+    - [A tool for checking the security hardening options of the Linux kernel](https://github.com/a13xp0p0v/kernel-hardening-checker)
     - awesome
         - https://github.com/enaqx/awesome-pentest
         - https://github.com/rshipp/awesome-malware-analysis
@@ -624,6 +630,7 @@ This repository contains a list of references.
         - https://github.com/OWASP/wstg
     - cheatsheets
         - https://github.com/OWASP/CheatSheetSeries
+        - [OSCP Cheatsheet by Sai Sathvik](https://github.com/saisathvik1/OSCP-Cheatsheet)
     - tutorials
         - https://github.com/jassics/security-study-plan
         - https://github.com/rodolfomarianocy/OSCP-Tricks-2023
@@ -903,6 +910,7 @@ Also refer to [##System Design](#system-design).
     - https://www.tutorialcup.com/interview/dynamic-programming/find-maximum-length-snake-sequence.htm
     - https://www.techiedelight.com/maximum-length-snake-sequence/
 - One more important thing: review hard problems you solved
+- binary indexed tree, segment tree, suffix tree, tri, union find, fibo heap
 
 
 ## System Design
@@ -1065,6 +1073,7 @@ Also refer to [## Data](#data)
         - https://github.com/mgreiler/awesome-code-review-checklists
         - https://github.com/GDGAhmedabad/Awesome-Learning-Resources
         - https://github.com/guanpengchn/awesome-books
+        - https://github.com/freeCodeCamp/freeCodeCamp
         - [Categorized overview of programming principles & design patterns](https://github.com/webpro/programming-principles)
         - [OOP Design Patterns Code Examples](https://github.com/kiat/OOP-Design-Patterns)
         - low level
@@ -1220,6 +1229,8 @@ Also refer to [## Data](#data)
     - [fmt - A modern formatting library](https://github.com/fmtlib/fmt)
     - [memo - The memo elastic and resilient key-value store.](https://github.com/infinit/memo)
     - [valhalla - Open Source Routing Engine for OpenStreetMap](https://github.com/valhalla/valhalla)
+    - [spdlog - Fast C++ logging library.](https://github.com/gabime/spdlog)
+    - [qBittorrent - qBittorrent BitTorrent client](https://github.com/qbittorrent/qBittorrent)
     - awesome
         - https://github.com/fffaraz/awesome-cpp
         - https://github.com/uhub/awesome-cpp
@@ -1573,6 +1584,7 @@ Also refer to [## Data](#data)
     - https://github.com/platypusguy/jacobin
     - https://github.com/NationalSecurityAgency/ghidra
     - collections
+        - [All Algorithms implemented in Java](https://github.com/TheAlgorithms/Java)
         - [Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.](https://github.com/eclipse/eclipse-collections)
         - [Java Collections till the last breadcrumb of memory and performance](https://github.com/leventov/Koloboke)
         - [Apache Commons Collections](https://github.com/apache/commons-collections)
@@ -2005,7 +2017,7 @@ Also refer to [## Data](#data)
 
 ## Cloud
 - aws
-    - https://github.com/localstack/localstack
+    - [localstack - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline](https://github.com/localstack/localstack)
     - services: elastic container registry (ECR), message queue, sqs queue, object storage s3,
     - aws certificate path: developer, devops, security, ...
     - coursera certificates
@@ -2341,6 +2353,7 @@ Also refer to [## Data](#data)
     - [FunnelKVS - Rust implementation of autonomous distributed key-value store which has REST interfaces](https://github.com/ryogrid/FunnelKVS)
     - [gosub-browser - A html5 tokenizer / parser that hopefully grow up to be a browser](https://github.com/jaytaph/gosub-browser)
     - [turbo - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.](https://github.com/vercel/turbo)
+    - [hyperswitch - An open source payments switch written in Rust to make payments fast, reliable and affordable](https://github.com/juspay/hyperswitch)
     - awesome
         - https://github.com/rust-unofficial/awesome-rust
         - https://github.com/rustlang-cn/rusty-book
@@ -2387,6 +2400,7 @@ Also refer to [## Data](#data)
 - https://www.udemy.com/course/the-complete-javascript-course/
 - https://krausest.github.io/js-framework-benchmark/current.html
 - github
+    - [Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.](https://github.com/TheAlgorithms/JavaScript)
     - [next.js - The React Framework](https://github.com/vercel/next.js)
     - https://github.com/trekhleb/javascript-algorithms
     - https://github.com/axios/axios
@@ -2439,6 +2453,7 @@ Also refer to [## Data](#data)
     - [wasp - The fastest way to develop full-stack web apps with React & Node.js.](https://github.com/wasp-lang/wasp)
     - [beautiful react hooks - A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development](https://github.com/antonioru/beautiful-react-hooks)
     - [hyperdx - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors.](https://github.com/hyperdxio/hyperdx)
+    - [appwrite - https://github.com/appwrite/appwrite](https://github.com/appwrite/appwrite)
     - awesome
         - 
     - best practices
@@ -2460,6 +2475,8 @@ Also refer to [## Data](#data)
 - react-query
 - https://virtuoso.dev/
 - github
+    - [react-pdf - Display PDFs in your React app as easily as if they were images.](https://github.com/wojtekmaj/react-pdf)
+    - [hermes -  JavaScript engine optimized for running React Native.](https://github.com/facebook/hermes)
     - awesome
         - 
     - best practices
