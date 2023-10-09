@@ -133,6 +133,7 @@ This repository contains a list of references.
     - https://github.com/openai/gpt-3
     - https://github.com/openai/openai-cookbook
     - [Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.](https://github.com/openai/evals)
+    - [openai-python - The official Python library for the OpenAI API](https://github.com/openai/openai-python)
     - https://github.com/easezyc/deep-transfer-learning
     - llm
         - https://github.com/RUCAIBox/LLMSurvey
@@ -193,6 +194,9 @@ This repository contains a list of references.
         - [The paper list of the 86-page paper "The Rise and Potential of Large Language Model Based Agents: A Survey"](https://github.com/WooooDyy/LLM-Agent-Paper-List)
         - [autogen - Enable Next-Gen Large Language Model Applications.](https://github.com/microsoft/autogen)
         - [Reference implementation of Mistral AI 7B v0.1 model.](https://github.com/mistralai/mistral-src)
+        - [DocsGPT - GPT-powered chat for documentation, chat with your documents](https://github.com/arc53/DocsGPT)
+        - [streaming-llm - Efficient Streaming Language Models with Attention Sinks](https://github.com/mit-han-lab/streaming-llm)
+        - [InternLM has open-sourced a 7 and 20 billion parameter base models and chat models tailored for practical scenarios and the training system.](https://github.com/InternLM/InternLM)
     - LLAMA
         - https://github.com/facebookresearch/llama
         - https://github.com/karpathy/llama2.c
@@ -207,6 +211,8 @@ This repository contains a list of references.
         - https://github.com/jzhang38/TinyLlama
         - https://github.com/baichuan-inc/Baichuan2
         - https://github.com/run-llama/sec-insights
+    - multimodal
+        - [LLaVA - Visual Instruction Tuning: Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.](https://github.com/haotian-liu/LLaVA)
     - nlp
         - https://github.com/fighting41love/funNLP
     - vision
@@ -249,6 +255,7 @@ This repository contains a list of references.
         - https://github.com/Plachtaa/VALL-E-X
         - https://github.com/CorentinJ/Real-Time-Voice-Cloning
         - [TTS - a deep learning toolkit for Text-to-Speech, battle-tested in research and production](https://github.com/coqui-ai/TTS)
+        - [WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)](https://github.com/m-bain/whisperX)
     - transformers
         - https://github.com/microsoft/torchscale
         - https://github.com/microsoft/unilm
@@ -288,6 +295,7 @@ This repository contains a list of references.
         - https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning
 
     - https://github.com/pola-rs/polars
+    - [tensorflow - An Open Source Machine Learning Framework for Everyone](https://github.com/tensorflow/tensorflow)
     - https://github.com/pandas-dev/pandas
     - https://github.com/google/jax
     - https://github.com/dmlc/xgboost
@@ -315,6 +323,7 @@ This repository contains a list of references.
     - [metabase - The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋](https://github.com/metabase/metabase)
     - [datalens - A modern, scalable analytics system](https://github.com/datalens-tech/datalens)
     - [mlflow - Open source platform for the machine learning lifecycle](https://github.com/mlflow/mlflow)
+    - [ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator](https://github.com/microsoft/onnxruntime)
 
     - awesome
         - https://github.com/Hannibal046/Awesome-LLM
@@ -616,6 +625,7 @@ This repository contains a list of references.
     - https://github.com/raminfp/fuzzer-development-with-rust
     - [Hackers' Guide to Language Models](https://github.com/fastai/lm-hackers)
     - [A tool for checking the security hardening options of the Linux kernel](https://github.com/a13xp0p0v/kernel-hardening-checker)
+    - [MalwareSourceCode - Collection of malware source code for a variety of platforms in an array of different programming languages.](https://github.com/vxunderground/MalwareSourceCode)
     - awesome
         - https://github.com/enaqx/awesome-pentest
         - https://github.com/rshipp/awesome-malware-analysis
@@ -694,6 +704,7 @@ Also refer to [##System Design](#system-design).
     - https://github.com/akka/akka
     - initialization, lifetime management, fault handling, escalation, destroy, async, queue, stateful, diagnosis
     - virtual actor
+    - akka streams, alpakka
 - flink
     - https://github.com/apache/flink
 - postgres
@@ -832,6 +843,10 @@ Also refer to [##System Design](#system-design).
     - https://github.com/apache/apisix
 - traefix
     - https://github.com/traefik/traefik
+- ckan
+    - [CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.](https://github.com/ckan/ckan)
+- seata
+    - [🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution.](https://github.com/seata/seata)
 - conferences
     - Academic conferences
     - [CIDR](https://www.cidrdb.org/)
@@ -891,16 +906,8 @@ Also refer to [##System Design](#system-design).
 - github
     - https://github.com/tmwilliamlin168/CompetitiveProgramming
     - https://github.com/labuladong/fucking-algorithm
-    - awesome
-        - https://github.com/lnishan/awesome-competitive-programming
-    - best practices
-        - 
-    - cheatsheets
-        - 
-    - tutorials
-        - 
-    - checklists
-        - 
+    - https://github.com/lnishan/awesome-competitive-programming
+    - ["Hello Algorithm": animated illustrations, one-click data structure and algorithm tutorial, supports Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig and other languages.](https://github.com/krahets/hello-algo)
 - misc
     - https://quera.org/course/assignments/2693/problems/8773
     - https://en.cppreference.com/w/cpp/types/integer
@@ -1095,6 +1102,10 @@ Also refer to [## Data](#data)
         - [Algorithms for implementation of Clock Synchronization, Consistency, Mutual Exclusion, Leader Election](https://github.com/shwetayakkali/Distributed-System-Algorithms-Implementation)
         - [Distributed Systems Project](https://github.com/KeithWilliamsGMIT/Distributed-Systems-Project)
         - https://github.com/dotnet/docs/blob/main/docs/architecture/microservices/architect-microservice-container-applications/direct-client-to-microservice-communication-versus-the-api-gateway-pattern.md
+        - [clean-architecture-solution-template](https://github.com/kavaan/clean-architecture-solution-template)
+            - https://github.com/ardalis/CleanArchitecture
+            - https://github.com/jasontaylordev/CleanArchitecture
+        - [system-design-resources](https://github.com/InterviewReady/system-design-resources)
     - best practices
         - https://github.com/Sairyss/domain-driven-hexagon
         - https://github.com/futurice/backend-best-practices
@@ -1336,6 +1347,7 @@ Also refer to [## Data](#data)
     - [go-bug - Distributed, offline-first bug tracker embedded in git, with bridges](https://github.com/MichaelMure/git-bug)
     - [Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.](https://github.com/harness/gitness)
     - [wails - Create beautiful applications using Go](https://github.com/wailsapp/wails)
+    - [bitmagnet - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.](https://github.com/bitmagnet-io/bitmagnet)
     - https://github.com/gothinkster/golang-gin-realworld-example-app
     - awesome
         - https://github.com/avelino/awesome-go
@@ -1445,7 +1457,6 @@ Also refer to [## Data](#data)
         - http://www.scala-sbt.org/documentation.html
             - https://scastie.scala-lang.org/
         - https://scalameta.org/metals/docs/
-        - https://github.com/scalacenter/scalafix
 
         - https://docs.scala-lang.org/overviews/index.html
         - https://www.scala-lang.org/blog/
@@ -1509,6 +1520,8 @@ Also refer to [## Data](#data)
     - https://www.scalatest.org/user_guide
 - scalamock
     - https://scalamock.org/
+- mockito-scala
+    - https://github.com/mockito/mockito-scala
 - mockito
     - https://site.mockito.org/
 - sbt
@@ -1516,6 +1529,10 @@ Also refer to [## Data](#data)
     - https://www.scala-sbt.org/1.x/docs/index.html
 - scalafmt
     - https://scalameta.org/scalafmt/
+- scalafix
+    - https://github.com/scalacenter/scalafix
+- scalastyle
+    - http://www.scalastyle.org/
 - play
     - https://www.playframework.com/
     - https://github.com/playframework/play-samples
@@ -1606,6 +1623,7 @@ Also refer to [## Data](#data)
     - [RxJava2 integration with JDBC including Non-blocking Connection Pools](https://github.com/davidmoten/rxjava2-jdbc)
     - [Utilities for use with RxJava 2](https://github.com/davidmoten/rxjava2-extras)
     - [bindiff - Quickly find differences and similarities in disassembled code](https://github.com/google/bindiff)
+    - [JVector: the most advanced embedded vector search engine](https://github.com/jbellis/jvector)
     - awesome
         - also refer to ## Data
         - java
@@ -1758,6 +1776,7 @@ Also refer to [## Data](#data)
     - https://github.com/dgtlmoon/changedetection.io
     - https://github.com/astral-sh/ruff
     - https://github.com/python-attrs/attrs
+    - [yt-dlp - A youtube-dl fork with additional features and fixes](A youtube-dl fork with additional features and fixes)
     - awesome
         - https://github.com/vinta/awesome-python
         - https://github.com/mahmoud/awesome-python-applications
@@ -1961,7 +1980,7 @@ Also refer to [## Data](#data)
     - tutorials
         - [Complementary Concurrency Programs for course "Linux Kernel Internals"](https://github.com/sysprog21/concurrent-programs)
     - checklists
-        - 
+        - [tldr - 📚 Collaborative cheatsheets for console commands](https://github.com/tldr-pages/tldr)
 
 
 ## DevOps
@@ -1988,6 +2007,7 @@ Also refer to [## Data](#data)
     - https://docs.github.com/en/rest?apiVersion=2022-11-28
 
 - cicd
+    - security checkers in CI pipelines
 - ansible
 - nginx
     - https://github.com/trimstray/nginx-admins-handbook
@@ -2271,6 +2291,7 @@ Also refer to [## Data](#data)
         - https://git.savannah.gnu.org/cgit/hello.git/tree/src/hello.c
     - https://github.com/github/glb-director
     - https://github.com/grafana/beyla
+    - [curl - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features](https://github.com/curl/curl)
     - awesome
         - 
     - best practices
@@ -2354,6 +2375,10 @@ Also refer to [## Data](#data)
     - [gosub-browser - A html5 tokenizer / parser that hopefully grow up to be a browser](https://github.com/jaytaph/gosub-browser)
     - [turbo - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.](https://github.com/vercel/turbo)
     - [hyperswitch - An open source payments switch written in Rust to make payments fast, reliable and affordable](https://github.com/juspay/hyperswitch)
+    - [jetporch - Next generation IT orchestration](https://github.com/jetporch/jetporch)
+    - [Hurl, run and test HTTP requests with plain text.](https://github.com/Orange-OpenSource/hurl)
+    - [Source code of Ferrocene, safety-critical Rust toolchain](https://github.com/ferrocene/ferrocene)
+    - [rerun - Visualize streams of multimodal data. Fast, easy to use, and simple to integrate. Built in Rust using egui.](https://github.com/rerun-io/rerun)
     - awesome
         - https://github.com/rust-unofficial/awesome-rust
         - https://github.com/rustlang-cn/rusty-book
@@ -2366,6 +2391,7 @@ Also refer to [## Data](#data)
         - 
     - tutorials
         - https://github.com/sunface/rust-course
+        - [comprehensive-rust - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.](https://github.com/google/comprehensive-rust)
     - checklists
         - 
 
@@ -2413,6 +2439,10 @@ Also refer to [## Data](#data)
     - https://github.com/cypress-io/cypress
     - https://github.com/mapbox/mapbox-gl-js
     - [swiper - Most modern mobile touch slider with hardware accelerated transitions](https://github.com/nolimits4web/swiper)
+    - [live - ✯ A domestic live broadcast source sharing project that can be directly connected✯ 🔕 Permanent free direct access, complete open source, no ads, perfect station logo live source supports IPv4/IPv6 dual-stack access🔕](https://github.com/fanmingming/live)
+    - [ToolJet - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀](https://github.com/ToolJet/ToolJet)
+    - [kestra - Infinitely scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.](https://github.com/kestra-io/kestra)
+    - [homepage - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.](https://github.com/gethomepage/homepage)
     - awesome
         - 
     - best practices
