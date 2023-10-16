@@ -197,6 +197,8 @@ This repository contains a list of references.
         - [DocsGPT - GPT-powered chat for documentation, chat with your documents](https://github.com/arc53/DocsGPT)
         - [streaming-llm - Efficient Streaming Language Models with Attention Sinks](https://github.com/mit-han-lab/streaming-llm)
         - [InternLM has open-sourced a 7 and 20 billion parameter base models and chat models tailored for practical scenarios and the training system.](https://github.com/InternLM/InternLM)
+        - [superagent - 🥷 The open framework for building AI Assistants](https://github.com/homanp/superagent)
+        - [ChatGPT-AutoExper - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).](https://github.com/spdustin/ChatGPT-AutoExpert)
     - LLAMA
         - https://github.com/facebookresearch/llama
         - https://github.com/karpathy/llama2.c
@@ -213,6 +215,7 @@ This repository contains a list of references.
         - https://github.com/run-llama/sec-insights
     - multimodal
         - [LLaVA - Visual Instruction Tuning: Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.](https://github.com/haotian-liu/LLaVA)
+        - [CogVLM - a state-of-the-art-level open visual language model](https://github.com/THUDM/CogVLM)
     - nlp
         - https://github.com/fighting41love/funNLP
     - vision
@@ -259,6 +262,9 @@ This repository contains a list of references.
     - transformers
         - https://github.com/microsoft/torchscale
         - https://github.com/microsoft/unilm
+        - [xformers - Hackable and optimized Transformers building blocks, supporting a composable construction.](https://github.com/facebookresearch/xformers)
+    - reinforcement learning
+        - [PokemonRedExperiments - Playing Pokemon Red with Reinforcement Learning](https://github.com/PWhiddy/PokemonRedExperiments)
     - recommendation systems
         - https://github.com/recommenders-team/recommenders
     - code assistant
@@ -281,6 +287,7 @@ This repository contains a list of references.
         - https://github.com/e2b-dev/awesome-ai-agents
         - https://github.com/pengzhile/cocopilot
         - https://github.com/TabbyML/tabby
+        - [ChatGPT-AutoExper - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).](https://github.com/spdustin/ChatGPT-AutoExpert)
     - jvm
         - https://github.com/deeplearning4j/deeplearning4j
         - https://github.com/Angel-ML/angel
@@ -299,6 +306,7 @@ This repository contains a list of references.
     - https://github.com/pandas-dev/pandas
     - https://github.com/google/jax
     - https://github.com/dmlc/xgboost
+    - [🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.](https://github.com/huggingface/transformers)
 
     - https://github.com/facebookresearch
     - https://github.com/facebookresearch/audiocraft
@@ -342,6 +350,7 @@ This repository contains a list of references.
         - https://github.com/Avik-Jain/100-Days-Of-ML-Code
         - https://github.com/luban-agi/Awesome-AIGC-Tutorials
         - [Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
+        - [Machine Learning Engineering Guides and Tools](https://github.com/stas00/ml-engineering)
     - checklists
         - 
 - tools
@@ -626,6 +635,9 @@ This repository contains a list of references.
     - [Hackers' Guide to Language Models](https://github.com/fastai/lm-hackers)
     - [A tool for checking the security hardening options of the Linux kernel](https://github.com/a13xp0p0v/kernel-hardening-checker)
     - [MalwareSourceCode - Collection of malware source code for a variety of platforms in an array of different programming languages.](https://github.com/vxunderground/MalwareSourceCode)
+    - [deepdarkCTI - Collection of Cyber Threat Intelligence sources from the deep and dark web](https://github.com/fastfire/deepdarkCTI)
+    - [uAssets - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.](https://github.com/uBlockOrigin/uAssets)
+    - [pi-hole - A black hole for Internet advertisements](https://github.com/pi-hole/pi-hole)
     - awesome
         - https://github.com/enaqx/awesome-pentest
         - https://github.com/rshipp/awesome-malware-analysis
@@ -847,6 +859,10 @@ Also refer to [##System Design](#system-design).
     - [CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.](https://github.com/ckan/ckan)
 - seata
     - [🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution.](https://github.com/seata/seata)
+- ignite
+    - [Apache Ignite](https://github.com/apache/ignite)
+- clickhouse
+    - https://clickhouse.com/docs/en/concepts/why-clickhouse-is-so-fast
 - conferences
     - Academic conferences
     - [CIDR](https://www.cidrdb.org/)
@@ -908,6 +924,7 @@ Also refer to [##System Design](#system-design).
     - https://github.com/labuladong/fucking-algorithm
     - https://github.com/lnishan/awesome-competitive-programming
     - ["Hello Algorithm": animated illustrations, one-click data structure and algorithm tutorial, supports Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig and other languages.](https://github.com/krahets/hello-algo)
+    - [leetcode](https://github.com/doocs/leetcode)
 - misc
     - https://quera.org/course/assignments/2693/problems/8773
     - https://en.cppreference.com/w/cpp/types/integer
@@ -1242,6 +1259,9 @@ Also refer to [## Data](#data)
     - [valhalla - Open Source Routing Engine for OpenStreetMap](https://github.com/valhalla/valhalla)
     - [spdlog - Fast C++ logging library.](https://github.com/gabime/spdlog)
     - [qBittorrent - qBittorrent BitTorrent client](https://github.com/qbittorrent/qBittorrent)
+    - [Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.](https://github.com/hyprwm/Hyprland)
+    - [nekoray - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)](https://github.com/MatsuriDayo/nekoray)
+    - [yuzu - Nintendo Switch emulator](https://github.com/yuzu-emu/yuzu)
     - awesome
         - https://github.com/fffaraz/awesome-cpp
         - https://github.com/uhub/awesome-cpp
@@ -1348,6 +1368,11 @@ Also refer to [## Data](#data)
     - [Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.](https://github.com/harness/gitness)
     - [wails - Create beautiful applications using Go](https://github.com/wailsapp/wails)
     - [bitmagnet - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.](https://github.com/bitmagnet-io/bitmagnet)
+    - [Moby Project - a collaborative project for the container ecosystem to assemble container-based systems](https://github.com/moby/moby)
+    - [go-zero -A cloud-native Go microservices framework with cli tool for productivity.](https://github.com/zeromicro/go-zero)
+    - [pgx - PostgreSQL driver and toolkit for Go](https://github.com/jackc/pgx)
+    - [go-syslog - Blazing fast syslog parser](https://github.com/influxdata/go-syslog)
+    - [zap - Blazing fast, structured, leveled logging in Go.](https://github.com/uber-go/zap)
     - https://github.com/gothinkster/golang-gin-realworld-example-app
     - awesome
         - https://github.com/avelino/awesome-go
@@ -2101,6 +2126,8 @@ Also refer to [## Data](#data)
     - https://github.com/mfussenegger/nvim-dap
     - https://github.com/puremourning/vimspector
     - https://github.com/nvim-lua/kickstart.nvim
+    - [nvim-lint - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.](https://github.com/mfussenegger/nvim-lint)
+    - [LazyVim - Neovim config for the lazy](https://github.com/LazyVim/LazyVim)
     - awesome
         - https://github.com/mhinz/vim-galore
         - https://github.com/rockerBOO/awesome-neovim
@@ -2292,6 +2319,7 @@ Also refer to [## Data](#data)
     - https://github.com/github/glb-director
     - https://github.com/grafana/beyla
     - [curl - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features](https://github.com/curl/curl)
+    - [zfs - OpenZFS on Linux and FreeBSD](https://github.com/openzfs/zfs)
     - awesome
         - 
     - best practices
@@ -2443,6 +2471,7 @@ Also refer to [## Data](#data)
     - [ToolJet - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀](https://github.com/ToolJet/ToolJet)
     - [kestra - Infinitely scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.](https://github.com/kestra-io/kestra)
     - [homepage - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.](https://github.com/gethomepage/homepage)
+    - [pino - 🌲 super fast, all natural json logger](https://github.com/pinojs/pino)
     - awesome
         - 
     - best practices
@@ -2492,6 +2521,7 @@ Also refer to [## Data](#data)
         - 
     - tutorials
         - https://github.com/gibbok/typescript-book
+        - [notion-clone-tutorial](https://github.com/AntonioErdeljac/notion-clone-tutorial)
     - checklists
         - 
 - misc
@@ -2577,6 +2607,7 @@ Also refer to [## Data](#data)
 - https://www.startupschool.org/
 - https://www.producthunt.com/products/startup-101
 - https://twitter.com/Loc0m0/status/1654956853896544257
+- https://open.spotify.com/show/1tgqafxZAB0Bjd8nkwVtE4?si=w7Kh-rktTrWIvN6XSBU07g&nd=1
 - github
     - awesome
         - 
