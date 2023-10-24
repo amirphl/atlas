@@ -199,6 +199,14 @@ This repository contains a list of references.
         - [InternLM has open-sourced a 7 and 20 billion parameter base models and chat models tailored for practical scenarios and the training system.](https://github.com/InternLM/InternLM)
         - [superagent - 🥷 The open framework for building AI Assistants](https://github.com/homanp/superagent)
         - [ChatGPT-AutoExper - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).](https://github.com/spdustin/ChatGPT-AutoExpert)
+        - [MemGPT - Teaching LLMs memory management for unbounded context 📚🦙]
+        - [XAgent - An Autonomous LLM Agent for Complex Task Solving](https://github.com/OpenBMB/XAgent)
+        - [azure-search-openai-demo - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.](https://github.com/Azure-Samples/azure-search-openai-demo)
+        - [OpenAgents - OpenAgents: An Open Platform for Language Agents in the Wild](https://github.com/xlang-ai/OpenAgents)
+        - [Synapse_CoR](https://github.com/ProfSynapse/Synapse_CoR)
+        - [Eureka - Official Repository for "Eureka: Human-Level Reward Design via Coding Large Language Models"](https://github.com/eureka-research/Eureka)
+        - [NeuroGPT - Free ChatGPT 3.5 / ChatGPT 4 / Free OpenAI API](https://github.com/Em1tSan/NeuroGPT)
+        - [AgentTuning: Enabling Generalized Agent Abilities for LLMs](https://github.com/THUDM/AgentTuning)
     - LLAMA
         - https://github.com/facebookresearch/llama
         - https://github.com/karpathy/llama2.c
@@ -252,6 +260,9 @@ This repository contains a list of references.
         - [FreeU: Free Lunch in Diffusion U-Net](https://github.com/ChenyangSi/FreeU)
         - [Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.](https://github.com/facebookresearch/detectron2)
         - [Generative Gaussian Splatting for Efficient 3D Content Creation](https://github.com/dreamgaussian/dreamgaussian)
+        - [4D Gaussian Splatting for Real-Time Dynamic Scene Rendering](https://github.com/hustvl/4DGaussians)
+        - [TensorRT Extension for Stable Diffusion Web UI](https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT)
+        - [latent-consistency-model - Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference](https://github.com/luosiallen/latent-consistency-model)
     - audio
         - https://github.com/suno-ai/bark
         - https://github.com/openai/whisper
@@ -259,10 +270,15 @@ This repository contains a list of references.
         - https://github.com/CorentinJ/Real-Time-Voice-Cloning
         - [TTS - a deep learning toolkit for Text-to-Speech, battle-tested in research and production](https://github.com/coqui-ai/TTS)
         - [WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)](https://github.com/m-bain/whisperX)
+        - [espnet - End-to-End Speech Processing Toolkit](https://github.com/espnet/espnet)
+    - time series
+        - [Time-Series-Library - A Library for Advanced Deep Time Series Models.](https://github.com/thuml/Time-Series-Library)
     - transformers
         - https://github.com/microsoft/torchscale
         - https://github.com/microsoft/unilm
         - [xformers - Hackable and optimized Transformers building blocks, supporting a composable construction.](https://github.com/facebookresearch/xformers)
+    - gan
+        - [DragGAN - Official Code for DragGAN (SIGGRAPH 2023)](https://github.com/XingangPan/DragGAN)
     - reinforcement learning
         - [PokemonRedExperiments - Playing Pokemon Red with Reinforcement Learning](https://github.com/PWhiddy/PokemonRedExperiments)
     - recommendation systems
@@ -300,6 +316,7 @@ This repository contains a list of references.
         - https://github.com/huggingface/candle
         - https://github.com/jondot/awesome-rust-llm
         - https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning
+        - [text-embeddings-inference - A blazing fast inference solution for text embeddings models](https://github.com/huggingface/text-embeddings-inference)
 
     - https://github.com/pola-rs/polars
     - [tensorflow - An Open Source Machine Learning Framework for Everyone](https://github.com/tensorflow/tensorflow)
@@ -351,6 +368,7 @@ This repository contains a list of references.
         - https://github.com/luban-agi/Awesome-AIGC-Tutorials
         - [Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
         - [Machine Learning Engineering Guides and Tools](https://github.com/stas00/ml-engineering)
+        - [Data-Science-For-Beginners - 10 Weeks, 20 Lessons, Data Science for All!](https://github.com/microsoft/Data-Science-For-Beginners)
     - checklists
         - 
 - tools
@@ -391,7 +409,7 @@ This repository contains a list of references.
     - https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
     - [Stable Diffusion AI Deepfake](https://twitter.com/_akhaliq/status/1656291671061983233)
 - keywords
-    - courses: linear algebra, statistics and probability
+    - courses: linear algebra, statistics and probability, optimization, evolutionary algorithms, graph theory
     - libs: tensorflow, keras, pytorch, sklearn, scipy, numpy, pandas, matplotlib, seaborn, plotly, opencv, excel
     - regression, svm, decision tree, ensemble learning, classification, clustering, sequential models
     - deep learning, machine learning, data mining, data science, reinforcement learning, representation learning, disentanglement, pattern recogntion, large language models (llm), natural language processing (nlp), computer vision, image processing, statistical modeling, recommender systems, variational/adversarial/autoregressive models,  
@@ -771,6 +789,7 @@ Also refer to [##System Design](#system-design).
 - mssql
 - redis
     - https://github.com/redis/go-redis
+    - https://github.com/go-redis/redis_rate
 - cassandra
 - hadoop
     - https://hadoop.apache.org/
@@ -794,6 +813,8 @@ Also refer to [##System Design](#system-design).
     - https://github.com/semantalytics/awesome-kafka
     - https://github.com/monksy/awesome-kafka
     - https://github.com/dharmeshkakadia/awesome-kafka
+    - https://github.com/conduktor/kafka-stack-docker-compose
+    - https://github.com/confluentinc/confluent-kafka-go
 - rabbitmq
 - nsq
     - https://github.com/nsqio/nsq
@@ -1051,6 +1072,11 @@ Also refer to [## Data](#data)
     - [SOLID](https://en.wikipedia.org/wiki/SOLID)
     - [Conflict-free Replicated Data Type](https://crdt.tech/)
         - https://linear.app/
+    - rate limiting
+        - [Manage traffic and load for your workloads in Google Cloud](https://cloud.google.com/architecture/infra-reliability-guide/traffic-load)
+        - [Rate limits for GitHub Apps](https://docs.github.com/en/apps/creating-github-apps/registering-a-github-app/rate-limits-for-github-apps)
+        - [Twitter Rate limits](https://developer.twitter.com/en/docs/twitter-api/rate-limits)
+        - [Cloudflare Rate Limiting](https://developers.cloudflare.com/waf/reference/legacy/old-rate-limiting/)
 - github
     - https://github.com/Vonng/ddia
     - awesome
@@ -1087,6 +1113,8 @@ Also refer to [## Data](#data)
         - https://github.com/rShetty/awesome-distributed-systems
         - https://github.com/gojek/awesome-distributed-systems
         - https://github.com/roma-glushko/awesome-distributed-system-projects
+        - https://github.com/Jeevan-kumar-Raj/Grokking-System-Design
+        - https://github.com/ByteByteGoHq/system-design-101
         - https://github.com/ty4z2008/Qix
         - https://github.com/ripienaar/free-for-dev
         - https://github.com/pingcap/talent-plan
@@ -1098,6 +1126,7 @@ Also refer to [## Data](#data)
         - https://github.com/GDGAhmedabad/Awesome-Learning-Resources
         - https://github.com/guanpengchn/awesome-books
         - https://github.com/freeCodeCamp/freeCodeCamp
+        - https://github.com/ZachGoldberg/Startup-CTO-Handbook
         - [Categorized overview of programming principles & design patterns](https://github.com/webpro/programming-principles)
         - [OOP Design Patterns Code Examples](https://github.com/kiat/OOP-Design-Patterns)
         - low level
@@ -1373,6 +1402,7 @@ Also refer to [## Data](#data)
     - [pgx - PostgreSQL driver and toolkit for Go](https://github.com/jackc/pgx)
     - [go-syslog - Blazing fast syslog parser](https://github.com/influxdata/go-syslog)
     - [zap - Blazing fast, structured, leveled logging in Go.](https://github.com/uber-go/zap)
+    - [syncthing - Open Source Continuous File Synchronization](https://github.com/syncthing/syncthing)
     - https://github.com/gothinkster/golang-gin-realworld-example-app
     - awesome
         - https://github.com/avelino/awesome-go
@@ -1625,6 +1655,7 @@ Also refer to [## Data](#data)
     - https://github.com/Grasscutters/Grasscutter
     - https://github.com/platypusguy/jacobin
     - https://github.com/NationalSecurityAgency/ghidra
+    - [dbeaver - Free universal database tool and SQL client](https://github.com/dbeaver/dbeaver)
     - collections
         - [All Algorithms implemented in Java](https://github.com/TheAlgorithms/Java)
         - [Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.](https://github.com/eclipse/eclipse-collections)
@@ -2291,6 +2322,8 @@ Also refer to [## Data](#data)
 - https://github.com/alexpate/awesome-design-systems
 - https://github.com/davidsonfellipe/awesome-wpo
 - https://github.com/coder2gwy/coder2gwy
+- [RemoveAdblockThing - Removes The "Ad blocker are not allowed on Youtube"](https://github.com/TheRealJoelmatic/RemoveAdblockThing)
+- [fadblock - Friendly Adblock for YouTube: A fast, lightweight, and undetectable YouTube Ads Blocker for Chrome, Opera and Firefox.](https://github.com/0x48piraj/fadblock)
 
 
 ## Github Best Practices
@@ -2320,6 +2353,7 @@ Also refer to [## Data](#data)
     - https://github.com/grafana/beyla
     - [curl - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features](https://github.com/curl/curl)
     - [zfs - OpenZFS on Linux and FreeBSD](https://github.com/openzfs/zfs)
+    - [lvgl - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.](https://github.com/lvgl/lvgl)
     - awesome
         - 
     - best practices
@@ -2454,6 +2488,7 @@ Also refer to [## Data](#data)
 - https://www.udemy.com/course/the-complete-javascript-course/
 - https://krausest.github.io/js-framework-benchmark/current.html
 - github
+    - [node - Node.js JavaScript runtime ✨🐢🚀✨](https://github.com/nodejs/node)
     - [Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.](https://github.com/TheAlgorithms/JavaScript)
     - [next.js - The React Framework](https://github.com/vercel/next.js)
     - https://github.com/trekhleb/javascript-algorithms
@@ -2472,6 +2507,7 @@ Also refer to [## Data](#data)
     - [kestra - Infinitely scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.](https://github.com/kestra-io/kestra)
     - [homepage - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.](https://github.com/gethomepage/homepage)
     - [pino - 🌲 super fast, all natural json logger](https://github.com/pinojs/pino)
+    - [FreeTube - An Open Source YouTube app for privacy](https://github.com/FreeTubeApp/FreeTube)
     - awesome
         - 
     - best practices
@@ -2488,6 +2524,7 @@ Also refer to [## Data](#data)
 ## TypeScript
 - github
     - https://github.com/nestjs/nest
+    - [vue - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core](https://github.com/vuejs/vue)
     - https://github.com/dotenv-org/dotenv-vault
     - https://github.com/owncast/owncast
     - [nextui - Beautiful, fast and modern React UI library.](https://github.com/nextui-org/nextui)
@@ -2513,6 +2550,8 @@ Also refer to [## Data](#data)
     - [beautiful react hooks - A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development](https://github.com/antonioru/beautiful-react-hooks)
     - [hyperdx - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors.](https://github.com/hyperdxio/hyperdx)
     - [appwrite - https://github.com/appwrite/appwrite](https://github.com/appwrite/appwrite)
+    - [create-t3-app - The best way to start a full-stack, typesafe Next.js app](https://github.com/t3-oss/create-t3-app)
+    - [ionic-framework - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.](https://github.com/ionic-team/ionic-framework)
     - awesome
         - 
     - best practices
