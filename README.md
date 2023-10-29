@@ -134,11 +134,13 @@ This repository contains a list of references.
     - https://github.com/openai/openai-cookbook
     - [Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.](https://github.com/openai/evals)
     - [openai-python - The official Python library for the OpenAI API](https://github.com/openai/openai-python)
+    - [openapi-devtools - Effortlessly discover API behaviour with a Chrome extension that automatically generates OpenAPI specifications in real time for any app or website](https://github.com/AndrewWalsh/openapi-devtools)
     - https://github.com/easezyc/deep-transfer-learning
     - llm
         - https://github.com/RUCAIBox/LLMSurvey
         - https://github.com/hwchase17/langchain
         - [langchain - Building applications with LLMs through composability](https://github.com/langchain-ai/langchain)
+        - [gpt4all: open-source LLM chatbots that you can run anywhere](https://github.com/nomic-ai/gpt4all)
         - https://github.com/chatchat-space/Langchain-Chatchat
         - https://github.com/Sentdex/ChatGPT-at-Home
         - https://github.com/Torantulino/Auto-GPT
@@ -207,6 +209,8 @@ This repository contains a list of references.
         - [Eureka - Official Repository for "Eureka: Human-Level Reward Design via Coding Large Language Models"](https://github.com/eureka-research/Eureka)
         - [NeuroGPT - Free ChatGPT 3.5 / ChatGPT 4 / Free OpenAI API](https://github.com/Em1tSan/NeuroGPT)
         - [AgentTuning: Enabling Generalized Agent Abilities for LLMs](https://github.com/THUDM/AgentTuning)
+        - [ChatGLM3 series: Open Bilingual Chat LLMs](https://github.com/THUDM/ChatGLM3)
+        - [alignment-handbook - Robust recipes for to align language models with human and AI preferences](https://github.com/huggingface/alignment-handbook)
     - LLAMA
         - https://github.com/facebookresearch/llama
         - https://github.com/karpathy/llama2.c
@@ -221,6 +225,7 @@ This repository contains a list of references.
         - https://github.com/jzhang38/TinyLlama
         - https://github.com/baichuan-inc/Baichuan2
         - https://github.com/run-llama/sec-insights
+        - [llama-recipes - Examples and recipes for Llama 2 model](https://github.com/facebookresearch/llama-recipes)
     - multimodal
         - [LLaVA - Visual Instruction Tuning: Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.](https://github.com/haotian-liu/LLaVA)
         - [CogVLM - a state-of-the-art-level open visual language model](https://github.com/THUDM/CogVLM)
@@ -263,6 +268,8 @@ This repository contains a list of references.
         - [4D Gaussian Splatting for Real-Time Dynamic Scene Rendering](https://github.com/hustvl/4DGaussians)
         - [TensorRT Extension for Stable Diffusion Web UI](https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT)
         - [latent-consistency-model - Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference](https://github.com/luosiallen/latent-consistency-model)
+        - [Wonder3D - A cross-domain diffusion model for 3D reconstruction from a single image](https://github.com/xxlong0/Wonder3D)
+        - [DreamCraft3D - Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior](https://github.com/deepseek-ai/DreamCraft3D)
     - audio
         - https://github.com/suno-ai/bark
         - https://github.com/openai/whisper
@@ -289,6 +296,7 @@ This repository contains a list of references.
         - amazon codewhisperer
         - codium
         - chatwithgit plugin
+        - https://app.getonboardai.com/
         - https://github.com/BloopAI/bloop
         - https://github.com/sweepai/sweep
         - https://github.com/domvwt/chatgpt-code-review
@@ -303,7 +311,9 @@ This repository contains a list of references.
         - https://github.com/e2b-dev/awesome-ai-agents
         - https://github.com/pengzhile/cocopilot
         - https://github.com/TabbyML/tabby
+        - [SolidGPT - Chat everything with your code repository, ask repository level code questions, and discuss your requirements. AI Scan and learning your code repository, provide you code repository level answer🧱 🧱](https://github.com/AI-Citizen/SolidGPT)
         - [ChatGPT-AutoExper - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).](https://github.com/spdustin/ChatGPT-AutoExpert)
+        - [react-agent - The open-source React.js Autonomous LLM Agent](https://github.com/eylonmiz/react-agent)
     - jvm
         - https://github.com/deeplearning4j/deeplearning4j
         - https://github.com/Angel-ML/angel
@@ -349,6 +359,7 @@ This repository contains a list of references.
     - [datalens - A modern, scalable analytics system](https://github.com/datalens-tech/datalens)
     - [mlflow - Open source platform for the machine learning lifecycle](https://github.com/mlflow/mlflow)
     - [ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator](https://github.com/microsoft/onnxruntime)
+    - [deepsparse - Sparsity-aware deep learning inference runtime for CPUs](https://github.com/neuralmagic/deepsparse)
 
     - awesome
         - https://github.com/Hannibal046/Awesome-LLM
@@ -656,6 +667,9 @@ This repository contains a list of references.
     - [deepdarkCTI - Collection of Cyber Threat Intelligence sources from the deep and dark web](https://github.com/fastfire/deepdarkCTI)
     - [uAssets - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.](https://github.com/uBlockOrigin/uAssets)
     - [pi-hole - A black hole for Internet advertisements](https://github.com/pi-hole/pi-hole)
+    - [frida - Clone this repo to build Frida](https://github.com/frida/frida)
+    - [cve - Gather and update all available and newest CVEs with their PoC.](https://github.com/trickest/cve)
+    - [RsaCtfTool - RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data](https://github.com/RsaCtfTool/RsaCtfTool)
     - awesome
         - https://github.com/enaqx/awesome-pentest
         - https://github.com/rshipp/awesome-malware-analysis
@@ -946,6 +960,7 @@ Also refer to [##System Design](#system-design).
     - https://github.com/lnishan/awesome-competitive-programming
     - ["Hello Algorithm": animated illustrations, one-click data structure and algorithm tutorial, supports Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig and other languages.](https://github.com/krahets/hello-algo)
     - [leetcode](https://github.com/doocs/leetcode)
+    - https://github.com/ashishps1/awesome-leetcode-resources
 - misc
     - https://quera.org/course/assignments/2693/problems/8773
     - https://en.cppreference.com/w/cpp/types/integer
@@ -1248,6 +1263,7 @@ Also refer to [## Data](#data)
     - relocate.me
     - nomad visa
     - https://www.levels.fyi/?compare=Google,Facebook,Microsoft&track=Software%20Engineer
+    - https://www.iamexpat.nl/expat-info/dutch-expat-news/dutch-mps-vote-limit-30-percent-ruling-2024
 
 
 ## CPP
@@ -1291,6 +1307,7 @@ Also refer to [## Data](#data)
     - [Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.](https://github.com/hyprwm/Hyprland)
     - [nekoray - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)](https://github.com/MatsuriDayo/nekoray)
     - [yuzu - Nintendo Switch emulator](https://github.com/yuzu-emu/yuzu)
+    - [re3](https://github.com/halpz/re3)
     - awesome
         - https://github.com/fffaraz/awesome-cpp
         - https://github.com/uhub/awesome-cpp
@@ -1403,6 +1420,7 @@ Also refer to [## Data](#data)
     - [go-syslog - Blazing fast syslog parser](https://github.com/influxdata/go-syslog)
     - [zap - Blazing fast, structured, leveled logging in Go.](https://github.com/uber-go/zap)
     - [syncthing - Open Source Continuous File Synchronization](https://github.com/syncthing/syncthing)
+    - [incubator-answer - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Answer.](https://github.com/apache/incubator-answer)
     - https://github.com/gothinkster/golang-gin-realworld-example-app
     - awesome
         - https://github.com/avelino/awesome-go
@@ -1680,6 +1698,7 @@ Also refer to [## Data](#data)
     - [Utilities for use with RxJava 2](https://github.com/davidmoten/rxjava2-extras)
     - [bindiff - Quickly find differences and similarities in disassembled code](https://github.com/google/bindiff)
     - [JVector: the most advanced embedded vector search engine](https://github.com/jbellis/jvector)
+    - [Chat2DB - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.](https://github.com/chat2db/Chat2DB)
     - awesome
         - also refer to ## Data
         - java
@@ -1819,6 +1838,7 @@ Also refer to [## Data](#data)
         - https://github.com/tiangolo
     - https://github.com/python-mode/python-mode
     - https://github.com/TheAlgorithms/Python
+    - [black - The uncompromising Python code formatter](https://github.com/psf/black)
     - https://github.com/sanic-org/sanic
         - https://sanic.dev/en/guide/getting-started.html
     - https://github.com/dask/dask
@@ -2104,6 +2124,7 @@ Also refer to [## Data](#data)
     - https://github.com/aws/aws-sam-cli
     - [در ایران AWS ده روش یادگیری](https://www.youtube.com/watch?v=WXwZ33Ntss8)
 - azure
+    - https://learn.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-patterns
 - google cloud platform (gcp)
 - github
     - awesome
@@ -2187,7 +2208,7 @@ Also refer to [## Data](#data)
 
 
 ## Testing
-- unit testing, integration testing, E2E testing, A/B testing, acceptance testing
+- smoke testing, functional testing, unit testing, integration testing, regression testing, load testing, stress testing, security testing, ui testing, fuzz testing, E2E testing, A/B testing, acceptance testing
 
 
 ## Video Conferencing Stack
@@ -2324,6 +2345,7 @@ Also refer to [## Data](#data)
 - https://github.com/coder2gwy/coder2gwy
 - [RemoveAdblockThing - Removes The "Ad blocker are not allowed on Youtube"](https://github.com/TheRealJoelmatic/RemoveAdblockThing)
 - [fadblock - Friendly Adblock for YouTube: A fast, lightweight, and undetectable YouTube Ads Blocker for Chrome, Opera and Firefox.](https://github.com/0x48piraj/fadblock)
+- [computer-science - 🎓 Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 
 
 ## Github Best Practices
@@ -2354,6 +2376,7 @@ Also refer to [## Data](#data)
     - [curl - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features](https://github.com/curl/curl)
     - [zfs - OpenZFS on Linux and FreeBSD](https://github.com/openzfs/zfs)
     - [lvgl - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.](https://github.com/lvgl/lvgl)
+    - [obs-studio - OBS Studio - Free and open source software for live streaming and screen recording]
     - awesome
         - 
     - best practices
@@ -2441,6 +2464,7 @@ Also refer to [## Data](#data)
     - [Hurl, run and test HTTP requests with plain text.](https://github.com/Orange-OpenSource/hurl)
     - [Source code of Ferrocene, safety-critical Rust toolchain](https://github.com/ferrocene/ferrocene)
     - [rerun - Visualize streams of multimodal data. Fast, easy to use, and simple to integrate. Built in Rust using egui.](https://github.com/rerun-io/rerun)
+    - [helix - A post-modern modal text editor.](https://github.com/helix-editor/helix)
     - awesome
         - https://github.com/rust-unofficial/awesome-rust
         - https://github.com/rustlang-cn/rusty-book
@@ -2552,6 +2576,10 @@ Also refer to [## Data](#data)
     - [appwrite - https://github.com/appwrite/appwrite](https://github.com/appwrite/appwrite)
     - [create-t3-app - The best way to start a full-stack, typesafe Next.js app](https://github.com/t3-oss/create-t3-app)
     - [ionic-framework - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.](https://github.com/ionic-team/ionic-framework)
+    - [prisma - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB](https://github.com/prisma/prisma)
+    - [drizzle-orm - TypeScript ORM that feels like writing SQL.](https://github.com/drizzle-team/drizzle-orm)
+    - [fluentui - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.](https://github.com/microsoft/fluentui)
+    - [leerob.io - ✨ My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.](https://github.com/leerob/leerob.io)
     - awesome
         - 
     - best practices
@@ -2561,6 +2589,7 @@ Also refer to [## Data](#data)
     - tutorials
         - https://github.com/gibbok/typescript-book
         - [notion-clone-tutorial](https://github.com/AntonioErdeljac/notion-clone-tutorial)
+        - [next-learn - Learn Next.js Starter Code](https://github.com/vercel/next-learn)
     - checklists
         - 
 - misc
