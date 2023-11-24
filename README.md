@@ -135,6 +135,10 @@ This repository contains a list of references.
     - [Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.](https://github.com/openai/evals)
     - [openai-python - The official Python library for the OpenAI API](https://github.com/openai/openai-python)
     - [openapi-devtools - Effortlessly discover API behaviour with a Chrome extension that automatically generates OpenAPI specifications in real time for any app or website](https://github.com/AndrewWalsh/openapi-devtools)
+    - [go-openai - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go](https://github.com/sashabaranov/go-openai)
+    - [instructor - openai function calls for humans](https://github.com/jxnl/instructor)
+    - [oapi-codegen - Generate Go client and server boilerplate from OpenAPI 3 specifications](https://github.com/deepmap/oapi-codegen)
+    - [openai-java - OpenAI Api Client in Java](https://github.com/TheoKanning/openai-java)
     - https://github.com/easezyc/deep-transfer-learning
     - llm
         - https://github.com/RUCAIBox/LLMSurvey
@@ -211,6 +215,25 @@ This repository contains a list of references.
         - [AgentTuning: Enabling Generalized Agent Abilities for LLMs](https://github.com/THUDM/AgentTuning)
         - [ChatGLM3 series: Open Bilingual Chat LLMs](https://github.com/THUDM/ChatGLM3)
         - [alignment-handbook - Robust recipes for to align language models with human and AI preferences](https://github.com/huggingface/alignment-handbook)
+        - [Yi - A series of large language models trained from scratch by developers @01-ai](https://github.com/01-ai/Yi)
+        - [openchat - OpenChat: Advancing Open-source Language Models with Imperfect Data](https://github.com/imoneoi/openchat)
+        - [opengpts](https://github.com/langchain-ai/opengpts)
+        - [gpt4free - The official gpt4free repository | various collection of powerful language models](https://github.com/xtekky/gpt4free)
+        - [ChatGPT_Custom_Instructions - Repo of custom instructions that you can use for ChatGPT](https://github.com/daveshap/ChatGPT_Custom_Instructions)
+        - [OpenAI_Agent_Swarm - HAAS = Hierarchical Autonomous Agent Swarm - "Resistance is futile!"](https://github.com/daveshap/OpenAI_Agent_Swarm)
+        - [vimGPT - Browse the web with GPT-4V and Vimium](https://github.com/ishan0102/vimGPT)
+        - [lobe-chat - 🤖 Lobe Chat - an open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.](https://github.com/lobehub/lobe-chat)
+        - [Mr.-Ranedeer-AI-Tutor - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)
+        - [ChuanhuChatGPT - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
+        - [hallucination-leaderboard - Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents](https://github.com/vectara/hallucination-leaderboard)
+        - [multi-agent-postgres-data-analytics - The way we interact with our data is changing.](https://github.com/disler/multi-agent-postgres-data-analytics)
+        - [TensorRT-LLM - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.](https://github.com/NVIDIA/TensorRT-LLM)
+        - [awesome-gpts - Collection of all the GPTs created by the community](https://github.com/taranjeet/awesome-gpts)
+        - [Awesome-GPT-Store - A collection of major GPTS available in public](https://github.com/Anil-matcha/Awesome-GPT-Store)
+        - [Awesome-GPTs - Curated list of awesome GPTs 👍.](https://github.com/ai-boost/Awesome-GPTs)
+        - [gpt-crawler - Crawl a site to generate knowledge files to create your own custom GPT from a URL](https://github.com/BuilderIO/gpt-crawler)
+        - [SillyTavern - LLM Frontend for Power Users.](https://github.com/SillyTavern/SillyTavern)
+        - [rags](https://github.com/run-llama/rags)
     - LLAMA
         - https://github.com/facebookresearch/llama
         - https://github.com/karpathy/llama2.c
@@ -226,6 +249,7 @@ This repository contains a list of references.
         - https://github.com/baichuan-inc/Baichuan2
         - https://github.com/run-llama/sec-insights
         - [llama-recipes - Examples and recipes for Llama 2 model](https://github.com/facebookresearch/llama-recipes)
+        - [create_llama_projects](https://github.com/jerryjliu/create_llama_projects)
     - multimodal
         - [LLaVA - Visual Instruction Tuning: Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.](https://github.com/haotian-liu/LLaVA)
         - [CogVLM - a state-of-the-art-level open visual language model](https://github.com/THUDM/CogVLM)
@@ -270,6 +294,15 @@ This repository contains a list of references.
         - [latent-consistency-model - Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference](https://github.com/luosiallen/latent-consistency-model)
         - [Wonder3D - A cross-domain diffusion model for 3D reconstruction from a single image](https://github.com/xxlong0/Wonder3D)
         - [DreamCraft3D - Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior](https://github.com/deepseek-ai/DreamCraft3D)
+        - [VideoCrafter1: Open Diffusion Models for High-Quality Video Generation](https://github.com/AILab-CVC/VideoCrafter)
+        - [libvips - A fast image processing library with low memory needs.](https://github.com/libvips/libvips)
+        - [pix2tex: Using a ViT to convert images of equations into LaTeX code.](https://github.com/lukas-blecher/LaTeX-OCR)
+        - [consistencydecoder - Consistency Distilled Diff VAE](https://github.com/openai/consistencydecoder)
+        - [super-gradients - Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.](https://github.com/Deci-AI/super-gradients)
+        - [frigate - NVR with realtime local object detection for IP cameras](https://github.com/blakeblackshear/frigate)
+        - [flowty-realtime-lcm-canvas - A realtime sketch to image demo using LCM and the gradio library.](https://github.com/flowtyone/flowty-realtime-lcm-canvas)
+        - [krita-ai-diffusion - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.](https://github.com/Acly/krita-ai-diffusion)
+        - [Video-LLaVA - Video-LLaVA: Learning United Visual Representation by Alignment Before Projection](https://github.com/PKU-YuanGroup/Video-LLaVA)
     - audio
         - https://github.com/suno-ai/bark
         - https://github.com/openai/whisper
@@ -278,6 +311,12 @@ This repository contains a list of references.
         - [TTS - a deep learning toolkit for Text-to-Speech, battle-tested in research and production](https://github.com/coqui-ai/TTS)
         - [WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)](https://github.com/m-bain/whisperX)
         - [espnet - End-to-End Speech Processing Toolkit](https://github.com/espnet/espnet)
+        - [EmotiVoice - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine](https://github.com/netease-youdao/EmotiVoice)
+        - [Whisper - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model](https://github.com/Const-me/Whisper)
+            - https://huggingface.co/ggerganov/whisper.cpp/tree/main
+        - [AudioSep - Official implementation of "Separate Anything You Describe"](https://github.com/Audio-AGI/AudioSep)
+    - text to text
+        - [pyvideotrans - Translate the video from one language to another and add dubbing.](https://github.com/jianchang512/pyvideotrans)
     - time series
         - [Time-Series-Library - A Library for Advanced Deep Time Series Models.](https://github.com/thuml/Time-Series-Library)
     - transformers
@@ -314,6 +353,12 @@ This repository contains a list of references.
         - [SolidGPT - Chat everything with your code repository, ask repository level code questions, and discuss your requirements. AI Scan and learning your code repository, provide you code repository level answer🧱 🧱](https://github.com/AI-Citizen/SolidGPT)
         - [ChatGPT-AutoExper - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).](https://github.com/spdustin/ChatGPT-AutoExpert)
         - [react-agent - The open-source React.js Autonomous LLM Agent](https://github.com/eylonmiz/react-agent)
+        - [TabNine - AI Code Completions](https://github.com/codota/TabNine)
+        - [DeepSeek Coder: Let the Code Write Itself](https://github.com/deepseek-ai/DeepSeek-Coder)
+        - [aider - aider is AI pair programming in your terminal](https://github.com/paul-gauthier/aider)
+        - [draw-a-ui - Draw a mockup and generate html for it](https://github.com/SawyerHood/draw-a-ui)
+        - [screenshot-to-code - Drop in a screenshot and convert it to clean HTML/Tailwind/JS code](https://github.com/abi/screenshot-to-code)
+        - [Screenshot-to-code - A neural network that transforms a design mock-up into a static website.](https://github.com/emilwallner/Screenshot-to-code)
     - jvm
         - https://github.com/deeplearning4j/deeplearning4j
         - https://github.com/Angel-ML/angel
@@ -327,6 +372,7 @@ This repository contains a list of references.
         - https://github.com/jondot/awesome-rust-llm
         - https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning
         - [text-embeddings-inference - A blazing fast inference solution for text embeddings models](https://github.com/huggingface/text-embeddings-inference)
+        - [Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/](https://github.com/qdrant/qdrant)
 
     - https://github.com/pola-rs/polars
     - [tensorflow - An Open Source Machine Learning Framework for Everyone](https://github.com/tensorflow/tensorflow)
@@ -360,6 +406,9 @@ This repository contains a list of references.
     - [mlflow - Open source platform for the machine learning lifecycle](https://github.com/mlflow/mlflow)
     - [ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator](https://github.com/microsoft/onnxruntime)
     - [deepsparse - Sparsity-aware deep learning inference runtime for CPUs](https://github.com/neuralmagic/deepsparse)
+    - [segment-anything-fast - A batched offline inference oriented version of segment-anything](https://github.com/pytorch-labs/segment-anything-fast)
+    - [FriendsDontLetFriends - Friends don't let friends make certain types of data visualization - What are they and why are they bad.](https://github.com/cxli233/FriendsDontLetFriends)
+    - [awesome-3D-gaussian-splatting - Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.](https://github.com/MrNeRF/awesome-3D-gaussian-splatting)
 
     - awesome
         - https://github.com/Hannibal046/Awesome-LLM
@@ -370,6 +419,8 @@ This repository contains a list of references.
         - [The-Grand-Complete-Data-Science-Materials](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials)
         - [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
         - [tuning_playbook - A playbook for systematically maximizing the performance of deep learning models.](https://github.com/google-research/tuning_playbook)
+        - [Prompt-Engineering-Guide - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
+        - [A topic-centric list of HQ open datasets.](https://github.com/awesomedata/awesome-public-datasets)
     - best practices
         - 
     - cheatsheets
@@ -380,6 +431,9 @@ This repository contains a list of references.
         - [Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
         - [Machine Learning Engineering Guides and Tools](https://github.com/stas00/ml-engineering)
         - [Data-Science-For-Beginners - 10 Weeks, 20 Lessons, Data Science for All!](https://github.com/microsoft/Data-Science-For-Beginners)
+        - [generative-ai-for-beginners - 12 Lessons, Get Started Building with Generative AI](https://github.com/microsoft/generative-ai-for-beginners)
+        - [AI-For-Beginners - 12 Weeks, 24 Lessons, AI for All!](https://github.com/microsoft/AI-For-Beginners)
+        - [DeepLearningSystem - Deep Learning System core principles introduction.](https://github.com/chenzomi12/DeepLearningSystem)
     - checklists
         - 
 - tools
@@ -570,6 +624,8 @@ This repository contains a list of references.
     - https://github.com/taikoxyz/taiko-mono
     - https://github.com/paritytech/polkadot-sdk
     - https://github.com/ton-blockchain
+    - [Solidity, the Smart Contract Programming Language](https://github.com/ethereum/solidity)
+    - [LayerZero - An Omnichain Interoperability Protocol](https://github.com/LayerZero-Labs/LayerZero)
     - finance and algo trading
         - https://github.com/firmai/financial-machine-learning
         - https://github.com/edarchimbaud/awesome-systematic-trading
@@ -598,6 +654,7 @@ This repository contains a list of references.
         - https://github.com/Xel/Blockchain-stuff
         - https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line
         - https://github.com/liuchengxu/blockchain-tutorial
+        - [solidity-examples](https://github.com/LayerZero-Labs/solidity-examples)
     - checklists
         - 
 - misc
@@ -670,6 +727,11 @@ This repository contains a list of references.
     - [frida - Clone this repo to build Frida](https://github.com/frida/frida)
     - [cve - Gather and update all available and newest CVEs with their PoC.](https://github.com/trickest/cve)
     - [RsaCtfTool - RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data](https://github.com/RsaCtfTool/RsaCtfTool)
+    - [legba - A multiprotocol credentials bruteforcer / password sprayer and enumerator.](https://github.com/evilsocket/legba)
+    - [Ciphey - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡](https://github.com/Ciphey/Ciphey)
+    - [tink - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.](https://github.com/google/tink)
+    - [ai-exploits - A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities](https://github.com/protectai/ai-exploits)
+    - [InfoSec-Black-Friday - All the deals for InfoSec related software/tools this Black Friday](https://github.com/0x90n/InfoSec-Black-Friday)
     - awesome
         - https://github.com/enaqx/awesome-pentest
         - https://github.com/rshipp/awesome-malware-analysis
@@ -680,6 +742,7 @@ This repository contains a list of references.
         - https://github.com/s0md3v/AwesomeXSS
         - https://github.com/decalage2/awesome-security-hardening
         - https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks
+        - [Awesome-GPT-Agents - A curated list of GPT agents for cybersecurity](https://github.com/fr0gger/Awesome-GPT-Agents)
     - best practices
         - https://github.com/OWASP/wstg
     - cheatsheets
@@ -688,6 +751,7 @@ This repository contains a list of references.
     - tutorials
         - https://github.com/jassics/security-study-plan
         - https://github.com/rodolfomarianocy/OSCP-Tricks-2023
+        - [90DaysOfCyberSecurity - This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
     - checklists
         - https://github.com/shieldfy/API-Security-Checklist
         - https://github.com/Lissy93/personal-security-checklist
@@ -736,6 +800,7 @@ Also refer to [##System Design](#system-design).
 - https://www.cs.cornell.edu/ken/
 - spark
     - also refer to ## AI
+    - pyspark
     - https://github.com/apache/spark
     - https://github.com/yahoo/TensorFlowOnSpark
     - https://github.com/spark-notebook/spark-notebook
@@ -755,6 +820,7 @@ Also refer to [##System Design](#system-design).
     - youtube
         - [Intro to Database Systems (Fall 2021)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjZaHA6QcxDfJ0SIWBzQFKEG)
         - [Advanced Database Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
+        - [CMU Intro to Database Systems (15-445/645 - Fall 2023)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g)
         - [Vaccination Database Tech Talks - First Dose (2021)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbeqnfuvp30VrI7VXiFuOXS)
         - [Vaccination Database Tech Talks - Second Dose (2021)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbDOFN4U4-Uv95-N8sgzs5D)
         - [Crunchy Data](https://www.youtube.com/@CrunchyDataPostgres?app=desktop)
@@ -804,7 +870,11 @@ Also refer to [##System Design](#system-design).
 - redis
     - https://github.com/redis/go-redis
     - https://github.com/go-redis/redis_rate
+- dragonfly
+    - https://github.com/dragonflydb/dragonfly
 - cassandra
+- scylladb
+    - https://github.com/scylladb/scylladb
 - hadoop
     - https://hadoop.apache.org/
     - https://www.hadoopbook.com/
@@ -838,6 +908,8 @@ Also refer to [##System Design](#system-design).
     - https://github.com/mongodb/mongo-java-driver
 - elastic search
     - ELK stack for logging and monitoring
+- typesense
+    - https://github.com/typesense/typesense
 - manticoresearch
     - https://github.com/manticoresoftware/manticoresearch
 - leveldb
@@ -846,6 +918,8 @@ Also refer to [##System Design](#system-design).
 - cosmosdb
 - dynamodb indexing vs cosmosdb indexing
 - influxdb
+- questdb
+    - https://github.com/questdb/questdb
 - apache airflow
 - apache ranger
 - neo4j
@@ -960,6 +1034,8 @@ Also refer to [##System Design](#system-design).
     - https://github.com/lnishan/awesome-competitive-programming
     - ["Hello Algorithm": animated illustrations, one-click data structure and algorithm tutorial, supports Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig and other languages.](https://github.com/krahets/hello-algo)
     - [leetcode](https://github.com/doocs/leetcode)
+    - [LeetCode Solutions: A Record of My Problem Solving Journey.](https://github.com/azl397985856/leetcode)
+    - [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
     - https://github.com/ashishps1/awesome-leetcode-resources
 - misc
     - https://quera.org/course/assignments/2693/problems/8773
@@ -1047,6 +1123,7 @@ Also refer to [## Data](#data)
         - https://microservices.io/patterns/data/saga.html
         - https://microservices.io/patterns/data/transactional-outbox.html
     - 12 factor app
+        - https://12factor.net/
     - algoexpert, systemexpert
     - https://www.tryexponent.com/
         - https://www.tryexponent.com/questions
@@ -1092,6 +1169,7 @@ Also refer to [## Data](#data)
         - [Rate limits for GitHub Apps](https://docs.github.com/en/apps/creating-github-apps/registering-a-github-app/rate-limits-for-github-apps)
         - [Twitter Rate limits](https://developer.twitter.com/en/docs/twitter-api/rate-limits)
         - [Cloudflare Rate Limiting](https://developers.cloudflare.com/waf/reference/legacy/old-rate-limiting/)
+    - https://martinfowler.com/articles/patterns-of-distributed-systems/
 - github
     - https://github.com/Vonng/ddia
     - awesome
@@ -1142,8 +1220,10 @@ Also refer to [## Data](#data)
         - https://github.com/guanpengchn/awesome-books
         - https://github.com/freeCodeCamp/freeCodeCamp
         - https://github.com/ZachGoldberg/Startup-CTO-Handbook
+        - https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation
         - [Categorized overview of programming principles & design patterns](https://github.com/webpro/programming-principles)
         - [OOP Design Patterns Code Examples](https://github.com/kiat/OOP-Design-Patterns)
+        - [data-engineer-handbook - This is a repo with links to everything you'd ever want to learn about data engineering](https://github.com/DataEngineer-io/data-engineer-handbook)
         - low level
             - https://github.com/kousiknath/LowLevelDesign
             - https://github.com/prasadgujar/low-level-design-primer
@@ -1308,6 +1388,28 @@ Also refer to [## Data](#data)
     - [nekoray - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)](https://github.com/MatsuriDayo/nekoray)
     - [yuzu - Nintendo Switch emulator](https://github.com/yuzu-emu/yuzu)
     - [re3](https://github.com/halpz/re3)
+    - [Cataclysm-DDA - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.](https://github.com/CleverRaven/Cataclysm-DDA)
+    - [x64dbg - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.](https://github.com/x64dbg/x64dbg)
+    - [calculator - Windows Calculator: A simple yet powerful calculator that ships with Windows](https://github.com/microsoft/calculator)
+    - [C-Plus-Plus - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.](https://github.com/TheAlgorithms/C-Plus-Plus)
+    - [vcpkg - C++ Library Manager for Windows, Linux, and MacOS](https://github.com/microsoft/vcpkg)
+    - [Qv2ray - ⭐ Linux / Windows / macOS cross-platform V2Ray client | Supports VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | Developed using C++ / Qt | Extensible plug-in design⭐](https://github.com/Qv2ray/Qv2ray)
+    - [BackgroundMusic - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.](https://github.com/kyleneideck/BackgroundMusic)
+    - [TinyWebServer - 🔥 C++ lightweight WebServer server under Linux](https://github.com/qinguoyi/TinyWebServer)
+    - [polybar - A fast and easy-to-use status bar](https://github.com/polybar/polybar)
+    - [OpenRCT2 - An open source re-implementation of RollerCoaster Tycoon 2 🎢](https://github.com/OpenRCT2/OpenRCT2)
+    - [openage - Free (as in freedom) open source clone of the Age of Empires II engine 🚀](https://github.com/SFTtech/openage)
+    - [Sourcetrail - free and open-source interactive source explorer](https://github.com/CoatiSoftware/Sourcetrail)
+    - [PCSX2 - The Playstation 2 Emulator](https://github.com/PCSX2/pcsx2)
+    - [dolphin - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.](https://github.com/dolphin-emu/dolphin)
+    - [cpp-httplib - A C++ header-only HTTP/HTTPS server and client library](https://github.com/yhirose/cpp-httplib)
+    - [MuseScore - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!](https://github.com/musescore/MuseScore)
+    - [MyTinySTL - Achieve a tiny STL in C++11](https://github.com/Alinshans/MyTinySTL)
+    - [Open3D: A Modern Library for 3D Data Processing](https://github.com/isl-org/Open3D)
+    - [Stockfish - A free and strong UCI chess engine](https://github.com/official-stockfish/Stockfish)
+    - [pcl - Point Cloud Library (PCL)](https://github.com/PointCloudLibrary/pcl)
+    - [entt - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more](https://github.com/skypjack/entt)
+    - [Video-Encode - Encodes a file into a video format to store on a cloud video hosting service](https://github.com/Brendan-Kirtlan/Video-Encode)
     - awesome
         - https://github.com/fffaraz/awesome-cpp
         - https://github.com/uhub/awesome-cpp
@@ -1315,10 +1417,11 @@ Also refer to [## Data](#data)
         - https://github.com/rigtorp/awesome-modern-cpp
         - https://github.com/p-ranav/awesome-hpp
         - https://github.com/AnthonyCalandra/modern-cpp-features
+        - [interview - 📚 Summary of basic knowledge of C/C++ technical interviews, including language, program library, data structure, algorithm, system, network, link loading library and other knowledge as well as interview experience, recruitment, internal referral and other information. This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation…](https://github.com/huihut/interview)
+        - [awesome-cpp-cn - Chinese version of C++ resources, standard library, web application framework, artificial intelligence, database, image processing, machine learning, logging, code analysis, etc. It is maintained and updated by the "Open Source Outpost" and "CPP Developer" WeChat official account teams.](https://github.com/jobbole/awesome-cpp-cn)
     - best practices
         - https://github.com/cpp-best-practices/cppbestpractices
         - https://github.com/cpp-best-practices
-        - https://github.com/changkun/modern-cpp-tutorial
         - https://github.com/QuantlabFinancial/cpp_tip_of_the_week
         - https://github.com/facontidavide/CPP_Optimizations_Diary
         - https://github.com/rachitiitr/modern-cpp-tricks
@@ -1326,7 +1429,10 @@ Also refer to [## Data](#data)
     - cheatsheets
         - 
     - tutorials
-        - 
+        - [CPlusPlusThings - C++ things](https://github.com/Light-City/CPlusPlusThings)
+        - [modern-cpp-tutorial - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://github.com/changkun/modern-cpp-tutorial)
+        - [tinyrenderer - A brief computer graphics / rendering course](https://github.com/ssloy/tinyrenderer)
+        - [cmake-examples - Useful CMake Examples](https://github.com/ttroy50/cmake-examples)
     - checklists
         - https://github.com/jsjtzyy/LeetCode/blob/master/C%2B%2B%20cheat%20sheet%20for%20interview
 - misc
@@ -1396,6 +1502,8 @@ Also refer to [## Data](#data)
     - https://github.com/buraksezer/consistent
     - XTLS + REALITY
         - https://github.com/XTLS/REALITY
+        - [Xray-core - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.](https://github.com/XTLS/Xray-core)
+        - [sing-box - The universal proxy platform](https://github.com/SagerNet/sing-box)
         - https://github.com/SasukeFreestyle/XTLS-Iran-Reality
         - https://github.com/chika0801/Xray-examples/
         - https://github.com/aleskxyz/reality-ezpz/
@@ -1421,6 +1529,10 @@ Also refer to [## Data](#data)
     - [zap - Blazing fast, structured, leveled logging in Go.](https://github.com/uber-go/zap)
     - [syncthing - Open Source Continuous File Synchronization](https://github.com/syncthing/syncthing)
     - [incubator-answer - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Answer.](https://github.com/apache/incubator-answer)
+    - [v2ray-core - A platform for building proxies to bypass network restrictions. v2ray](https://github.com/v2ray/v2ray-core)
+    - [v2ray-core - A platform for building proxies to bypass network restrictions. v2fly](https://github.com/v2fly/v2ray-core)
+    - [ko - Build and deploy Go applications](https://github.com/ko-build/ko)
+    - [clash-rev - Continuation of Clash core project](https://github.com/MerlinKodo/clash-rev)
     - https://github.com/gothinkster/golang-gin-realworld-example-app
     - awesome
         - https://github.com/avelino/awesome-go
@@ -1450,6 +1562,7 @@ Also refer to [## Data](#data)
         - https://www.arp242.net/go-testing-style.html
         - https://dmitri.shuralyov.com/idiomatic-go#use-consistent-spelling-of-certain-words
         - https://google.github.io/styleguide/go/best-practices.html
+        - [go-blueprint - Go-blueprint allows users to spin up a quick Go project using a popular framework](https://github.com/Melkeydev/go-blueprint)
     - cheatsheets
         - 
     - tutorials
@@ -1802,6 +1915,7 @@ Also refer to [## Data](#data)
         - https://github.com/SaeidDadkhah/clean-arch-example
         - [Learning RxJava for Android by example](https://github.com/kaushikgopal/RxJava-Android-Samples)
         - [Spring Reactor hands-on training (3 days)](https://github.com/nurkiewicz/reactor-workshop)
+        - [spring-reading - Covers the core concepts and key functions of the Spring framework, including the use of Inversion of Control (IOC) containers, the principles and practices of Aspect-Oriented Programming (AOP), the methods and implementation of transaction management, and the process and controller working mechanisms of Spring MVC. As well as in-depth research on data access, security, Boot automatic configuration, etc. in Spring. In addition, it also includes the application of Spring's event mechanism, advanced topics such as caching abstraction and reactive programming, as well as an in-depth discussion of Spring source code programming style and design patterns.](https://github.com/xuchengsheng/spring-reading)
     - checklists
         - [Java Fundamentals Checklist](https://github.com/LawrenceB5477/Java-Fundamentals-Checklist)
         - [A checklist for building Java + Angular/React web applications in the correct way](https://github.com/shekhargulati/building-java-web-apps-checklist)
@@ -1834,6 +1948,7 @@ Also refer to [## Data](#data)
 - static method, static class, class attribute, instance attribute, class method, instance method, methods and runtime complexity: \[list, reversed, set, unordered_set, stack, queue, deque, slot, namedtuple, tuple, dict, unordered_dict], set: \[&, |], &, |, ^, !, yield, generator, decorator, mixin, defaultdict, lambda functions, functional programming, object-oriented programming concept of encapsulation, abstraction, multi inheritance, doctype, PEP 8 coding style, python2 vs 3, numpy, datetime, seeking and scanning a file, os, sys, set_printoptions, python deprecation warnings, call by ref, call by value, is vs ===, compare by ref or value, np.array_equal(a,b), linalg.eig() and .matmul(), linalg.inv() and .dot(), linalg.det() and .dot(), linalg.inv() and .eye(), Series and DataFrames, string is immutable?, zip, enumerate, python data types, double and long data types, (256).bit_length(), remove vs pop, itertools, pathlib, decorators, map, filter, zip, lambda, breakpoint
 - None|T vs Option[T]
 - github
+    - [cython - The most widely used Python to C compiler](https://github.com/cython/cython)
     - https://github.com/tiangolo/fastapi
         - https://github.com/tiangolo
     - https://github.com/python-mode/python-mode
@@ -1853,6 +1968,7 @@ Also refer to [## Data](#data)
     - https://github.com/astral-sh/ruff
     - https://github.com/python-attrs/attrs
     - [yt-dlp - A youtube-dl fork with additional features and fixes](A youtube-dl fork with additional features and fixes)
+    - [dagster - An orchestration platform for the development, production, and observation of data assets.](https://github.com/dagster-io/dagster)
     - awesome
         - https://github.com/vinta/awesome-python
         - https://github.com/mahmoud/awesome-python-applications
@@ -2043,6 +2159,7 @@ Also refer to [## Data](#data)
     - [Linux vs Unix](https://twitter.com/BendikMatej/status/1575796900401278976)
     - https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs
 - github
+    - [Linux kernel source tree](https://github.com/torvalds/linux)
     - https://github.com/yhzhang0128/egos-2000
     - https://github.com/tpm2-software
     - https://github.com/1Panel-dev/1Panel
@@ -2061,6 +2178,7 @@ Also refer to [## Data](#data)
 
 ## DevOps
 - kubernetes
+    - https://github.com/kubernetes/kubernetes
     - Sidecar/Operator/ServiceMesh
     - OOM or SoW error
     - https://cloud.google.com/learn/what-is-istio
@@ -2072,6 +2190,7 @@ Also refer to [## Data](#data)
     - https://github.com/kubernetes-sigs/external-dns
     - https://github.com/rook/rook
     - [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
+    - [theByteBook - Published works are open source. In-depth explanation of cloud-native related technologies such as kernel network, Kubernetes, ServiceMesh, and containers. Practice-tested DevOps and SRE guides. If you find any errors, please raise an issue.](https://github.com/isno/theByteBook)
 - docker
 - prometheus
     - advanced prometheus queries
@@ -2123,6 +2242,7 @@ Also refer to [## Data](#data)
     - https://github.com/apex/up
     - https://github.com/aws/aws-sam-cli
     - [در ایران AWS ده روش یادگیری](https://www.youtube.com/watch?v=WXwZ33Ntss8)
+    - [aws-doc-sdk-examples - Welcome to the AWS Code Examples Repository. This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.](https://github.com/awsdocs/aws-doc-sdk-examples)
 - azure
     - https://learn.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-patterns
 - google cloud platform (gcp)
@@ -2180,6 +2300,7 @@ Also refer to [## Data](#data)
     - https://github.com/nvim-lua/kickstart.nvim
     - [nvim-lint - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.](https://github.com/mfussenegger/nvim-lint)
     - [LazyVim - Neovim config for the lazy](https://github.com/LazyVim/LazyVim)
+    - [dotfiles-public](https://github.com/craftzdog/dotfiles-public)
     - awesome
         - https://github.com/mhinz/vim-galore
         - https://github.com/rockerBOO/awesome-neovim
@@ -2232,6 +2353,8 @@ Also refer to [## Data](#data)
 - scrum
 - kanban
 - jira
+- confluence
+- bitbucket
 - github
     - awesome
         - 
@@ -2279,6 +2402,7 @@ Also refer to [## Data](#data)
 
 ## Books
 - https://github.com/EbookFoundation/free-programming-books
+- https://github.com/forthespada/CS-Books
 - Designing Data-Intensive Applications
     - https://martin.kleppmann.com/
 - Clean Code
@@ -2321,6 +2445,7 @@ Also refer to [## Data](#data)
 - https://blog.pragmaticengineer.com/holiday-tech-book-recommendations/
 - https://www.geeksforgeeks.org/10-best-books-for-database-administrators-and-developers/
 - https://udemyiran.com/product/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d9%84%db%8c%d9%86%d9%88%da%a9%d8%b3-%d8%a7%d8%b2-%d8%b5%d9%81%d8%b1-%d8%a8%d9%87-%d8%b5%d8%af/
+- [milewski-ctfp-pdf - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source](https://github.com/hmemcpy/milewski-ctfp-pdf)
 
 
 ## Github Awesome
@@ -2346,6 +2471,9 @@ Also refer to [## Data](#data)
 - [RemoveAdblockThing - Removes The "Ad blocker are not allowed on Youtube"](https://github.com/TheRealJoelmatic/RemoveAdblockThing)
 - [fadblock - Friendly Adblock for YouTube: A fast, lightweight, and undetectable YouTube Ads Blocker for Chrome, Opera and Firefox.](https://github.com/0x48piraj/fadblock)
 - [computer-science - 🎓 Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
+- [CS-Notes - 📚 Essential basic knowledge for technical interviews, Leetcode, computer operating system, computer network, system design](https://github.com/CyC2018/CS-Notes)
+- [CS-Base - Illustrated illustrations of computer networks, operating systems, computer components, and databases, with a total of 1,000 pictures + 500,000 words. It breaks down the obscure basic computer knowledge and makes the world free of difficult eight-part essays! 🚀 Read online: https://xiaolincoding.com](https://github.com/xiaolincoder/CS-Base)
+- [cs-self-learning - Computer self-study guide](https://github.com/PKUFlyingPig/cs-self-learning)
 
 
 ## Github Best Practices
@@ -2377,6 +2505,8 @@ Also refer to [## Data](#data)
     - [zfs - OpenZFS on Linux and FreeBSD](https://github.com/openzfs/zfs)
     - [lvgl - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.](https://github.com/lvgl/lvgl)
     - [obs-studio - OBS Studio - Free and open source software for live streaming and screen recording]
+    - [smallchat - A minimal programming example for a chat server](https://github.com/antirez/smallchat)
+    - [webview - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).](https://github.com/webview/webview)
     - awesome
         - 
     - best practices
@@ -2465,6 +2595,9 @@ Also refer to [## Data](#data)
     - [Source code of Ferrocene, safety-critical Rust toolchain](https://github.com/ferrocene/ferrocene)
     - [rerun - Visualize streams of multimodal data. Fast, easy to use, and simple to integrate. Built in Rust using egui.](https://github.com/rerun-io/rerun)
     - [helix - A post-modern modal text editor.](https://github.com/helix-editor/helix)
+    - [tailspin - 🌀 A log file highlighter](https://github.com/bensadeh/tailspin)
+    - [sshx - Fast, collaborative live terminal sharing over the web](https://github.com/ekzhang/sshx)
+    - [vaultwarden - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs](https://github.com/dani-garcia/vaultwarden)
     - awesome
         - https://github.com/rust-unofficial/awesome-rust
         - https://github.com/rustlang-cn/rusty-book
@@ -2515,6 +2648,7 @@ Also refer to [## Data](#data)
     - [node - Node.js JavaScript runtime ✨🐢🚀✨](https://github.com/nodejs/node)
     - [Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.](https://github.com/TheAlgorithms/JavaScript)
     - [next.js - The React Framework](https://github.com/vercel/next.js)
+    - [svelte - Cybernetically enhanced web apps](https://github.com/sveltejs/svelte)
     - https://github.com/trekhleb/javascript-algorithms
     - https://github.com/axios/axios
     - https://github.com/artilleryio/artillery
@@ -2532,6 +2666,9 @@ Also refer to [## Data](#data)
     - [homepage - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.](https://github.com/gethomepage/homepage)
     - [pino - 🌲 super fast, all natural json logger](https://github.com/pinojs/pino)
     - [FreeTube - An Open Source YouTube app for privacy](https://github.com/FreeTubeApp/FreeTube)
+    - [OpenClash - A Clash Client For OpenWrt](https://github.com/vernesong/OpenClash)
+    - [reveal.js - The HTML Presentation Framework](https://github.com/hakimel/reveal.js)
+    - [uptime-kuma - A fancy self-hosted monitoring tool](https://github.com/louislam/uptime-kuma)
     - awesome
         - 
     - best practices
@@ -2549,9 +2686,11 @@ Also refer to [## Data](#data)
 - github
     - https://github.com/nestjs/nest
     - [vue - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core](https://github.com/vuejs/vue)
+    - [angular - The modern web developer’s platform](https://github.com/angular/angular)
     - https://github.com/dotenv-org/dotenv-vault
     - https://github.com/owncast/owncast
     - [nextui - Beautiful, fast and modern React UI library.](https://github.com/nextui-org/nextui)
+    - [refine - A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty. 🌟 Star to support our work!](https://github.com/refinedev/refine)
     - https://github.com/vercel/commerce
     - https://github.com/shadcn-ui/ui
     - https://github.com/logto-io/logto
@@ -2580,6 +2719,13 @@ Also refer to [## Data](#data)
     - [drizzle-orm - TypeScript ORM that feels like writing SQL.](https://github.com/drizzle-team/drizzle-orm)
     - [fluentui - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.](https://github.com/microsoft/fluentui)
     - [leerob.io - ✨ My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.](https://github.com/leerob/leerob.io)
+    - [yacd - Yet Another Clash Dashboard](https://github.com/haishanh/yacd)
+    - [clash-verge - A Clash GUI based on tauri. Supports Windows, macOS and Linux.](https://github.com/zzzgydi/clash-verge)
+    - [compiler-explorer - Run compilers interactively from your web browser and interact with the assembly](https://github.com/compiler-explorer/compiler-explorer)
+    - [lx-music-mobile - A music software developed based on React native](https://github.com/lyswhut/lx-music-mobile)
+    - [tldraw - a very good whiteboard](https://github.com/tldraw/tldraw)
+    - [make-real-starter - Make it real](https://github.com/tldraw/make-real-starter)
+    - [digitalhippo - A Modern Fullstack E-Commerce Marketplace for Digital Products](https://github.com/joschan21/digitalhippo)
     - awesome
         - 
     - best practices
@@ -2625,6 +2771,8 @@ Also refer to [## Data](#data)
 
 ## Kotlin
 - github
+    - [v2rayNG - A V2Ray client for Android, support Xray core and v2fly core](https://github.com/2dust/v2rayNG)
+    - [NekoBoxForAndroid - NekoBox for Android / sing-box / universal proxy toolchain for Android](https://github.com/MatsuriDayo/NekoBoxForAndroid)
     - awesome
         - [An awesome list that curates the best Kotlin Multiplatform libraries, tools and more.](https://github.com/terrakok/kmp-awesome)
     - best practices
