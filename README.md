@@ -233,7 +233,9 @@ This repository contains a list of references.
         - [Awesome-GPTs - Curated list of awesome GPTs 👍.](https://github.com/ai-boost/Awesome-GPTs)
         - [gpt-crawler - Crawl a site to generate knowledge files to create your own custom GPT from a URL](https://github.com/BuilderIO/gpt-crawler)
         - [SillyTavern - LLM Frontend for Power Users.](https://github.com/SillyTavern/SillyTavern)
+        - [GPTs - leaked prompts of GPTs](https://github.com/linexjlin/GPTs)
         - [rags](https://github.com/run-llama/rags)
+        - [chatgpt_system_prompt - store all agent's system prompt](https://github.com/LouisShark/chatgpt_system_prompt)
     - LLAMA
         - https://github.com/facebookresearch/llama
         - https://github.com/karpathy/llama2.c
@@ -303,6 +305,7 @@ This repository contains a list of references.
         - [flowty-realtime-lcm-canvas - A realtime sketch to image demo using LCM and the gradio library.](https://github.com/flowtyone/flowty-realtime-lcm-canvas)
         - [krita-ai-diffusion - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.](https://github.com/Acly/krita-ai-diffusion)
         - [Video-LLaVA - Video-LLaVA: Learning United Visual Representation by Alignment Before Projection](https://github.com/PKU-YuanGroup/Video-LLaVA)
+        - [multipleWindow3dScene - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage](https://github.com/bgstaal/multipleWindow3dScene)
     - audio
         - https://github.com/suno-ai/bark
         - https://github.com/openai/whisper
@@ -388,7 +391,7 @@ This repository contains a list of references.
     - https://github.com/evidentlyai/evidently
     - https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
     - https://github.com/GoogleCloudPlatform/generative-ai
-    - https://github.com/joonspk-research/generative_agents
+    - https://github.com/joonspk-research/generae]ive_agents
     - https://github.com/Azure-Samples/azure-search-openai-demo
     - https://github.com/normal-computing/outlines
     - https://github.com/a16z-infra/ai-town
@@ -745,6 +748,7 @@ This repository contains a list of references.
         - [Awesome-GPT-Agents - A curated list of GPT agents for cybersecurity](https://github.com/fr0gger/Awesome-GPT-Agents)
     - best practices
         - https://github.com/OWASP/wstg
+        - [Network-segmentation-cheat-sheet - Best practices for segmentation of the corporate network of any company](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet)
     - cheatsheets
         - https://github.com/OWASP/CheatSheetSeries
         - [OSCP Cheatsheet by Sai Sathvik](https://github.com/saisathvik1/OSCP-Cheatsheet)
@@ -972,6 +976,8 @@ Also refer to [##System Design](#system-design).
     - [Apache Ignite](https://github.com/apache/ignite)
 - clickhouse
     - https://clickhouse.com/docs/en/concepts/why-clickhouse-is-so-fast
+- starrocks
+    - https://github.com/StarRocks/starrocks
 - conferences
     - Academic conferences
     - [CIDR](https://www.cidrdb.org/)
@@ -1771,6 +1777,8 @@ Also refer to [## Data](#data)
     - testing
         - https://github.com/spockframework/spock
     - webframework
+        - https://github.com/spring-projects/
+            - https://github.com/spring-projects/spring-boot
         - https://github.com/scalatra/scalatra
         - https://github.com/javalin/javalin
         - https://github.com/quarkusio/quarkus
@@ -2474,6 +2482,7 @@ Also refer to [## Data](#data)
 - [CS-Notes - 📚 Essential basic knowledge for technical interviews, Leetcode, computer operating system, computer network, system design](https://github.com/CyC2018/CS-Notes)
 - [CS-Base - Illustrated illustrations of computer networks, operating systems, computer components, and databases, with a total of 1,000 pictures + 500,000 words. It breaks down the obscure basic computer knowledge and makes the world free of difficult eight-part essays! 🚀 Read online: https://xiaolincoding.com](https://github.com/xiaolincoder/CS-Base)
 - [cs-self-learning - Computer self-study guide](https://github.com/PKUFlyingPig/cs-self-learning)
+- [app-ideas - A Collection of application ideas which can be used to improve your coding skills.](https://github.com/florinpop17/app-ideas)
 
 
 ## Github Best Practices
@@ -2507,6 +2516,7 @@ Also refer to [## Data](#data)
     - [obs-studio - OBS Studio - Free and open source software for live streaming and screen recording]
     - [smallchat - A minimal programming example for a chat server](https://github.com/antirez/smallchat)
     - [webview - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).](https://github.com/webview/webview)
+    - [botlib - C Telegram bot framework](https://github.com/antirez/botlib)
     - awesome
         - 
     - best practices
@@ -2726,6 +2736,7 @@ Also refer to [## Data](#data)
     - [tldraw - a very good whiteboard](https://github.com/tldraw/tldraw)
     - [make-real-starter - Make it real](https://github.com/tldraw/make-real-starter)
     - [digitalhippo - A Modern Fullstack E-Commerce Marketplace for Digital Products](https://github.com/joschan21/digitalhippo)
+    - [Reactive-Resume - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!](https://github.com/AmruthPillai/Reactive-Resume)
     - awesome
         - 
     - best practices
